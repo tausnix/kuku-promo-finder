@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Kuku's input pack is confidential: never commit the scripts, or anything that quotes them.
+# Run outputs (promos, prompts, raw replies, reviews) are shared privately, not in this repo.
+data/
+*.zip
+outputs/
+.llm_cache/
+
+# Python
+__pycache__/
+*.pyc
