@@ -10,7 +10,9 @@ from __future__ import annotations
 import csv
 import io
 import json
+import os
 import tempfile
+from datetime import datetime
 from pathlib import Path
 
 import streamlit as st
@@ -20,8 +22,18 @@ from llm_client import PROVIDERS, LLMError
 from parser import load_episodes, BlockIndex
 from processor import run, parse_episode_range
 
+# Streamlit Community Cloud injects secrets via st.secrets, not os.environ.
+# Bridge them before the pipeline reads its API keys (llm_client reads env vars).
+try:
+    for _key, _value in st.secrets.items():
+        if isinstance(_value, str):
+            os.environ.setdefault(_key, _value)
+except Exception:  # no secrets.toml locally, or an older Streamlit
+    pass
+
 load_dotenv()
 OUT = ROOT / "outputs"
+DEMO = ROOT / "demo"
 REJECT_REASONS = ["weak hook", "no real cliffhanger", "needs too much context", "spoils a big twist",
                   "bad cut point", "duplicate", "other"]
 st.set_page_config(page_title="Promo Finder", layout="wide")
@@ -38,7 +50,8 @@ def load_run(run_dir: str):
 @st.cache_resource(show_spinner=False)
 def load_index(input_path: str):
     try:
-        return BlockIndex(load_episodes(input_path))
+        p = Path(input_path)
+        return BlockIndex(load_episodes(p if p.is_absolute() else ROOT / p))
     except Exception:
         return None
 
@@ -49,15 +62,31 @@ def load_reviews(d: Path) -> dict:
 
 
 def runs() -> list[Path]:
-    return sorted((p.parent for p in OUT.glob("*/promos_ranked.json")), key=lambda p: p.stat().st_mtime, reverse=True)
+    found = list(OUT.glob("*/promos_ranked.json")) + list(DEMO.glob("*/promos_ranked.json"))
+    return sorted({p.parent for p in found}, key=lambda p: p.stat().st_mtime, reverse=True)
+
+
+# The deployed app has no API key until one is added in Streamlit secrets, so pick a
+# provider that can actually run instead of defaulting to a provider that will fail.
+KEY_ENV = {"gemini": "GEMINI_API_KEY", "groq": "GROQ_API_KEY", "huggingface": "HUGGING_FACE_API_KEY",
+           "openai": "OPENAI_API_KEY", "anthropic": "ANTHROPIC_API_KEY"}
+
+
+def default_provider() -> str:
+    return next((name for name, env in KEY_ENV.items() if os.getenv(env)), "mock")
 
 
 # ---------------------------------------------------------------- sidebar: run the pipeline
 with st.sidebar:
     st.header("Run on new scripts")
     up = st.file_uploader("Upload a .zip or .txt screenplay", type=["zip", "txt"])
-    path_in = st.text_input("...or a local folder / .zip path")
-    provider = st.selectbox("Provider", list(PROVIDERS), index=list(PROVIDERS).index("gemini"))
+    path_in = st.text_input("...or a local folder / .zip path (local runs only)")
+    providers = list(PROVIDERS)
+    _default = default_provider()
+    provider = st.selectbox("Provider", providers, index=providers.index(_default))
+    if _default == "mock":
+        st.caption("No API key found, so the offline `mock` rules baseline is selected. Add "
+                   "`GEMINI_API_KEY` (or another provider key) in the app's Streamlit secrets to use an LLM.")
     model = st.text_input("Model (blank = provider default)")
     eps = st.text_input("Episodes (blank = all, e.g. 1-5)")
     if st.button("Find promos", type="primary"):
@@ -70,7 +99,8 @@ with st.sidebar:
             st.error("Upload a file or give a path.")
         else:
             cfg = PipelineConfig(provider=provider, model=model or None)
-            out = OUT / f"{provider}_{Path(src).stem[:30].replace(' ', '_')}"
+            stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            out = OUT / f"{provider}_{Path(src).stem[:30].replace(' ', '_')}_{stamp}"
             bar = st.progress(0.0, "starting")
             try:
                 run(src, out, cfg, parse_episode_range(eps), progress=lambda n, t, m: bar.progress(n / t, m))

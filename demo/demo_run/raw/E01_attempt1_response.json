@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: confrontation at E01-006\", \"segments\": [{\"start_id\": \"E01-006\", \"end_id\": \"E01-010\"}], \"hook_id\": \"E01-006\", \"hook_quote\": \"Get out before I throw you out myself.\", \"cliffhanger_id\": \"E01-010\", \"cliffhanger_quote\": \"What did you just say?\", \"hook_type\": \"confrontation\", \"why\": \"Rules only: hook signals [physical, confrontation, confrontation, delivery:rage], cliff signals [open question, unanswered question].\", \"scores\": {\"hook\": 5, \"cliffhanger\": 3, \"standalone\": 3}, \"context_needed\": \"\"}, {\"title\": \"Rule pick: confrontation at E01-003\", \"segments\": [{\"start_id\": \"E01-003\", \"end_id\": \"E01-010\"}], \"hook_id\": \"E01-003\", \"hook_quote\": \"How dare you!\", \"cliffhanger_id\": \"E01-010\", \"cliffhanger_quote\": \"What did you just say?\", \"hook_type\": \"confrontation\", \"why\": \"Rules only: hook signals [confrontation, delivery:shock, exclamation], cliff signals [open question, unanswered question].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 3, \"standalone\": 3}, \"context_needed\": \"\"}, {\"title\": \"Rule pick: physical at E01-012\", \"segments\": [{\"start_id\": \"E01-012\", \"end_id\": \"E01-015\"}], \"hook_id\": \"E01-012\", \"hook_quote\": \"Mara grabs the envelope and tears it open.\", \"cliffhanger_id\": \"E01-015\", \"cliffhanger_quote\": \"Who would do that?\", \"hook_type\": \"physical\", \"why\": \"Rules only: hook signals [physical], cliff signals [unanswered question].\", \"scores\": {\"hook\": 2, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.0,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "32dd3c55b3d1176e7f6bb969b04fa78d3358b97a74c7e381149bb96678fd9c41"
+}

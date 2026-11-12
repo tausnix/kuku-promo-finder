@@ -1,0 +1,20 @@
+[theme]
+primaryColor = "#0F766E"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F8FAFC"
+textColor = "#0F172A"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+# Must stay true: in non-headless mode Streamlit blocks on an interactive
+# "Enter your email" prompt when no credentials file exists (Streamlit Cloud
+# has none), so the process never binds its port and the deploy fails with
+# "Error running app.".
+headless = true
+maxUploadSize = 100

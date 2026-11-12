@@ -1,0 +1,29 @@
+[
+  {
+    "episode": 1,
+    "file": "episode-001.txt",
+    "duration": 134.0,
+    "scenes": 1,
+    "blocks": 19,
+    "content_blocks": 18,
+    "parse_warnings": []
+  },
+  {
+    "episode": 2,
+    "file": "episode-002.txt",
+    "duration": 150.0,
+    "scenes": 1,
+    "blocks": 21,
+    "content_blocks": 20,
+    "parse_warnings": []
+  },
+  {
+    "episode": 3,
+    "file": "episode-003.txt",
+    "duration": 160.0,
+    "scenes": 1,
+    "blocks": 22,
+    "content_blocks": 21,
+    "parse_warnings": []
+  }
+]

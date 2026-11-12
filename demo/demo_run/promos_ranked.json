@@ -1,0 +1,668 @@
+[
+  {
+    "title": "Rule pick: confrontation at E01-006",
+    "episodes": [
+      1
+    ],
+    "segments": [
+      {
+        "episode": 1,
+        "start_id": "E01-006",
+        "end_id": "E01-010",
+        "start_s": 22.0,
+        "end_s": 62.0,
+        "start": "00:22.00",
+        "end": "01:02.00",
+        "duration_s": 40.0
+      }
+    ],
+    "total_duration_s": 40.0,
+    "hook": {
+      "line_id": "E01-006",
+      "episode": 1,
+      "timestamp": "00:22.00",
+      "speaker": "VERA",
+      "script_text": "\"Get out before I throw you out myself.\"",
+      "llm_quote": "Get out before I throw you out myself.",
+      "offset_s": 0.0
+    },
+    "cliffhanger": {
+      "line_id": "E01-010",
+      "episode": 1,
+      "timestamp": "00:54.00",
+      "speaker": "MARA",
+      "script_text": "\"What did you just say?\"",
+      "llm_quote": "What did you just say?",
+      "gap_to_end_s": 0.0
+    },
+    "hook_type": "confrontation",
+    "why": "Rules only: hook signals [physical, confrontation, confrontation, delivery:rage], cliff signals [open question, unanswered question].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 5,
+      "cliffhanger": 3,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 8.5,
+      "hook_reasons": [
+        "physical",
+        "confrontation",
+        "confrontation",
+        "delivery:rage"
+      ],
+      "cliff": 4.5,
+      "cliff_reasons": [
+        "open question",
+        "unanswered question"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E01-P2",
+    "score": 85.0,
+    "score_breakdown": {
+      "llm_hook": 1.0,
+      "llm_cliffhanger": 0.5,
+      "llm_standalone": 0.5,
+      "rule_hook": 1.0,
+      "rule_cliff": 0.75,
+      "duration_fit": 1.0,
+      "hook_speed": 1.0,
+      "funnel": 1.0
+    },
+    "duplicate_of": null,
+    "rerank_pos": 3.5,
+    "rerank_note": "",
+    "rank": 1,
+    "rank_reason": "side-by-side #3.5; hook 5/5 (confrontation, at +0.0s); cliffhanger 3/5; standalone 3/5; 40s; early episode E01, no spoilers",
+    "review_status": "ready_for_review",
+    "blend_pos": 2.25
+  },
+  {
+    "title": "Rule pick: confrontation at E03-019",
+    "episodes": [
+      3
+    ],
+    "segments": [
+      {
+        "episode": 3,
+        "start_id": "E03-019",
+        "end_id": "E03-022",
+        "start_s": 134.0,
+        "end_s": 160.0,
+        "start": "02:14.00",
+        "end": "02:40.00",
+        "duration_s": 26.0
+      }
+    ],
+    "total_duration_s": 26.0,
+    "hook": {
+      "line_id": "E03-019",
+      "episode": 3,
+      "timestamp": "02:14.00",
+      "speaker": "VERA",
+      "script_text": "\"Both of you, get out of my house!\"",
+      "llm_quote": "Both of you, get out of my house!",
+      "offset_s": 0.0
+    },
+    "cliffhanger": {
+      "line_id": "E03-022",
+      "episode": 3,
+      "timestamp": "02:36.00",
+      "speaker": "MARA",
+      "script_text": "\"Who signed this?\"",
+      "llm_quote": "Who signed this?",
+      "gap_to_end_s": 0.0
+    },
+    "hook_type": "confrontation",
+    "why": "Rules only: hook signals [confrontation, delivery:rage, exclamation], cliff signals [unanswered question, episode ending].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 4,
+      "cliffhanger": 3,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 5.5,
+      "hook_reasons": [
+        "confrontation",
+        "delivery:rage",
+        "exclamation"
+      ],
+      "cliff": 3.5,
+      "cliff_reasons": [
+        "unanswered question",
+        "episode ending"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E03-P3",
+    "score": 73.3,
+    "score_breakdown": {
+      "llm_hook": 0.75,
+      "llm_cliffhanger": 0.5,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.69,
+      "rule_cliff": 0.58,
+      "duration_fit": 1.0,
+      "hook_speed": 1.0,
+      "funnel": 1.0
+    },
+    "duplicate_of": null,
+    "rerank_pos": 3.5,
+    "rerank_note": "",
+    "rank": 2,
+    "rank_reason": "side-by-side #3.5; hook 4/5 (confrontation, at +0.0s); cliffhanger 3/5; standalone 3/5; 26s; early episode E03, no spoilers",
+    "review_status": "ready_for_review",
+    "blend_pos": 2.75
+  },
+  {
+    "title": "Rule pick: physical at E03-009",
+    "episodes": [
+      3
+    ],
+    "segments": [
+      {
+        "episode": 3,
+        "start_id": "E03-009",
+        "end_id": "E03-015",
+        "start_s": 54.0,
+        "end_s": 110.0,
+        "start": "00:54.00",
+        "end": "01:50.00",
+        "duration_s": 56.0
+      }
+    ],
+    "total_duration_s": 56.0,
+    "hook": {
+      "line_id": "E03-009",
+      "episode": 3,
+      "timestamp": "00:54.00",
+      "speaker": "ACTION",
+      "script_text": "Elena yanks the drawer open and throws a file across the desk.",
+      "llm_quote": "Elena yanks the drawer open and throws a file across the desk.",
+      "offset_s": 0.0
+    },
+    "cliffhanger": {
+      "line_id": "E03-015",
+      "episode": 3,
+      "timestamp": "01:42.00",
+      "speaker": "ACTION",
+      "script_text": "The study door bursts in and a woman in a red coat steps inside.",
+      "llm_quote": "The study door bursts in and a woman in a red coat",
+      "gap_to_end_s": 0.0
+    },
+    "hook_type": "physical",
+    "why": "Rules only: hook signals [physical, physical], cliff signals [interruption].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 4,
+      "cliffhanger": 2,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 5.0,
+      "hook_reasons": [
+        "physical",
+        "physical"
+      ],
+      "cliff": 2.0,
+      "cliff_reasons": [
+        "interruption"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E03-P2",
+    "score": 62.9,
+    "score_breakdown": {
+      "llm_hook": 0.75,
+      "llm_cliffhanger": 0.25,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.62,
+      "rule_cliff": 0.33,
+      "duration_fit": 0.63,
+      "hook_speed": 1.0,
+      "funnel": 1.0
+    },
+    "duplicate_of": null,
+    "rerank_pos": 3.5,
+    "rerank_note": "",
+    "rank": 3,
+    "rank_reason": "side-by-side #3.5; hook 4/5 (physical, at +0.0s); cliffhanger 2/5; standalone 3/5; 56s; early episode E03, no spoilers",
+    "review_status": "ready_for_review",
+    "blend_pos": 3.25
+  },
+  {
+    "title": "Rule pick: slap at E02-010",
+    "episodes": [
+      2
+    ],
+    "segments": [
+      {
+        "episode": 2,
+        "start_id": "E02-010",
+        "end_id": "E02-016",
+        "start_s": 60.0,
+        "end_s": 115.0,
+        "start": "01:00.00",
+        "end": "01:55.00",
+        "duration_s": 55.0
+      }
+    ],
+    "total_duration_s": 55.0,
+    "hook": {
+      "line_id": "E02-010",
+      "episode": 2,
+      "timestamp": "01:00.00",
+      "speaker": "ACTION",
+      "script_text": "Mara slaps the glass out of Vera's hand.",
+      "llm_quote": "Mara slaps the glass out of Vera's hand.",
+      "offset_s": 0.0
+    },
+    "cliffhanger": {
+      "line_id": "E02-016",
+      "episode": 2,
+      "timestamp": "01:47.00",
+      "speaker": "MARA",
+      "script_text": "\"Where is the money?\"",
+      "llm_quote": "Where is the money?",
+      "gap_to_end_s": 0.0
+    },
+    "hook_type": "slap",
+    "why": "Rules only: hook signals [slap], cliff signals [unanswered question].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 4,
+      "cliffhanger": 2,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 5.0,
+      "hook_reasons": [
+        "slap"
+      ],
+      "cliff": 1.5,
+      "cliff_reasons": [
+        "unanswered question"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E02-P2",
+    "score": 62.4,
+    "score_breakdown": {
+      "llm_hook": 0.75,
+      "llm_cliffhanger": 0.25,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.62,
+      "rule_cliff": 0.25,
+      "duration_fit": 0.67,
+      "hook_speed": 1.0,
+      "funnel": 1.0
+    },
+    "duplicate_of": null,
+    "rerank_pos": 3.5,
+    "rerank_note": "",
+    "rank": 4,
+    "rank_reason": "side-by-side #3.5; hook 4/5 (slap, at +0.0s); cliffhanger 2/5; standalone 3/5; 55s; early episode E02, no spoilers",
+    "review_status": "ready_for_review",
+    "blend_pos": 3.75
+  },
+  {
+    "title": "Rule pick: physical at E01-012",
+    "episodes": [
+      1
+    ],
+    "segments": [
+      {
+        "episode": 1,
+        "start_id": "E01-012",
+        "end_id": "E01-015",
+        "start_s": 70.0,
+        "end_s": 102.0,
+        "start": "01:10.00",
+        "end": "01:42.00",
+        "duration_s": 32.0
+      }
+    ],
+    "total_duration_s": 32.0,
+    "hook": {
+      "line_id": "E01-012",
+      "episode": 1,
+      "timestamp": "01:10.00",
+      "speaker": "ACTION",
+      "script_text": "Mara grabs the envelope and tears it open.",
+      "llm_quote": "Mara grabs the envelope and tears it open.",
+      "offset_s": 0.0
+    },
+    "cliffhanger": {
+      "line_id": "E01-015",
+      "episode": 1,
+      "timestamp": "01:34.00",
+      "speaker": "ELENA",
+      "script_text": "\"Who would do that?\"",
+      "llm_quote": "Who would do that?",
+      "gap_to_end_s": 0.0
+    },
+    "hook_type": "physical",
+    "why": "Rules only: hook signals [physical], cliff signals [unanswered question].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 2,
+      "cliffhanger": 2,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 3.0,
+      "hook_reasons": [
+        "physical"
+      ],
+      "cliff": 1.5,
+      "cliff_reasons": [
+        "unanswered question"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E01-P3",
+    "score": 53.2,
+    "score_breakdown": {
+      "llm_hook": 0.25,
+      "llm_cliffhanger": 0.25,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.38,
+      "rule_cliff": 0.25,
+      "duration_fit": 1.0,
+      "hook_speed": 1.0,
+      "funnel": 1.0
+    },
+    "duplicate_of": null,
+    "rerank_pos": 3.5,
+    "rerank_note": "",
+    "rank": 5,
+    "rank_reason": "side-by-side #3.5; hook 2/5 (physical, at +0.0s); cliffhanger 2/5; standalone 3/5; 32s; early episode E01, no spoilers",
+    "review_status": "ready_for_review",
+    "blend_pos": 4.25
+  },
+  {
+    "title": "Rule pick: physical at E02-002",
+    "episodes": [
+      2
+    ],
+    "segments": [
+      {
+        "episode": 2,
+        "start_id": "E02-002",
+        "end_id": "E02-006",
+        "start_s": 4.0,
+        "end_s": 36.0,
+        "start": "00:04.00",
+        "end": "00:36.00",
+        "duration_s": 32.0
+      }
+    ],
+    "total_duration_s": 32.0,
+    "hook": {
+      "line_id": "E02-002",
+      "episode": 2,
+      "timestamp": "00:04.00",
+      "speaker": "ACTION",
+      "script_text": "A glass shatters against the wall.",
+      "llm_quote": "A glass shatters against the wall.",
+      "offset_s": 0.0
+    },
+    "cliffhanger": {
+      "line_id": "E02-006",
+      "episode": 2,
+      "timestamp": "00:28.00",
+      "speaker": "MARA",
+      "script_text": "\"Paid by whom?\"",
+      "llm_quote": "Paid by whom?",
+      "gap_to_end_s": 0.0
+    },
+    "hook_type": "physical",
+    "why": "Rules only: hook signals [physical], cliff signals [unanswered question].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 2,
+      "cliffhanger": 2,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 3.0,
+      "hook_reasons": [
+        "physical"
+      ],
+      "cliff": 1.5,
+      "cliff_reasons": [
+        "unanswered question"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E02-P1",
+    "score": 53.2,
+    "score_breakdown": {
+      "llm_hook": 0.25,
+      "llm_cliffhanger": 0.25,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.38,
+      "rule_cliff": 0.25,
+      "duration_fit": 1.0,
+      "hook_speed": 1.0,
+      "funnel": 1.0
+    },
+    "duplicate_of": null,
+    "rerank_pos": 3.5,
+    "rerank_note": "",
+    "rank": 6,
+    "rank_reason": "side-by-side #3.5; hook 2/5 (physical, at +0.0s); cliffhanger 2/5; standalone 3/5; 32s; early episode E02, no spoilers",
+    "review_status": "ready_for_review",
+    "blend_pos": 4.75
+  },
+  {
+    "title": "Rule pick: confrontation at E01-003",
+    "episodes": [
+      1
+    ],
+    "segments": [
+      {
+        "episode": 1,
+        "start_id": "E01-003",
+        "end_id": "E01-010",
+        "start_s": 7.0,
+        "end_s": 62.0,
+        "start": "00:07.00",
+        "end": "01:02.00",
+        "duration_s": 55.0
+      }
+    ],
+    "total_duration_s": 55.0,
+    "hook": {
+      "line_id": "E01-003",
+      "episode": 1,
+      "timestamp": "00:07.00",
+      "speaker": "MARA",
+      "script_text": "\"How dare you!\"",
+      "llm_quote": "How dare you!",
+      "offset_s": 0.0
+    },
+    "cliffhanger": {
+      "line_id": "E01-010",
+      "episode": 1,
+      "timestamp": "00:54.00",
+      "speaker": "MARA",
+      "script_text": "\"What did you just say?\"",
+      "llm_quote": "What did you just say?",
+      "gap_to_end_s": 0.0
+    },
+    "hook_type": "confrontation",
+    "why": "Rules only: hook signals [confrontation, delivery:shock, exclamation], cliff signals [open question, unanswered question].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 4,
+      "cliffhanger": 3,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 6.5,
+      "hook_reasons": [
+        "confrontation",
+        "delivery:shock",
+        "exclamation"
+      ],
+      "cliff": 4.5,
+      "cliff_reasons": [
+        "open question",
+        "unanswered question"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E01-P1",
+    "score": 74.2,
+    "score_breakdown": {
+      "llm_hook": 0.75,
+      "llm_cliffhanger": 0.5,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.81,
+      "rule_cliff": 0.75,
+      "duration_fit": 0.67,
+      "hook_speed": 1.0,
+      "funnel": 1.0
+    },
+    "duplicate_of": "E01-P2",
+    "rerank_pos": null,
+    "rerank_note": "",
+    "rank": null,
+    "rank_reason": "duplicate of E01-P2",
+    "review_status": "duplicate"
+  },
+  {
+    "title": "Rule pick: confrontation at E03-008",
+    "episodes": [
+      3
+    ],
+    "segments": [
+      {
+        "episode": 3,
+        "start_id": "E03-008",
+        "end_id": "E03-013",
+        "start_s": 46.0,
+        "end_s": 94.0,
+        "start": "00:46.00",
+        "end": "01:34.00",
+        "duration_s": 48.0
+      }
+    ],
+    "total_duration_s": 48.0,
+    "hook": {
+      "line_id": "E03-008",
+      "episode": 3,
+      "timestamp": "00:46.00",
+      "speaker": "VERA",
+      "script_text": "\"Touch that drawer and I will disown you.\"",
+      "llm_quote": "Touch that drawer and I will disown you.",
+      "offset_s": 0.0
+    },
+    "cliffhanger": {
+      "line_id": "E03-013",
+      "episode": 3,
+      "timestamp": "01:26.00",
+      "speaker": "MARA",
+      "script_text": "\"Paid by you?\"",
+      "llm_quote": "Paid by you?",
+      "gap_to_end_s": 0.0
+    },
+    "hook_type": "confrontation",
+    "why": "Rules only: hook signals [confrontation, delivery:rage], cliff signals [unanswered question].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 3,
+      "cliffhanger": 2,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 4.5,
+      "hook_reasons": [
+        "confrontation",
+        "delivery:rage"
+      ],
+      "cliff": 1.5,
+      "cliff_reasons": [
+        "unanswered question"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E03-P1",
+    "score": 59.8,
+    "score_breakdown": {
+      "llm_hook": 0.5,
+      "llm_cliffhanger": 0.25,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.56,
+      "rule_cliff": 0.25,
+      "duration_fit": 0.9,
+      "hook_speed": 1.0,
+      "funnel": 1.0
+    },
+    "duplicate_of": "E03-P2",
+    "rerank_pos": null,
+    "rerank_note": "",
+    "rank": null,
+    "rank_reason": "duplicate of E03-P2",
+    "review_status": "duplicate"
+  }
+]

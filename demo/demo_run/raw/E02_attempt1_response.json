@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: slap at E02-010\", \"segments\": [{\"start_id\": \"E02-010\", \"end_id\": \"E02-016\"}], \"hook_id\": \"E02-010\", \"hook_quote\": \"Mara slaps the glass out of Vera's hand.\", \"cliffhanger_id\": \"E02-016\", \"cliffhanger_quote\": \"Where is the money?\", \"hook_type\": \"slap\", \"why\": \"Rules only: hook signals [slap], cliff signals [unanswered question].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}, {\"title\": \"Rule pick: physical at E02-002\", \"segments\": [{\"start_id\": \"E02-002\", \"end_id\": \"E02-006\"}], \"hook_id\": \"E02-002\", \"hook_quote\": \"A glass shatters against the wall.\", \"cliffhanger_id\": \"E02-006\", \"cliffhanger_quote\": \"Paid by whom?\", \"hook_type\": \"physical\", \"why\": \"Rules only: hook signals [physical], cliff signals [unanswered question].\", \"scores\": {\"hook\": 2, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.0,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "425a855b574ed66fc57b2ebf00ef4970657176bd87e21d11c900e4e4717d5994"
+}

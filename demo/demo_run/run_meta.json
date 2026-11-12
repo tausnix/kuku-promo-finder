@@ -1,0 +1,107 @@
+{
+  "show_title": "The Heiress Nobody Wanted (demo)",
+  "input": "demo/scripts",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "prompt_version": "promo-v2",
+  "run_at_utc": "2026-11-12T19:08:13+00:00",
+  "elapsed_s": 0.1,
+  "episodes_processed": [
+    1,
+    2,
+    3
+  ],
+  "stopped_early": null,
+  "rerank": {
+    "applied": true,
+    "avg_pos": {
+      "E01-P2": 3.5,
+      "E03-P3": 3.5,
+      "E03-P2": 3.5,
+      "E02-P2": 3.5,
+      "E01-P3": 3.5,
+      "E02-P1": 3.5
+    },
+    "log": [
+      {
+        "pass": 1,
+        "ok": true,
+        "error": null,
+        "missing_ids": 0,
+        "cached": false,
+        "latency_s": 0.0
+      },
+      {
+        "pass": 2,
+        "ok": true,
+        "error": null,
+        "missing_ids": 0,
+        "cached": false,
+        "latency_s": 0.0
+      }
+    ],
+    "before": [
+      "E01-P2",
+      "E03-P3",
+      "E03-P2",
+      "E02-P2",
+      "E01-P3",
+      "E02-P1"
+    ],
+    "orders": [
+      [
+        "E01-P2",
+        "E03-P3",
+        "E03-P2",
+        "E02-P2",
+        "E01-P3",
+        "E02-P1"
+      ],
+      [
+        "E02-P1",
+        "E01-P3",
+        "E02-P2",
+        "E03-P2",
+        "E03-P3",
+        "E01-P2"
+      ]
+    ],
+    "pass_disagreement": 3
+  },
+  "config": {
+    "provider": "mock",
+    "model": null,
+    "max_promos_per_episode": 3,
+    "max_attempts": 2,
+    "include_camera_lines": false,
+    "use_cache": true,
+    "min_interval_s": null,
+    "rerank_top_k": 20,
+    "rerank_passes": 2,
+    "rules": {
+      "min_duration_s": 20.0,
+      "max_duration_s": 60.0,
+      "hook_window_s": 3.0,
+      "cliff_window_s": 6.0,
+      "max_segments": 4,
+      "snap_tolerance_s": 1.5,
+      "max_quote_words": 25,
+      "min_quote_chars": 3,
+      "next_episode_context_s": 30.0
+    },
+    "weights": {
+      "llm_hook": 0.15,
+      "llm_cliffhanger": 0.12,
+      "llm_standalone": 0.13,
+      "rule_hook": 0.2,
+      "rule_cliff": 0.1,
+      "duration_fit": 0.1,
+      "hook_speed": 0.08,
+      "funnel": 0.12,
+      "warning_penalty": 3.0,
+      "max_per_episode_in_top": 2,
+      "rerank_weight": 0.5,
+      "top_n": 10
+    }
+  }
+}

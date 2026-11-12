@@ -1,0 +1,47 @@
+SHOW: The Heiress Nobody Wanted (demo)
+CURRENT_EPISODE: E01
+EPISODE_DURATION: 02:14.00
+LOGLINE: A maid learns the mansion she cleans belongs to her.
+CONTINUITY: Demo episode. All characters and dialogue are fictional.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E01-006: physical, confrontation, confrontation, delivery:rage
+- E01-003: confrontation, delivery:shock, exclamation
+- E01-004: accusation, humiliation, delivery:rage
+- E01-002: slap
+- E01-012: physical
+- E01-018: violence
+Possible cliffhangers:
+- E01-019: open question, unanswered question, episode ending
+- E01-010: open question, unanswered question
+- E01-011: threat/turn
+
+SCRIPT_LINES (camera directions omitted):
+E01-002 [00:04.00-00:07.00] ACTION: Vera slaps Mara across the face.
+E01-003 [00:07.00-00:10.00] DIALOGUE MARA (Shocked): "How dare you!"
+E01-004 [00:10.00-00:15.00] DIALOGUE VERA (Furious): "You are a worthless liar, and this house is done with you."
+E01-005 [00:15.00-00:22.00] DIALOGUE MARA: "I have cleaned your floors for ten years. That does not make me your property."
+E01-006 [00:22.00-00:30.00] DIALOGUE VERA (Furious): "Get out before I throw you out myself."
+E01-007 [00:30.00-00:38.00] DIALOGUE ELENA: "Mother, stop. The lawyer is here with the will."
+E01-008 [00:38.00-00:46.00] DIALOGUE VERA: "The will changes nothing. She is nobody."
+E01-009 [00:46.00-00:54.00] DIALOGUE LAWYER: "Actually, the estate belongs to Miss Mara. Every share."
+E01-010 [00:54.00-01:02.00] DIALOGUE MARA: "What did you just say?"
+E01-011 [01:02.00-01:10.00] DIALOGUE VERA (Furious): "This is a lie. You will regret this."
+E01-012 [01:10.00-01:18.00] ACTION: Mara grabs the envelope and tears it open.
+E01-013 [01:18.00-01:26.00] DIALOGUE MARA: "My mother's signature. She never signed this."
+E01-014 [01:26.00-01:34.00] DIALOGUE LAWYER: "Someone forged the last page."
+E01-015 [01:34.00-01:42.00] DIALOGUE ELENA: "Who would do that?"
+E01-016 [01:42.00-01:50.00] DIALOGUE VERA (Menacing): "You have no proof, and no one will believe a maid."
+E01-017 [01:50.00-01:58.00] DIALOGUE MARA: "Then why is your name on the document?"
+E01-018 [01:58.00-02:06.00] ACTION: Vera lunges for the papers and shoves Mara into the table.
+E01-019 [02:06.00-02:14.00] DIALOGUE STRANGER (O.S., Menacing): "Who are you?"
+
+NEXT_EPISODE_OPENING (E02, first 30 s; continuation only):
+E02-002 [00:04.00-00:08.00] ACTION: A glass shatters against the wall.
+E02-003 [00:08.00-00:13.00] DIALOGUE VERA (Furious): "You think a piece of paper makes you a queen?"
+E02-004 [00:13.00-00:20.00] DIALOGUE MARA: "It makes me the owner of this house."
+E02-005 [00:20.00-00:28.00] DIALOGUE ELENA: "Then you should know the staff were paid last night. All of them."
+E02-006 [00:28.00-00:36.00] DIALOGUE MARA: "Paid by whom?"
+
+Return up to 3 promos for E01 as JSON.

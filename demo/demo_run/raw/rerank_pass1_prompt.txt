@@ -1,0 +1,29 @@
+SHOW: The Heiress Nobody Wanted (demo)
+
+CANDIDATE_PROMOS (6):
+
+[E01-P2] 40s, E01, 1 segment(s)
+  OPENS: VERA: "Get out before I throw you out myself."
+  ENDS:  LAWYER: "Actually, the estate belongs to Miss Mara. Every share." / MARA: "What did you just say?"
+
+[E03-P3] 26s, E03, 1 segment(s)
+  OPENS: VERA: "Both of you, get out of my house!"
+  ENDS:  ACTION: Mara turns the deed over. Her own name is written in fresh ink. / MARA: "Who signed this?"
+
+[E03-P2] 56s, E03, 1 segment(s)
+  OPENS: ACTION: Elena yanks the drawer open and throws a file across the desk.
+  ENDS:  VERA: "Paid by your mother. Ask her ghost." / ACTION: The study door bursts in and a woman in a red coat steps inside.
+
+[E02-P2] 55s, E02, 1 segment(s)
+  OPENS: ACTION: Mara slaps the glass out of Vera's hand.
+  ENDS:  ACTION: Mara pulls the safe door open. It is empty. / MARA: "Where is the money?"
+
+[E01-P3] 32s, E01, 1 segment(s)
+  OPENS: ACTION: Mara grabs the envelope and tears it open.
+  ENDS:  LAWYER: "Someone forged the last page." / ELENA: "Who would do that?"
+
+[E02-P1] 32s, E02, 1 segment(s)
+  OPENS: ACTION: A glass shatters against the wall. / VERA: "You think a piece of paper makes you a queen?"
+  ENDS:  ELENA: "Then you should know the staff were paid last night. All of them." / MARA: "Paid by whom?"
+
+Order all 6 ids from best to worst ad. JSON only.

@@ -1,5 +1,6 @@
 # Secrets
 .env
+.streamlit/secrets.toml
 
 # Kuku's input pack is confidential: never commit the scripts, or anything that quotes them.
 # Run outputs (promos, prompts, raw replies, reviews) are shared privately, not in this repo.
@@ -7,6 +8,10 @@ data/
 *.zip
 outputs/
 .llm_cache/
+
+# The bundled demo is synthetic and safe to commit, but editor decisions made
+# against it on the deployed app are not part of the repo.
+demo/*/review.json
 
 # Python
 __pycache__/

@@ -1,0 +1,49 @@
+SHOW: The Heiress Nobody Wanted (demo)
+CURRENT_EPISODE: E02
+EPISODE_DURATION: 02:30.00
+LOGLINE: Mara takes the house, but the money is gone.
+CONTINUITY: Demo episode. All characters and dialogue are fictional.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E02-010: slap
+- E02-002: physical
+- E02-011: delivery:rage
+- E02-012: threat
+- E02-016: delivery:shock
+- E02-019: delivery:menace
+Possible cliffhangers:
+- E02-021: open question, unanswered question, episode ending
+- E02-018: threat/turn
+- E02-019: threat/turn
+- E02-020: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E02-002 [00:04.00-00:08.00] ACTION: A glass shatters against the wall.
+E02-003 [00:08.00-00:13.00] DIALOGUE VERA (Furious): "You think a piece of paper makes you a queen?"
+E02-004 [00:13.00-00:20.00] DIALOGUE MARA: "It makes me the owner of this house."
+E02-005 [00:20.00-00:28.00] DIALOGUE ELENA: "Then you should know the staff were paid last night. All of them."
+E02-006 [00:28.00-00:36.00] DIALOGUE MARA: "Paid by whom?"
+E02-007 [00:36.00-00:44.00] DIALOGUE VERA: "By the woman who actually runs this family."
+E02-008 [00:44.00-00:52.00] DIALOGUE MARA: "You have been stealing from this estate for years."
+E02-009 [00:52.00-01:00.00] DIALOGUE VERA (Menacing): "And you have been cleaning it for years. Which of us sounds believable?"
+E02-010 [01:00.00-01:08.00] ACTION: Mara slaps the glass out of Vera's hand.
+E02-011 [01:08.00-01:15.00] DIALOGUE MARA (Furious): "Open the safe. Now."
+E02-012 [01:15.00-01:23.00] DIALOGUE VERA: "Ask your mother. Oh, that's right. She is dead."
+E02-013 [01:23.00-01:31.00] DIALOGUE MARA: "Do not speak about my mother."
+E02-014 [01:31.00-01:39.00] DIALOGUE ELENA: "Both of you, listen. The safe was opened at midnight."
+E02-015 [01:39.00-01:47.00] ACTION: Mara pulls the safe door open. It is empty.
+E02-016 [01:47.00-01:55.00] DIALOGUE MARA (Shocked): "Where is the money?"
+E02-017 [01:55.00-02:03.00] DIALOGUE LAWYER: "Miss Mara, there is a second will."
+E02-018 [02:03.00-02:11.00] DIALOGUE VERA: "You will never find it."
+E02-019 [02:11.00-02:19.00] DIALOGUE STRANGER (O.S., Menacing): "Wait. There is something you need to see."
+E02-020 [02:19.00-02:26.00] ACTION: The stranger drops a burnt envelope on the table.
+E02-021 [02:26.00-02:30.00] DIALOGUE MARA: "What is this?"
+
+NEXT_EPISODE_OPENING (E03, first 30 s; continuation only):
+E03-002 [00:04.00-00:09.00] ACTION: Mara unfolds the burnt envelope with shaking hands.
+E03-003 [00:09.00-00:14.00] DIALOGUE MARA (Shocked): "There is a name here. It is not mine."
+E03-004 [00:14.00-00:22.00] DIALOGUE LAWYER: "Your mother had another daughter. She was hidden at birth."
+E03-005 [00:22.00-00:30.00] DIALOGUE MARA: "That is impossible. I grew up alone."
+
+Return up to 3 promos for E02 as JSON.

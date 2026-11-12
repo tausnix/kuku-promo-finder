@@ -1,0 +1,98 @@
+EPISODE NUMBER: Episode 2
+EPISODE LOGLINE: Mara takes the house, but the money is gone.
+CONTINUITY NOTES: Demo episode. All characters and dialogue are fictional.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. DINING ROOM - NIGHT
+Scene start: 00:00.00
+Scene end: 02:30.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Candlelight on a long empty table.
+
+**ACTION:**
+Start: (00:04.00) | End: (00:08.00)
+A glass shatters against the wall.
+
+**VERA (Furious):**
+Start: (00:08.00) | End: (00:13.00)
+"You think a piece of paper makes you a queen?"
+
+**MARA:**
+Start: (00:13.00) | End: (00:20.00)
+"It makes me the owner of this house."
+
+**ELENA:**
+Start: (00:20.00) | End: (00:28.00)
+"Then you should know the staff were paid last night. All of them."
+
+**MARA:**
+Start: (00:28.00) | End: (00:36.00)
+"Paid by whom?"
+
+**VERA:**
+Start: (00:36.00) | End: (00:44.00)
+"By the woman who actually runs this family."
+
+**MARA:**
+Start: (00:44.00) | End: (00:52.00)
+"You have been stealing from this estate for years."
+
+**VERA (Menacing):**
+Start: (00:52.00) | End: (01:00.00)
+"And you have been cleaning it for years. Which of us sounds believable?"
+
+**ACTION:**
+Start: (01:00.00) | End: (01:08.00)
+Mara slaps the glass out of Vera's hand.
+
+**MARA (Furious):**
+Start: (01:08.00) | End: (01:15.00)
+"Open the safe. Now."
+
+**VERA:**
+Start: (01:15.00) | End: (01:23.00)
+"Ask your mother. Oh, that's right. She is dead."
+
+**MARA:**
+Start: (01:23.00) | End: (01:31.00)
+"Do not speak about my mother."
+
+**ELENA:**
+Start: (01:31.00) | End: (01:39.00)
+"Both of you, listen. The safe was opened at midnight."
+
+**ACTION:**
+Start: (01:39.00) | End: (01:47.00)
+Mara pulls the safe door open. It is empty.
+
+**MARA (Shocked):**
+Start: (01:47.00) | End: (01:55.00)
+"Where is the money?"
+
+**LAWYER:**
+Start: (01:55.00) | End: (02:03.00)
+"Miss Mara, there is a second will."
+
+**VERA:**
+Start: (02:03.00) | End: (02:11.00)
+"You will never find it."
+
+**STRANGER (O.S.) (Menacing):**
+Start: (02:11.00) | End: (02:19.00)
+"Wait. There is something you need to see."
+
+**ACTION:**
+Start: (02:19.00) | End: (02:26.00)
+The stranger drops a burnt envelope on the table.
+
+**MARA:**
+Start: (02:26.00) | End: (02:30.00)
+"What is this?"
+
+--- SCRIPT END ---

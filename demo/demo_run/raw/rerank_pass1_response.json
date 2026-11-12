@@ -1,0 +1,9 @@
+{
+  "text": "{\"order\": [\"E01-P2\", \"E03-P3\", \"E03-P2\", \"E02-P2\", \"E01-P3\", \"E02-P1\"], \"notes\": {}}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.0,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "e3689306b60c25614a24166eae1732fb765d30f06bb317b33ee9e183fb90dc6e"
+}

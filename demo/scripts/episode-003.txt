@@ -1,0 +1,102 @@
+EPISODE NUMBER: Episode 3
+EPISODE LOGLINE: The burnt will names a sister Mara never knew.
+CONTINUITY NOTES: Demo episode. All characters and dialogue are fictional.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. STUDY - NIGHT
+Scene start: 00:00.00
+Scene end: 02:40.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Rain on the study window.
+
+**ACTION:**
+Start: (00:04.00) | End: (00:09.00)
+Mara unfolds the burnt envelope with shaking hands.
+
+**MARA (Shocked):**
+Start: (00:09.00) | End: (00:14.00)
+"There is a name here. It is not mine."
+
+**LAWYER:**
+Start: (00:14.00) | End: (00:22.00)
+"Your mother had another daughter. She was hidden at birth."
+
+**MARA:**
+Start: (00:22.00) | End: (00:30.00)
+"That is impossible. I grew up alone."
+
+**VERA (Menacing):**
+Start: (00:30.00) | End: (00:38.00)
+"You grew up useful. That is not the same thing."
+
+**ELENA:**
+Start: (00:38.00) | End: (00:46.00)
+"Mother, the hospital records are in the drawer."
+
+**VERA (Furious):**
+Start: (00:46.00) | End: (00:54.00)
+"Touch that drawer and I will disown you."
+
+**ACTION:**
+Start: (00:54.00) | End: (01:02.00)
+Elena yanks the drawer open and throws a file across the desk.
+
+**ELENA:**
+Start: (01:02.00) | End: (01:10.00)
+"Then disown me. I am done lying for you."
+
+**MARA:**
+Start: (01:10.00) | End: (01:18.00)
+"Two birth certificates. Same mother. Different fathers."
+
+**LAWYER:**
+Start: (01:18.00) | End: (01:26.00)
+"The second child was paid to disappear."
+
+**MARA (Furious):**
+Start: (01:26.00) | End: (01:34.00)
+"Paid by you?"
+
+**VERA:**
+Start: (01:34.00) | End: (01:42.00)
+"Paid by your mother. Ask her ghost."
+
+**ACTION:**
+Start: (01:42.00) | End: (01:50.00)
+The study door bursts in and a woman in a red coat steps inside.
+
+**WOMAN (Cold):**
+Start: (01:50.00) | End: (01:58.00)
+"You took long enough to find me, sister."
+
+**MARA (Shocked):**
+Start: (01:58.00) | End: (02:06.00)
+"You are the one who emptied the safe."
+
+**WOMAN:**
+Start: (02:06.00) | End: (02:14.00)
+"I took what was mine. The rest is a trap."
+
+**VERA (Furious):**
+Start: (02:14.00) | End: (02:22.00)
+"Both of you, get out of my house!"
+
+**WOMAN (Menacing):**
+Start: (02:22.00) | End: (02:30.00)
+"Your house? Look at the signature on the deed."
+
+**ACTION:**
+Start: (02:30.00) | End: (02:36.00)
+Mara turns the deed over. Her own name is written in fresh ink.
+
+**MARA (Shocked):**
+Start: (02:36.00) | End: (02:40.00)
+"Who signed this?"
+
+--- SCRIPT END ---

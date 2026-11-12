@@ -18,6 +18,24 @@ Input can be a `.zip`, a folder of `.txt` files or a single `.txt`. The pipeline
 and no packages. Reruns read from `.llm_cache/`, so the same input, model and prompt give the same
 output at no cost. Use `--no-cache` to call the model again.
 
+## Deploy on Streamlit Community Cloud
+
+The review UI is a standard Streamlit app (`app.py`), so the repo deploys as-is:
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=tausnix/kuku-promo-finder&branch=main&mainModule=app.py)
+
+1. Sign in at [share.streamlit.io](https://share.streamlit.io) with GitHub, then pick
+   `tausnix/kuku-promo-finder`, branch `main`, main file `app.py` (the button above pre-fills this).
+2. Open **App settings -> Secrets** and paste the key for one provider (see
+   `.streamlit/secrets.toml.example`):
+   ```toml
+   GEMINI_API_KEY = "your-key"
+   ```
+3. Deploy. With no key the app still runs: the sidebar defaults to the offline `mock` rules baseline.
+
+`demo/` holds a small synthetic run so the review screen is populated on first load.
+Streamlit Cloud storage is ephemeral: runs started in the app, and editor decisions, reset on redeploy.
+
 ## Who does what
 
 | Step | Owner | File |
@@ -98,4 +116,5 @@ Default model names are in each class. Check them against the provider's current
 
 The input pack is Kuku's and confidential, so this repo holds code only. `.gitignore` excludes the scripts
 (`.zip`, `data/`), every run's outputs (`outputs/`: promos quote the script) and the LLM cache. Raw outputs
-are shared through the private submission link. Tests use made-up dialogue.
+are shared through the private submission link. Tests use made-up dialogue; `demo/` is synthetic too and
+safe to publish.

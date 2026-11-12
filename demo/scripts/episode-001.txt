@@ -1,0 +1,90 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: A maid learns the mansion she cleans belongs to her.
+CONTINUITY NOTES: Demo episode. All characters and dialogue are fictional.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. MARBLE HALL - DAY
+Scene start: 00:00.00
+Scene end: 02:14.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Wide shot of a marble staircase in a mansion.
+
+**ACTION:**
+Start: (00:04.00) | End: (00:07.00)
+Vera slaps Mara across the face.
+
+**MARA (Shocked):**
+Start: (00:07.00) | End: (00:10.00)
+"How dare you!"
+
+**VERA (Furious):**
+Start: (00:10.00) | End: (00:15.00)
+"You are a worthless liar, and this house is done with you."
+
+**MARA:**
+Start: (00:15.00) | End: (00:22.00)
+"I have cleaned your floors for ten years. That does not make me your property."
+
+**VERA (Furious):**
+Start: (00:22.00) | End: (00:30.00)
+"Get out before I throw you out myself."
+
+**ELENA:**
+Start: (00:30.00) | End: (00:38.00)
+"Mother, stop. The lawyer is here with the will."
+
+**VERA:**
+Start: (00:38.00) | End: (00:46.00)
+"The will changes nothing. She is nobody."
+
+**LAWYER:**
+Start: (00:46.00) | End: (00:54.00)
+"Actually, the estate belongs to Miss Mara. Every share."
+
+**MARA:**
+Start: (00:54.00) | End: (01:02.00)
+"What did you just say?"
+
+**VERA (Furious):**
+Start: (01:02.00) | End: (01:10.00)
+"This is a lie. You will regret this."
+
+**ACTION:**
+Start: (01:10.00) | End: (01:18.00)
+Mara grabs the envelope and tears it open.
+
+**MARA:**
+Start: (01:18.00) | End: (01:26.00)
+"My mother's signature. She never signed this."
+
+**LAWYER:**
+Start: (01:26.00) | End: (01:34.00)
+"Someone forged the last page."
+
+**ELENA:**
+Start: (01:34.00) | End: (01:42.00)
+"Who would do that?"
+
+**VERA (Menacing):**
+Start: (01:42.00) | End: (01:50.00)
+"You have no proof, and no one will believe a maid."
+
+**MARA:**
+Start: (01:50.00) | End: (01:58.00)
+"Then why is your name on the document?"
+
+**ACTION:**
+Start: (01:58.00) | End: (02:06.00)
+Vera lunges for the papers and shoves Mara into the table.
+
+**STRANGER (O.S.) (Menacing):**
+Start: (02:06.00) | End: (02:14.00)
+"Who are you?"
+
+--- SCRIPT END ---

@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: confrontation at E03-019\", \"segments\": [{\"start_id\": \"E03-019\", \"end_id\": \"E03-022\"}], \"hook_id\": \"E03-019\", \"hook_quote\": \"Both of you, get out of my house!\", \"cliffhanger_id\": \"E03-022\", \"cliffhanger_quote\": \"Who signed this?\", \"hook_type\": \"confrontation\", \"why\": \"Rules only: hook signals [confrontation, delivery:rage, exclamation], cliff signals [unanswered question, episode ending].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 3, \"standalone\": 3}, \"context_needed\": \"\"}, {\"title\": \"Rule pick: physical at E03-009\", \"segments\": [{\"start_id\": \"E03-009\", \"end_id\": \"E03-015\"}], \"hook_id\": \"E03-009\", \"hook_quote\": \"Elena yanks the drawer open and throws a file across the desk.\", \"cliffhanger_id\": \"E03-015\", \"cliffhanger_quote\": \"The study door bursts in and a woman in a red coat\", \"hook_type\": \"physical\", \"why\": \"Rules only: hook signals [physical, physical], cliff signals [interruption].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}, {\"title\": \"Rule pick: confrontation at E03-008\", \"segments\": [{\"start_id\": \"E03-008\", \"end_id\": \"E03-013\"}], \"hook_id\": \"E03-008\", \"hook_quote\": \"Touch that drawer and I will disown you.\", \"cliffhanger_id\": \"E03-013\", \"cliffhanger_quote\": \"Paid by you?\", \"hook_type\": \"confrontation\", \"why\": \"Rules only: hook signals [confrontation, delivery:rage], cliff signals [unanswered question].\", \"scores\": {\"hook\": 3, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.0,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "b05601f9871daf7c6452ce64ee2593114f16e01ceb58c15d509d1f7e0aab725d"
+}

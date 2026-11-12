@@ -1,0 +1,43 @@
+SHOW: The Heiress Nobody Wanted (demo)
+CURRENT_EPISODE: E03
+EPISODE_DURATION: 02:40.00
+LOGLINE: The burnt will names a sister Mara never knew.
+CONTINUITY: Demo episode. All characters and dialogue are fictional.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E03-019: confrontation, delivery:rage, exclamation
+- E03-009: physical, physical
+- E03-008: confrontation, delivery:rage
+- E03-003: delivery:shock
+- E03-010: confrontation
+- E03-013: delivery:rage
+Possible cliffhangers:
+- E03-022: unanswered question, episode ending
+- E03-015: interruption
+- E03-021: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E03-002 [00:04.00-00:09.00] ACTION: Mara unfolds the burnt envelope with shaking hands.
+E03-003 [00:09.00-00:14.00] DIALOGUE MARA (Shocked): "There is a name here. It is not mine."
+E03-004 [00:14.00-00:22.00] DIALOGUE LAWYER: "Your mother had another daughter. She was hidden at birth."
+E03-005 [00:22.00-00:30.00] DIALOGUE MARA: "That is impossible. I grew up alone."
+E03-006 [00:30.00-00:38.00] DIALOGUE VERA (Menacing): "You grew up useful. That is not the same thing."
+E03-007 [00:38.00-00:46.00] DIALOGUE ELENA: "Mother, the hospital records are in the drawer."
+E03-008 [00:46.00-00:54.00] DIALOGUE VERA (Furious): "Touch that drawer and I will disown you."
+E03-009 [00:54.00-01:02.00] ACTION: Elena yanks the drawer open and throws a file across the desk.
+E03-010 [01:02.00-01:10.00] DIALOGUE ELENA: "Then disown me. I am done lying for you."
+E03-011 [01:10.00-01:18.00] DIALOGUE MARA: "Two birth certificates. Same mother. Different fathers."
+E03-012 [01:18.00-01:26.00] DIALOGUE LAWYER: "The second child was paid to disappear."
+E03-013 [01:26.00-01:34.00] DIALOGUE MARA (Furious): "Paid by you?"
+E03-014 [01:34.00-01:42.00] DIALOGUE VERA: "Paid by your mother. Ask her ghost."
+E03-015 [01:42.00-01:50.00] ACTION: The study door bursts in and a woman in a red coat steps inside.
+E03-016 [01:50.00-01:58.00] DIALOGUE WOMAN (Cold): "You took long enough to find me, sister."
+E03-017 [01:58.00-02:06.00] DIALOGUE MARA (Shocked): "You are the one who emptied the safe."
+E03-018 [02:06.00-02:14.00] DIALOGUE WOMAN: "I took what was mine. The rest is a trap."
+E03-019 [02:14.00-02:22.00] DIALOGUE VERA (Furious): "Both of you, get out of my house!"
+E03-020 [02:22.00-02:30.00] DIALOGUE WOMAN (Menacing): "Your house? Look at the signature on the deed."
+E03-021 [02:30.00-02:36.00] ACTION: Mara turns the deed over. Her own name is written in fresh ink.
+E03-022 [02:36.00-02:40.00] DIALOGUE MARA (Shocked): "Who signed this?"
+
+Return up to 3 promos for E03 as JSON.
