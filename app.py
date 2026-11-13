@@ -370,7 +370,7 @@ n_promos = sum(1 for p in ranked if p["review_status"] != "duplicate")
 judge = "rules baseline" if meta["provider"] == "mock" else f'{meta["provider"]}/{meta["model"]}'
 double = " · two-pass side-by-side check" if meta.get("rerank", {}).get("applied") else ""
 st.markdown(f'<div class="stats">{escape(meta.get("show_title", "Untitled show"))} · '
-            f'{len(meta.get("episodes_processed", []))} episodes · {possible:,} possible clips scored · '
+            f'{len(meta.get("episodes_processed", []))} episodes · {possible:,} script moments scored · '
             f'{n_promos} promos · {escape(judge)} picks and judges{double}</div>', unsafe_allow_html=True)
 
 with st.expander("How to use this app", expanded=True):
