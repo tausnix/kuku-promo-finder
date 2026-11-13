@@ -1,3 +1,5 @@
 # The pipeline (processor.py) uses only the Python standard library (3.10+).
-# Only the review UI needs this:
-streamlit>=1.37
+# The review UI needs Streamlit; pandas ships with it but is pinned here because
+# the ranked-promos table uses it directly.
+streamlit>=1.49
+pandas>=2.0

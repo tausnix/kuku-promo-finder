@@ -1,4 +1,4 @@
-SHOW: The Heiress Nobody Wanted (demo)
+SHOW: The Heiress (demo)
 CURRENT_EPISODE: E01
 EPISODE_DURATION: 02:14.00
 LOGLINE: A maid learns the mansion she cleans belongs to her.

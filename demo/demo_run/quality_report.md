@@ -1,6 +1,6 @@
-# Quality report: The Heiress Nobody Wanted (demo)
+# Quality report: The Heiress (demo)
 
-`mock/rules-baseline`, prompt `promo-v2`, 2026-11-12T19:08:13+00:00, 0.1s
+`mock/rules-baseline`, prompt `promo-v2`, 2026-11-13T14:12:07+00:00, 0.0s
 
 ## 1. Input (deterministic parser)
 - Episodes parsed: 3; blocks: 62 (59 dialogue/action/SFX)

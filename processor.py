@@ -112,7 +112,7 @@ def process_episode(ep: Episode, next_ep: Episode | None, index: BlockIndex, cli
 
 
 def run(input_path: str | Path, out_dir: str | Path, cfg: PipelineConfig, episodes: set[int] | None = None,
-        show_title: str | None = None, progress=None) -> dict:
+        show_title: str | None = None, progress=None, max_total: int | None = None) -> dict:
     t0 = time.time()
     input_path, out_dir = Path(input_path), Path(out_dir)
     raw_dir = out_dir / "raw"
@@ -160,6 +160,8 @@ def run(input_path: str | Path, out_dir: str | Path, cfg: PipelineConfig, episod
                 ranked = rank(accepted, cfg.weights, rerank=rr)
             print(f"Side-by-side ranking: {'applied' if rr['applied'] else 'not applied'} "
                   f"({sum(1 for l in rr['log'] if l.get('ok'))}/{cfg.rerank_passes} passes ok)", flush=True)
+    if max_total:
+        ranked = ranked[:max_total]
     meta = {
         "show_title": show_title,
         "input": str(input_path.resolve()),
@@ -196,6 +198,7 @@ def main(argv=None):
     ap.add_argument("--include-camera", action="store_true", help="send camera lines to the LLM too")
     ap.add_argument("--no-cache", action="store_true", help="ignore cached LLM responses")
     ap.add_argument("--rerank-top", type=int, default=20, help="side-by-side order the best N clips (0 = off)")
+    ap.add_argument("--max-total", type=int, default=None, help="cap the total number of ranked promos")
     ap.add_argument("--show-title", default=None)
     a = ap.parse_args(argv)
 
@@ -207,7 +210,7 @@ def main(argv=None):
                          use_cache=not a.no_cache, min_interval_s=a.min_interval, rerank_top_k=a.rerank_top)
     out = a.out or str(ROOT / "outputs" / f"{provider}_{datetime.now().strftime('%Y%m%d_%H%M%S')}")
     try:
-        run(a.input, out, cfg, parse_episode_range(a.episodes), a.show_title)
+        run(a.input, out, cfg, parse_episode_range(a.episodes), a.show_title, max_total=a.max_total)
     except LLMError as e:
         sys.exit(f"LLM setup error: {e}")
 

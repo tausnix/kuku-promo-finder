@@ -1,4 +1,4 @@
-SHOW: The Heiress Nobody Wanted (demo)
+SHOW: The Heiress (demo)
 CURRENT_EPISODE: E03
 EPISODE_DURATION: 02:40.00
 LOGLINE: The burnt will names a sister Mara never knew.

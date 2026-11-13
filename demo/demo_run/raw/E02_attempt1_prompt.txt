@@ -1,4 +1,4 @@
-SHOW: The Heiress Nobody Wanted (demo)
+SHOW: The Heiress (demo)
 CURRENT_EPISODE: E02
 EPISODE_DURATION: 02:30.00
 LOGLINE: Mara takes the house, but the money is gone.

@@ -1,6 +1,6 @@
-# Promo picks: The Heiress Nobody Wanted (demo)
+# Promo picks: The Heiress (demo)
 
-Provider `mock` / model `rules-baseline` / prompt `promo-v2` / run 2026-11-12T19:08:13+00:00. 6 promos from 3 episodes. All timestamps come from the script, not the model.
+Provider `mock` / model `rules-baseline` / prompt `promo-v2` / run 2026-11-13T14:12:07+00:00. 6 promos from 3 episodes. All timestamps come from the script, not the model.
 
 ## Post first (top 6)
 

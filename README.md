@@ -3,6 +3,8 @@
 Reads microdrama screenplays and finds 20-60 s promo clips: hook in the first 3 s, cut on a cliffhanger,
 understandable without the rest of the show. Gives ranked picks with exact timestamps, then an editor approves them.
 
+![PromoFinder review UI](docs/app.png)
+
 ## Run it
 
 ```bash
