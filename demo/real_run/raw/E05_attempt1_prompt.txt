@@ -1,0 +1,74 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E05
+EPISODE_DURATION: 01:50.50
+LOGLINE: Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family.
+CONTINUITY: Follows directly from Episode 4's ending where Juliana and the Mysterious Bearded Man walked out of the chapel doors into the daylight after completing their wedding vows.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E05-033: delivery:shouting, delivery:anguish, exclamation
+- E05-034: slap
+- E05-042: humiliation
+- E05-037: delivery:menace, delivery:contempt
+- E05-027: delivery:menace
+- E05-030: delivery:menace
+Possible cliffhangers:
+- E05-062: sound sting, episode ending
+- E05-007: threat/turn
+- E05-060: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E05-002 [00:00.00-00:02.50] ACTION: Juliana grips the heirloom ledger tightly against her waist, her posture resolute despite the tension.
+E05-004 [00:04.20-00:05.80] DIALOGUE LORD ASHCROFT (Stern, Commanding): "Miss Ashcroft."
+E05-005 [00:05.50-00:06.60] ACTION: Juliana and the Mysterious Bearded Man pause on the stone steps, turning slightly back toward Lord Ashcroft.
+E05-007 [00:06.80-00:10.40] DIALOGUE LORD ASHCROFT (Cold, Condemnatory): "You will not leave this church carrying the Ashcroft name."
+E05-009 [00:11.70-00:15.50] DIALOGUE JULIANA (Defiant, Steadfast): "The vows are spoken, Father. I am his wife now."
+E05-011 [00:16.00-00:18.00] DIALOGUE LORD ASHCROFT (Harsh, Final): "Then leave as his wife."
+E05-012 [00:18.50-00:20.80] DIALOGUE LORD ASHCROFT (Harsh, Final): "You leave as no daughter of mine."
+E05-014 [00:21.00-00:23.00] DIALOGUE LORD ASHCROFT (O.S. / Continues): "Your dowry is revoked."
+E05-015 [00:23.10-00:25.10] DIALOGUE LORD ASHCROFT (O.S. / Continues): "Your inheritance is revoked."
+E05-017 [00:25.40-00:28.90] DIALOGUE LORD ASHCROFT (O.S. / Continues): "From this moment, you are dead to the Ashcroft family."
+E05-018 [00:29.50-00:33.40] DIALOGUE JULIANA (Shaking, Tearful): "You truly mean it? You are my father!"
+E05-020 [00:33.80-00:36.80] DIALOGUE LORD ASHCROFT (O.S.): "And you have chosen to become a stranger."
+E05-022 [00:37.60-00:41.50] DIALOGUE JULIANA (Quietly Resolute): "No, Father. You chose that long before today."
+E05-024 [00:42.50-00:44.20] DIALOGUE LADY ASHCROFT (Sharply Dismissive): "Enough sentiment."
+E05-025 [00:44.30-00:45.80] DIALOGUE LADY ASHCROFT (Cold, Demanding): "And the ledger..."
+E05-027 [00:46.80-00:48.80] DIALOGUE LADY ASHCROFT (Venomous): "...that belongs to this family."
+E05-028 [00:49.00-00:51.80] DIALOGUE JULIANA (Alarmed, Protective): "It belonged to my mother! It is all I have left of her."
+E05-030 [00:52.00-00:54.00] DIALOGUE LADY ASHCROFT (Cruel): "Then you should have guarded it better."
+E05-032 [00:54.50-00:57.50] ACTION: Lady Ashcroft snatches the heavy book away and flings it disdainfully into the rain-soaked courtyard.
+E05-033 [00:55.50-00:56.80] DIALOGUE JULIANA (Screaming, Desperate): "Barbara, don't!"
+E05-034 [00:57.00-00:58.20] SFX: A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement.
+E05-036 [00:59.00-01:02.50] DIALOGUE CLARISSA (Gleeful, Mocking): "Even your mother's precious legacy has been cast into the dirt!"
+E05-037 [01:02.40-01:04.60] DIALOGUE GERALD (Smug, Cruel): "Perhaps that is where it belongs."
+E05-039 [01:05.50-01:08.50] ACTION: Juliana drops to her knees onto the wet courtyard pavement, oblivious to the dirt soaking through her white bridal gown.
+E05-042 [01:10.50-01:14.50] ACTION: The Mysterious Bearded Man bends his knees and kneels down beside Juliana, extending his scarred hand to retrieve the fallen ledger.
+E05-045 [01:17.80-01:19.00] DIALOGUE MYSTERIOUS BEARDED MAN (Low, Gentle): "Here you go."
+E05-047 [01:20.50-01:22.00] DIALOGUE JULIANA (Choked, Weeping): "They destroyed it."
+E05-048 [01:22.50-01:25.40] DIALOGUE MYSTERIOUS BEARDED MAN (Calm, Grounded): "They dirtied it. That is not the same thing."
+E05-050 [01:26.50-01:27.80] DIALOGUE JULIANA (Broken): "It was my mother's."
+E05-051 [01:27.90-01:29.00] DIALOGUE MYSTERIOUS BEARDED MAN (Gentle, Protective): "Then keep it."
+E05-052 [01:28.50-01:31.00] ACTION: The Mysterious Bearded Man reaches out with both hands, clasping his strong hands tenderly over hers and the book.
+E05-053 [01:29.40-01:31.00] DIALOGUE MYSTERIOUS BEARDED MAN (Firm, Comforting): "Let them keep everything else."
+E05-055 [01:31.50-01:32.80] DIALOGUE GERALD (Mocking, Arrogant): "Look at you."
+E05-056 [01:33.00-01:36.50] DIALOGUE GERALD (Scornful, Spiteful): "A noblewoman reduced to a beggar's wife!"
+E05-058 [01:38.00-01:40.80] DIALOGUE MYSTERIOUS BEARDED MAN (Low, Lethally Cold): "Choose your next words carefully."
+E05-060 [01:44.20-01:45.20] DIALOGUE MYSTERIOUS BEARDED MAN (Soft, Reassuring): "Come."
+E05-062 [01:46.00-01:50.50] SFX: Rain gently pattering on cobblestones beneath a sweeping, melancholic orchestral swell that slowly fades to black.
+
+NEXT_EPISODE_OPENING (E06, first 30 s; continuation only):
+E06-002 [00:00.00-00:03.40] ACTION: Juliana lifts the hem of her white satin wedding gown to keep it out of the pooling mud, shivering under her dark hooded cloak.
+E06-004 [00:02.30-00:06.50] SFX: Heavy rain pouring through dense tree canopies with steady footfalls on wet earth.
+E06-007 [00:04.50-00:07.10] ACTION: Juliana turns back toward him, water glistening on her face and hair.
+E06-009 [00:07.20-00:09.85] DIALOGUE MYSTERIOUS BEARDED MAN (Solemn, Gentle): "I know this is not the life you came from."
+E06-011 [00:10.10-00:11.20] DIALOGUE JULIANA (Quiet, Melancholic): "No."
+E06-012 [00:11.30-00:13.00] ACTION: Juliana looks upward into the canopy, gathering herself with a faint nod.
+E06-013 [00:13.40-00:14.60] DIALOGUE JULIANA (Resigned, Soft): "It isn't."
+E06-015 [00:15.20-00:18.20] DIALOGUE MYSTERIOUS BEARDED MAN (Guilt-ridden): "You should not have had to walk through this rain tonight."
+E06-018 [00:18.50-00:20.90] DIALOGUE JULIANA (Faintly Ironic, Resilient): "I suppose the day was already ruined."
+E06-021 [00:24.50-00:26.10] ACTION: They walk forward toward the cottage emerging from the dark woods.
+E06-023 [00:26.50-00:27.70] DIALOGUE JULIANA (Surprised, Hesitant): "That is it?"
+E06-025 [00:28.10-00:29.00] DIALOGUE MYSTERIOUS BEARDED MAN (Low): "Yes."
+E06-027 [00:29.20-00:30.50] SFX: Sudden distant rumble of thunder echoing across the forest.
+
+Return up to 1 promos for E05 as JSON.

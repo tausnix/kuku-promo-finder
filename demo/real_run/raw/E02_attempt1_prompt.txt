@@ -1,0 +1,69 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E02
+EPISODE_DURATION: 01:50.00
+LOGLINE: Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor.
+CONTINUITY: Picks up directly from Episode 1's cliffhanger. Gerald has turned away from Juliana at the altar, leaving her devastated before the entire aristocratic congregation.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E02-006: humiliation, delivery:menace
+- E02-036: humiliation, delivery:contempt
+- E02-030: humiliation
+- E02-026: humiliation
+- E02-045: delivery:menace
+Possible cliffhangers:
+- E02-026: threat/turn, unanswered question
+- E02-074: sound sting, episode ending
+- E02-004: shock beat
+- E02-073: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E02-002 [00:00.00-00:02.50] DIALOGUE THE FORMER GROOM (Cold, Callous): "I cannot marry you, Juliana."
+E02-004 [00:02.80-00:04.60] ACTION: Juliana gasps softly in heartbreak, her eyes wide and brimming with tears.
+E02-006 [00:04.70-00:06.50] DIALOGUE THE FORMER GROOM (Cruel, Derisive): "You are far too plain..."
+E02-008 [00:06.80-00:09.50] DIALOGUE THE FORMER GROOM (Off-screen, Dismissive): "...far too silent..."
+E02-010 [00:09.60-00:12.00] DIALOGUE THE FORMER GROOM (Arrogant, Conceited): "...and completely beneath the future I deserve."
+E02-012 [00:12.40-00:15.50] DIALOGUE LADY JULIANA (Desperate, Pleading): "Gerald... Look at me."
+E02-015 [00:18.20-00:20.60] DIALOGUE LADY JULIANA (Trembling, Betrayed): "You gave me your word before both our families."
+E02-017 [00:20.90-00:23.70] DIALOGUE THE FORMER GROOM (Indifferent, Unapologetic): "Promises change when a better choice appears."
+E02-019 [00:24.00-00:27.40] DIALOGUE LADY JULIANA (Shattered, Disbelieving): "A better choice? Is that what she is?"
+E02-021 [00:27.80-00:30.50] DIALOGUE THE FORMER GROOM (Resolute, Harsh): "She is what I should have chosen from the beginning."
+E02-023 [00:30.90-00:32.40] DIALOGUE LADY JULIANA (Off-screen, Vulnerable, Begging): "Father..."
+E02-026 [00:34.30-00:37.10] DIALOGUE LADY JULIANA (Choked with Tears): "Surely you will not let him humiliate me like this?"
+E02-028 [00:37.50-00:42.30] DIALOGUE BLOND NOBLEMAN (Stern, Cold): "Gerald has made his choice. Accept it, Juliana."
+E02-030 [00:42.50-00:44.70] DIALOGUE BLOND NOBLEMAN (Severely, Harsh): "Do not disgrace us further."
+E02-032 [00:45.30-00:47.40] DIALOGUE LADY JULIANA (Whispering, Crushed): "You won't even look at me."
+E02-034 [00:47.80-00:51.40] DIALOGUE LADY IN GOLD GOWN (Mocking, Spiteful): "Why are you surprised, sister? Look at you."
+E02-036 [00:51.60-00:53.20] DIALOGUE LADY IN GOLD GOWN (Off-screen, Scornful): "That plain, old-fashioned gown."
+E02-038 [00:53.50-00:56.70] DIALOGUE LADY IN GOLD GOWN (Taunting, Giggling): "You look like a kitchen maid who wandered into the wrong wedding."
+E02-040 [00:56.80-00:58.20] DIALOGUE LADY IN GOLD GOWN (Off-screen, Snide): "And that quiet little face."
+E02-043 [00:58.70-01:00.50] DIALOGUE LADY IN GOLD GOWN (Conceited, Spiteful): "Gerald needs a real lady..."
+E02-045 [01:00.60-01:03.50] DIALOGUE LADY IN GOLD GOWN (Off-screen, Vicious): "...not a dull creature who hides in her mother's apothecary herbs."
+E02-047 [01:03.50-01:06.00] ACTION: The matriarch steps into the center aisle, glaring down at Juliana with cold superiority.
+E02-048 [01:03.60-01:05.80] DIALOGUE OFF-SCREEN VOICE (Cold, Scolding): "Oh, don't look so wounded, Juliana."
+E02-050 [01:06.10-01:09.30] DIALOGUE OFF-SCREEN VOICE (Dismissive, Condescending): "You should be grateful you're at least allowed to attend the wedding."
+E02-052 [01:09.40-01:12.70] DIALOGUE THE FORMER GROOM (Impatient, Commanding): "Go home quietly, Juliana. At least leave this chapel with some dignity."
+E02-055 [01:14.40-01:16.40] DIALOGUE LADY JULIANA (Bitter, Defiant): "Dignity?"
+E02-057 [01:16.50-01:19.00] DIALOGUE LADY JULIANA (Clear, Accusing): "You abandoned a woman who trusted you..."
+E02-059 [01:19.20-01:22.50] DIALOGUE LADY JULIANA (Off-screen, Sharp, Piercing): "...because another woman promised you greater beauty and wealth."
+E02-062 [01:23.00-01:26.50] DIALOGUE LADY JULIANA (Steely, Resolute): "Do not mistake my heartbreak for your victory, Gerald."
+E02-064 [01:26.80-01:33.00] DIALOGUE LADY JULIANA (Powerful, Unyielding): "You wanted this entire chapel to believe that I was not worthy of you. But you have shown them something far more valuable."
+E02-067 [01:33.40-01:36.60] DIALOGUE LADY JULIANA (Decisive, Scathing): "You have shown them exactly what your word is worth."
+E02-070 [01:38.20-01:42.80] ACTION: Juliana lifts her chin high, commanding the space with unassailable dignity.
+E02-071 [01:38.50-01:42.40] DIALOGUE LADY JULIANA (Resolute, Proud): "I may leave this chapel without a husband..."
+E02-073 [01:43.00-01:47.40] DIALOGUE LADY JULIANA (Defiant, Triumphant in Spirit): "...but I will not leave it believing I was the one who should be ashamed."
+E02-074 [01:47.40-01:50.00] ACTION: Juliana breathes with steady resolve, holding her head high as the solemn orchestral score swells into the final beat.
+
+NEXT_EPISODE_OPENING (E03, first 30 s; continuation only):
+E03-002 [00:02.10-00:04.20] DIALOGUE LADY IN GOLD GOWN (Mocking, Spiteful): "Look at you..."
+E03-004 [00:03.60-00:08.20] DIALOGUE LADY IN GOLD GOWN (Gloating, Scornful): "...still clinging to that little locket as if it can make you worthy of a place here."
+E03-007 [00:08.80-00:10.80] DIALOGUE LADY JULIANA (Hurt, Bitter): "You stole my wedding."
+E03-009 [00:11.20-00:13.40] DIALOGUE LADY JULIANA (Defiant): "Don't pretend you've earned anything."
+E03-011 [00:13.80-00:16.30] DIALOGUE LADY IN GOLD GOWN (Smug, Malicious): "I didn't steal what was never truly yours."
+E03-013 [00:16.60-00:18.40] DIALOGUE LADY JULIANA (Trembling, Resolute): "This was my wedding."
+E03-015 [00:18.70-00:20.40] DIALOGUE LADY IN GOLD GOWN (Taunting, Cruel): "It was supposed to be."
+E03-017 [00:20.60-00:22.50] DIALOGUE LADY IN GOLD GOWN (Vindictive): "Now it is mine."
+E03-019 [00:23.10-00:25.50] DIALOGUE NOBLE MATRIARCH (Harsh, Authoritative): "Enough, Juliana."
+E03-021 [00:25.90-00:28.00] DIALOGUE NOBLE MATRIARCH (Cold, Disgusted): "You have humiliated this family enough for one day."
+
+Return up to 1 promos for E02 as JSON.

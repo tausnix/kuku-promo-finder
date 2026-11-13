@@ -1,0 +1,88 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E18
+EPISODE_DURATION: 03:12.00
+LOGLINE: When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the inferno, vowing relentless vengeance against those responsible.
+CONTINUITY: Picks up directly from Episode 17's intimate hearthside moment; their peaceful sanctuary is shattered when arsonists trap Juliana and Alexander inside their burning home.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E18-008: delivery:shouting, delivery:anguish, exclamation
+- E18-069: humiliation
+- E18-006: delivery:shouting, exclamation
+- E18-034: delivery:shouting, exclamation
+- E18-035: delivery:shouting, exclamation
+- E18-041: delivery:shouting, exclamation
+Possible cliffhangers:
+- E18-080: unanswered question, episode ending
+- E18-074: ominous
+
+SCRIPT_LINES (camera directions omitted):
+E18-002 [00:00.00-00:02.10] SFX: Muffled crackle and roar of an encroaching blaze.
+E18-004 [00:03.50-00:06.00] ACTION: Juliana coughs, her eyes widening in immediate alarm as the smell of burning wood fills her lungs.
+E18-005 [00:06.00-00:09.50] ACTION: Juliana bolts upright in bed, tossing off the woolen quilt as she sees the orange glow under the door.
+E18-006 [00:06.50-00:08.50] DIALOGUE JULIANA (Screaming, Terrified): "Alexander!"
+E18-008 [00:10.50-00:12.30] DIALOGUE JULIANA (Desperate, Shouting): "Alexander!"
+E18-010 [00:16.20-00:20.10] ACTION: Juliana sits huddled at the edge of the bed, pressing her bandaged hands against her mouth, coughing and sobbing in fear.
+E18-011 [00:17.80-00:19.80] DIALOGUE JULIANA (Muffled, Weeping): "Alexander..."
+E18-012 [00:19.50-00:21.00] SFX: A violent crash as the bedroom door is kicked open.
+E18-014 [00:20.80-00:22.50] DIALOGUE ALEXANDER (Authoritative, Urgency): "Juliana! Get up!"
+E18-016 [00:24.50-00:28.90] ACTION: Alexander reaches the bed, hoisting Juliana up by her arms into a standing embrace.
+E18-017 [00:26.50-00:28.00] DIALOGUE JULIANA (Breathless, Distressed): "What happened?"
+E18-018 [00:28.10-00:28.90] DIALOGUE ALEXANDER (Grim, Urgent): "Fire."
+E18-021 [00:32.50-00:36.50] ACTION: Alexander clutches Juliana against his chest with one strong arm, shielding her face from the sparks.
+E18-022 [00:33.20-00:35.20] DIALOGUE ALEXANDER (Firm, Protective): "Stay close to me."
+E18-024 [00:38.00-00:41.50] ACTION: Juliana recoils from the heat, clutching Alexander's coat tightly.
+E18-025 [00:39.50-00:41.80] DIALOGUE JULIANA (Panic-Stricken, Choked): "We cannot get through!"
+E18-026 [00:42.00-00:43.50] DIALOGUE ALEXANDER (Resolute, Calm Under Pressure): "Then we go another way."
+E18-028 [00:45.00-00:48.50] SFX: Loud wooden groaning and thunderous crash of burning rafters falling behind them.
+E18-031 [00:56.20-00:58.50] ACTION: Juliana spots the book and halts abruptly, pointing back toward the burning desk.
+E18-032 [00:56.50-00:57.80] DIALOGUE JULIANA (Frantic, Desperate): "The ledger!"
+E18-033 [00:57.80-01:00.00] ACTION: Alexander firmly grips her arm, pulling her back toward safety.
+E18-034 [00:58.00-00:59.20] DIALOGUE ALEXANDER (Stern, Shouting): "Leave it!"
+E18-035 [00:59.30-01:02.50] DIALOGUE JULIANA (Hysterical, Screaming): "No! No!"
+E18-037 [01:05.50-01:08.00] ACTION: Alexander points upward with urgency, pulling her under his arm.
+E18-038 [01:05.80-01:08.00] DIALOGUE ALEXANDER (Loud, Alarmed): "Juliana, the ceiling is coming down!"
+E18-039 [01:08.00-01:10.50] ACTION: Juliana wrests her hand from his grasp and charges straight toward the burning desk.
+E18-041 [01:13.50-01:15.50] DIALOGUE ALEXANDER (Roaring in Terror): "Juliana!"
+E18-042 [01:15.00-01:16.80] DIALOGUE JULIANA (Defiant, Weeping): "It's my mother's!"
+E18-043 [01:16.80-01:21.50] ACTION: Juliana snatches the scorched leather ledger from the burning table, pulling it tightly against her chest with both bandaged hands.
+E18-046 [01:24.00-01:26.20] DIALOGUE JULIANA (Screaming, Blood-Curdling): "Alexander!"
+E18-047 [01:26.50-01:29.50] ACTION: Alexander lunges across the room, tackling her to the wooden floor and covering her body entirely with his own.
+E18-048 [01:26.50-01:27.50] DIALOGUE ALEXANDER (Screaming Command): "Down!"
+E18-049 [01:27.80-01:30.00] SFX: Massive wooden beam crashes directly where Juliana had been standing, showering them in sparks.
+E18-051 [01:31.50-01:38.00] ACTION: Alexander lifts his head slightly, checking her face and cradling her cheek tenderly.
+E18-052 [01:36.50-01:38.20] DIALOGUE ALEXANDER (Panting, Reassuring): "I've got you."
+E18-054 [01:41.50-01:44.50] ACTION: Alexander scoops Juliana up in his arms, carrying her bridal-style as she clutches the ledger.
+E18-055 [01:43.50-01:45.50] ACTION: Juliana looks toward the side wall and points frantically at the parlor window.
+E18-056 [01:43.80-01:45.00] DIALOGUE JULIANA (Urgent, Shouting): "The window!"
+E18-057 [01:45.20-01:46.80] DIALOGUE ALEXANDER (Steely, Determined): "Hold on to me."
+E18-060 [01:51.50-01:55.50] ACTION: Alexander leaps forward, using his shoulder and back to shatter through the burning window frame, carrying Juliana safely in his arms out into the night.
+E18-061 [01:52.00-01:55.50] SFX: Loud explosion of shattering window glass and splintering wood.
+E18-067 [02:16.20-02:18.00] DIALOGUE JULIANA (Sobbing, Heartbroken): "Our home..."
+E18-068 [02:19.80-02:22.50] DIALOGUE JULIANA (Crying, Shattered): "Everything we had is gone."
+E18-069 [02:20.50-02:24.00] ACTION: Alexander kneels beside her in the grass, resting a steady, protective hand on her back.
+E18-070 [02:24.00-02:35.00] ACTION: Juliana turns toward Alexander, her hand trembling as she reaches out and touches his chest.
+E18-071 [02:25.80-02:28.50] DIALOGUE JULIANA (Voice Breaking, Anguished): "Why would anyone do this?"
+E18-072 [02:33.20-02:34.80] DIALOGUE JULIANA (Whispering, Tearful): "Alexander..."
+E18-073 [02:35.00-02:41.00] ACTION: Alexander draws her firmly into his arms, wrapping both burly arms around her as she buries her face into his shoulder, weeping uncontrollably.
+E18-074 [02:38.00-02:40.80] DIALOGUE ALEXANDER (Cold, Ominous): "Someone wanted us out."
+E18-075 [02:43.00-02:45.50] DIALOGUE JULIANA (Despairing, Weeping): "We have nowhere to go."
+E18-078 [02:51.80-02:57.20] DIALOGUE ALEXANDER (Cold Fury, Resolute): "They took our home. I will not let them take anything else now."
+E18-079 [02:59.50-03:04.00] ACTION: Juliana slowly pulls back slightly from his embrace, her tear-filled blue eyes looking up into his hardened features.
+E18-080 [03:04.20-03:06.50] DIALOGUE JULIANA (Trembling, Apprehensive): "What are you going to do?"
+
+NEXT_EPISODE_OPENING (E19, first 30 s; continuation only):
+E19-002 [00:00.00-00:04.50] ACTION: Juliana clutches her mother's scorched leather-bound herbal book against her chest, her face streaked with soot as she stares at the ruin in disbelief.
+E19-003 [00:01.80-00:03.50] DIALOGUE JULIANA (Sorrowful, Hollow): "This was our home."
+E19-005 [00:05.10-00:08.20] DIALOGUE JULIANA (Emotional, Fragile): "My mother's book almost burned with it."
+E19-006 [00:06.50-00:09.20] ACTION: Juliana tenderly lifts a scorched corner of parchment, revealing the surviving botanical drawing of medicinal herbs inside.
+E19-009 [00:12.10-00:15.20] DIALOGUE ELDER VILLAGER (Respectful, Sincere): "My lady. You cannot stay here."
+E19-011 [00:16.10-00:19.00] DIALOGUE ELDER VILLAGER (O.S.): "There is an old barn near the village. It is empty."
+E19-012 [00:18.50-00:20.50] ACTION: The elder villager steps closer, resting a gentle, reassuring hand on Juliana's shoulder.
+E19-013 [00:19.40-00:20.40] DIALOGUE ELDER VILLAGER (Gentle, Earnest): "Take it."
+E19-014 [00:20.60-00:22.60] DIALOGUE JULIANA (Hesitant, Humble): "We cannot ask the village to feed us."
+E19-015 [00:23.20-00:25.20] DIALOGUE ELDER VILLAGER (Warm, Grateful): "You saved my son's life."
+E19-017 [00:26.40-00:27.80] DIALOGUE ELDER VILLAGER (O.S.): "You saved mine, too."
+E19-019 [00:28.50-00:29.80] DIALOGUE JULIANA (Whispering, Tearful): "Thank you."
+
+Return up to 1 promos for E18 as JSON.

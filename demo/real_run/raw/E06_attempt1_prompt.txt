@@ -1,0 +1,72 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E06
+EPISODE_DURATION: 01:55.00
+LOGLINE: Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth.
+CONTINUITY: Picks up immediately from Episode 5, as Juliana and her mysterious new husband leave the Ashcroft estate behind and venture out into the rainy countryside.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E06-065: humiliation
+- E06-071: violence
+- E06-012: physical
+- E06-029: humiliation
+Possible cliffhangers:
+- E06-094: episode ending
+- E06-097: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E06-002 [00:00.00-00:03.40] ACTION: Juliana lifts the hem of her white satin wedding gown to keep it out of the pooling mud, shivering under her dark hooded cloak.
+E06-004 [00:02.30-00:06.50] SFX: Heavy rain pouring through dense tree canopies with steady footfalls on wet earth.
+E06-007 [00:04.50-00:07.10] ACTION: Juliana turns back toward him, water glistening on her face and hair.
+E06-009 [00:07.20-00:09.85] DIALOGUE MYSTERIOUS BEARDED MAN (Solemn, Gentle): "I know this is not the life you came from."
+E06-011 [00:10.10-00:11.20] DIALOGUE JULIANA (Quiet, Melancholic): "No."
+E06-012 [00:11.30-00:13.00] ACTION: Juliana looks upward into the canopy, gathering herself with a faint nod.
+E06-013 [00:13.40-00:14.60] DIALOGUE JULIANA (Resigned, Soft): "It isn't."
+E06-015 [00:15.20-00:18.20] DIALOGUE MYSTERIOUS BEARDED MAN (Guilt-ridden): "You should not have had to walk through this rain tonight."
+E06-018 [00:18.50-00:20.90] DIALOGUE JULIANA (Faintly Ironic, Resilient): "I suppose the day was already ruined."
+E06-021 [00:24.50-00:26.10] ACTION: They walk forward toward the cottage emerging from the dark woods.
+E06-023 [00:26.50-00:27.70] DIALOGUE JULIANA (Surprised, Hesitant): "That is it?"
+E06-025 [00:28.10-00:29.00] DIALOGUE MYSTERIOUS BEARDED MAN (Low): "Yes."
+E06-027 [00:29.20-00:30.50] SFX: Sudden distant rumble of thunder echoing across the forest.
+E06-029 [00:30.15-00:33.15] DIALOGUE JULIANA (Determined, Defiant): "At least no one there will be waiting to humiliate me."
+E06-031 [00:33.70-00:36.70] ACTION: The heavy wooden cottage door creaks open. Juliana steps across the threshold into the dark, barren room.
+E06-032 [00:33.80-00:36.50] SFX: Door hinges groaning open followed by the hollow thump of footsteps on wet wood floorboards.
+E06-034 [00:36.70-00:40.00] SFX: Rhythmic water drips plinking into the metal-rimmed wooden bucket.
+E06-037 [00:40.70-00:41.90] DIALOGUE MYSTERIOUS BEARDED MAN (Humble, Apologetic): "I am sorry."
+E06-040 [00:43.60-00:45.00] DIALOGUE MYSTERIOUS BEARDED MAN (Grave, Sincere): "You came from comfort."
+E06-041 [00:45.10-00:47.30] DIALOGUE MYSTERIOUS BEARDED MAN (Grave, Sincere): "This is all I can give you now."
+E06-043 [00:46.60-00:49.00] ACTION: Juliana removes her dark cloak, revealing her damp white bridal dress underneath.
+E06-046 [00:51.30-00:52.70] DIALOGUE JULIANA (Gentle, Peaceful): "It is quiet."
+E06-047 [00:53.30-00:54.60] DIALOGUE JULIANA (Gentle, Peaceful): "Very quiet."
+E06-050 [00:56.40-00:58.00] DIALOGUE JULIANA (Earnest, Content): "I think I like that."
+E06-052 [00:58.40-01:00.00] DIALOGUE MYSTERIOUS BEARDED MAN (Incredulous): "You are not disappointed?"
+E06-054 [01:00.30-01:01.30] DIALOGUE JULIANA (Direct, Soft): "I am."
+E06-056 [01:01.90-01:04.10] DIALOGUE JULIANA (Warm, Reassuring): "But not because of you."
+E06-058 [01:04.30-01:06.80] DIALOGUE JULIANA (Determined, Practical): "If this is our home, I want it clean."
+E06-060 [01:06.70-01:08.70] DIALOGUE MYSTERIOUS BEARDED MAN (Caring, Tender): "You don't have to do that tonight."
+E06-063 [01:10.10-01:13.20] DIALOGUE JULIANA (Vulnerable, Trembling): "If I stop now, I will think about everything I lost."
+E06-065 [01:14.30-01:16.80] ACTION: Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting and adjusting the wobbly table leg to help.
+E06-067 [01:16.80-01:17.80] ACTION: Juliana picks up a straw broom and sweeps the stone floor in front of the stone hearth.
+E06-069 [01:17.80-01:21.00] ACTION: The Mysterious Bearded Man carries a heavy wooden log across the room and places it onto the iron grate in the hearth.
+E06-071 [01:21.00-01:23.80] ACTION: He strikes flint and steel together over dry kindling, igniting bright sparks that catch into a flickering flame.
+E06-074 [01:23.80-01:30.00] SFX: Crisp crackling and snapping of dry wood catching fire in the hearth.
+E06-076 [01:27.50-01:29.80] ACTION: The Mysterious Bearded Man stands up from the hearth, dusting his hands on his coat.
+E06-078 [01:29.00-01:29.80] DIALOGUE MYSTERIOUS BEARDED MAN (Relieved): "There."
+E06-081 [01:32.10-01:33.60] DIALOGUE MYSTERIOUS BEARDED MAN (Quiet, Modest): "It is not much."
+E06-083 [01:34.20-01:36.20] DIALOGUE JULIANA (Soft, Comforted): "It is enough for tonight."
+E06-086 [01:38.40-01:40.40] DIALOGUE JULIANA (V.O., Reflective, Vulnerable): "I lost my home today."
+E06-087 [01:40.60-01:41.80] DIALOGUE JULIANA (V.O., Reflective, Vulnerable): "My family."
+E06-089 [01:42.00-01:44.80] DIALOGUE JULIANA (V.O., Reflective, Vulnerable): "Everything I thought my life would be."
+E06-092 [01:45.00-01:46.00] DIALOGUE JULIANA (V.O., Gentle, Surprised): "And yet..."
+E06-094 [01:46.20-01:49.00] DIALOGUE JULIANA (V.O., Tender, Safe): "Sitting here with him, I don't feel afraid."
+E06-097 [01:51.50-01:55.00] SFX: Warm hearth crackles blending with gentle string music fading out.
+
+NEXT_EPISODE_OPENING (E07, first 30 s; continuation only):
+E07-002 [00:00.00-00:04.80] ACTION: Juliana, dressed in her simple grey long-sleeved gown, works tirelessly with soil caked beneath her fingernails.
+E07-004 [00:05.00-00:11.50] SFX: Heavy carriage wheels grinding in mud, horse snorts, and rhythmic hoofbeats halting.
+E07-007 [00:19.50-00:21.00] ACTION: Aristocratic Woman smirks cruelly as she surveys the humble stone cottage.
+E07-008 [00:21.00-00:24.00] ACTION: Juliana rinses the heavy mud from her hands in a cold rainwater puddle and rises to her feet, holding her head high.
+E07-009 [00:22.00-00:24.50] DIALOGUE ARISTOCRATIC WOMAN (Mocking, Condescending): "This is where you live now?"
+E07-011 [00:25.00-00:29.80] DIALOGUE GERALD (Arrogant, Scornful): "A fitting home for a woman who threw away everything for a penniless soldier."
+
+Return up to 1 promos for E06 as JSON.

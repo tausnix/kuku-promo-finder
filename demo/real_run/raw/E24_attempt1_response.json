@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: shocking_line at E24-054\", \"segments\": [{\"start_id\": \"E24-054\", \"end_id\": \"E24-067\"}], \"hook_id\": \"E24-054\", \"hook_quote\": \"Do you want the same punishment?\", \"cliffhanger_id\": \"E24-067\", \"cliffhanger_quote\": \"Juliana raises her head. Smudges of dark soot stain her fair cheek,\", \"hook_type\": \"shocking_line\", \"why\": \"Rules only: hook signals [delivery:rage, delivery:menace], cliff signals [episode ending].\", \"scores\": {\"hook\": 3, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "a9acbecc8c0db864edb5731c90a2a1b553b4915e20ed683e1452f5cfa24490ff"
+}

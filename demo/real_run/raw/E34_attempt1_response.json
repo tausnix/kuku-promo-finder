@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: shocking_line at E34-019\", \"segments\": [{\"start_id\": \"E34-019\", \"end_id\": \"E34-035\"}], \"hook_id\": \"E34-019\", \"hook_quote\": \"Silence!\", \"cliffhanger_id\": \"E34-035\", \"cliffhanger_quote\": \"What did you see?\", \"hook_type\": \"shocking_line\", \"why\": \"Rules only: hook signals [delivery:rage, delivery:shouting, exclamation], cliff signals [open question, unanswered question].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 3, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "058ccac1701572c8a9e70a3ae4c88bf40dee436353006b2c8de2d3886dac3373"
+}

@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: shocking_line at E05-033\", \"segments\": [{\"start_id\": \"E05-033\", \"end_id\": \"E05-062\"}], \"hook_id\": \"E05-033\", \"hook_quote\": \"Barbara, don't!\", \"cliffhanger_id\": \"E05-062\", \"cliffhanger_quote\": \"Rain gently pattering on cobblestones beneath a sweeping, melancholic orchestral swell that\", \"hook_type\": \"shocking_line\", \"why\": \"Rules only: hook signals [delivery:shouting, delivery:anguish, exclamation], cliff signals [sound sting, episode ending].\", \"scores\": {\"hook\": 3, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "b9104f8f5223bfd29825e791e1edac8a07932569f3b3852d5d0da419b758be09"
+}

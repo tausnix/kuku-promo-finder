@@ -6,6 +6,9 @@
 # Run outputs (promos, prompts, raw replies, reviews) are shared privately, not in this repo.
 data/
 *.zip
+# Exception: the bundled real run needs its source pack to render transcripts on
+# Streamlit Cloud. The user explicitly chose to publish it with this public repo.
+!demo/real_scripts.zip
 outputs/
 .llm_cache/
 

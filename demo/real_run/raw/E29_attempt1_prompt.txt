@@ -1,0 +1,67 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E29
+EPISODE_DURATION: 01:56.69
+LOGLINE: Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana breaks down in isolation before swearing that they will never take Alexander from her.
+CONTINUITY: Follows directly from Episode 28 where Rupert ordered the guards to drag Juliana down to the wet cells while Catherine seized her mother's herbarium.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E29-024: delivery:rage, delivery:shouting, exclamation
+- E29-036: reveal, delivery:rage, exclamation
+- E29-067: reveal, delivery:shouting, exclamation
+- E29-028: delivery:shouting, delivery:anguish, exclamation
+- E29-054: delivery:shouting, delivery:anguish, exclamation
+- E29-062: delivery:shouting, delivery:anguish, exclamation
+Possible cliffhangers:
+- E29-055: sound sting, interruption
+- E29-071: episode ending
+- E29-073: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E29-002 [00:00.00-00:03.50] SFX: Dripping water echoes hollowly against stone steps alongside the shuffling scuffle of boots.
+E29-004 [00:02.90-00:05.10] ACTION: Juliana resists furiously, her feet stumbling on the wet flagstones as the guards forcibly propel her forward.
+E29-007 [00:07.40-00:11.70] DIALOGUE JULIANA (Desperate, Weeping): "Catherine! Please! That book is my mother's only legacy!"
+E29-010 [00:13.20-00:17.30] DIALOGUE JULIANA (Pleading, Agonized): "It contains years of her work! Her knowledge! Everything she left me!"
+E29-013 [00:21.00-00:24.00] DIALOGUE CATHERINE (Mocking, Condescending): "Your mother's little book of weeds?"
+E29-014 [00:24.80-00:26.70] DIALOGUE CATHERINE (Cruel, Smug): "You still call this a legacy?"
+E29-016 [00:27.10-00:28.70] DIALOGUE JULIANA (Defiant, Furious): "It is medicine!"
+E29-018 [00:30.40-00:31.80] DIALOGUE CATHERINE (Smooth, Patronizing): "Of course."
+E29-020 [00:31.90-00:37.30] DIALOGUE CATHERINE (O.S., Disdainful, Calculating): "Roots. Leaves. Powders. Strange mixtures written in a dead woman's hand."
+E29-022 [00:37.70-00:40.00] DIALOGUE CATHERINE (Icy, Threatening): "The magistrate will call it witchcraft."
+E29-024 [00:40.10-00:41.80] DIALOGUE JULIANA (Furious, Shouted): "You know that is a lie!"
+E29-026 [00:42.00-00:44.20] DIALOGUE CATHERINE (Calm, Sinister): "I know exactly what I need him to believe."
+E29-028 [00:44.40-00:46.50] DIALOGUE JULIANA (Screaming, Desperate): "You cannot just destroy it!"
+E29-030 [00:47.30-00:49.10] DIALOGUE CATHERINE (Whispered, Malicious): "I can burn it."
+E29-032 [00:50.10-00:53.60] DIALOGUE CATHERINE (O.S., Chilling, Relentless): "And when they find your corpse at the end of the rope..."
+E29-034 [00:53.80-00:56.50] DIALOGUE CATHERINE (Cruel, Resolute): "...no one will remember what was written inside."
+E29-036 [00:56.70-00:59.00] DIALOGUE JULIANA (Enraged, Defiant): "You are doing this because I saved the Duchess!"
+E29-038 [00:59.30-01:03.40] DIALOGUE CATHERINE (Scornful, Arrogant): "I am doing this because women like you forget their place."
+E29-040 [01:04.50-01:06.50] DIALOGUE CATHERINE (Cold, Venomous): "You were cast out once."
+E29-042 [01:07.20-01:09.10] DIALOGUE CATHERINE (Menacing): "You should have stayed forgotten."
+E29-044 [01:09.80-01:11.40] DIALOGUE JULIANA (Steely, Resolute): "My husband will find me."
+E29-046 [01:12.10-01:14.30] DIALOGUE CATHERINE (Scoffing, Amused): "Your scarred soldier?"
+E29-048 [01:14.70-01:18.10] DIALOGUE CATHERINE (Derisive, Biting): "What exactly do you think a penniless veteran can do against Ashbrook?"
+E29-050 [01:18.70-01:20.60] DIALOGUE GUARD (Gruff, Dismissive): "Move along, girl."
+E29-053 [01:24.00-01:26.50] ACTION: The guards shove Juliana violently into the cell; she falls hard onto all fours across the cold, wet stone floor.
+E29-054 [01:25.70-01:26.50] DIALOGUE JULIANA (Crying Out, Broken): "Please!"
+E29-055 [01:26.50-01:28.00] SFX: The heavy iron door slams shut with a deafening metallic thud, and the massive exterior bolt grates locked.
+E29-058 [01:29.50-01:33.70] ACTION: Juliana trembles uncontrollably, her fingers digging into the collar of her rustic dress as terror washes over her.
+E29-060 [01:34.20-01:35.50] DIALOGUE JULIANA (Sobbing, Heartbroken): "Mother..."
+E29-062 [01:37.30-01:39.50] DIALOGUE JULIANA (Desperate, Shouting): "I have done nothing!"
+E29-064 [01:39.70-01:42.30] DIALOGUE JULIANA (Screaming, Hysterical): "I saved her! I healed her!"
+E29-066 [01:42.50-01:45.20] SFX: Muffled, dull metallic clanging reverberates as Juliana hammers against the iron door.
+E29-067 [01:42.60-01:45.30] DIALOGUE JULIANA (Shouting in Anguish): "I saved the Duchess!"
+E29-069 [01:46.50-01:48.80] DIALOGUE JULIANA (V.O., Sorrowful, Wounded): "They took my mother's ledger..."
+E29-071 [01:49.00-01:52.60] DIALOGUE JULIANA (V.O., Quiet Resolve, Unbreakable): "They took her locket. But they will not take Alexander from me."
+E29-073 [01:52.80-01:54.80] SFX: A heavy iron portcullis crashes down with a massive echoing bang.
+
+NEXT_EPISODE_OPENING (E30, first 30 s; continuation only):
+E30-002 [00:00.00-00:04.50] SFX: Rhythmic, heavy footsteps and the sharp metallic click of a cane striking the polished stone floor.
+E30-003 [00:03.00-00:05.50] ACTION: The Elder Nobleman walks with stern, unhurried authority, dressed in an immaculate black tailcoat and dark vest with a gold pocket watch chain.
+E30-005 [00:06.80-00:07.90] SFX: A firm tap of the wooden walking stick halting against the floor.
+E30-007 [00:08.80-00:13.30] DIALOGUE ELDER NOBLEMAN (Cold, Accusatory): "You have a rat in your cellar, Rupert. And the servants are beginning to smell it."
+E30-009 [00:13.60-00:16.80] DIALOGUE RUPERT (Defensive, Anxious): "The Ashcroft girl is locked tight. Nobody knows she is down there."
+E30-011 [00:17.30-00:25.80] DIALOGUE ELDER NOBLEMAN (Stern, Disapproving): "The kitchen maids are whispering. They see the soup bowls returned unwiped. They see your guards outside the lower grates."
+E30-013 [00:26.50-00:29.20] DIALOGUE RUPERT (Muttered, Paranoid): "She knows the Duchess was poisoned."
+
+Return up to 1 promos for E29 as JSON.

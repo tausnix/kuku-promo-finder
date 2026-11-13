@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: shocking_line at E18-008\", \"segments\": [{\"start_id\": \"E18-008\", \"end_id\": \"E18-028\"}], \"hook_id\": \"E18-008\", \"hook_quote\": \"Alexander!\", \"cliffhanger_id\": \"E18-028\", \"cliffhanger_quote\": \"Loud wooden groaning and thunderous crash of burning rafters falling behind them.\", \"hook_type\": \"shocking_line\", \"why\": \"Rules only: hook signals [delivery:shouting, delivery:anguish, exclamation], cliff signals [none].\", \"scores\": {\"hook\": 3, \"cliffhanger\": 1, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "0c000e45d8ae2779b55ff3b4a63bc9c2321aaae38de1199b1be14ee74d529435"
+}

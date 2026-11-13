@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: romance at E37-074\", \"segments\": [{\"start_id\": \"E37-074\", \"end_id\": \"E37-079\"}], \"hook_id\": \"E37-074\", \"hook_quote\": \"Instead she married a nobody, played healer to peasants, challenged people above\", \"cliffhanger_id\": \"E37-079\", \"cliffhanger_quote\": \"A deep, ominous cello rumble builds alongside the crackle of the fireplace\", \"hook_type\": \"romance\", \"why\": \"Rules only: hook signals [romance, delivery:menace], cliff signals [scripted cliffhanger, ominous, sound sting].\", \"scores\": {\"hook\": 2, \"cliffhanger\": 5, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "7ddc7838e37226956d252c11a7f6c093fab4a8abaa0d5c7d54263a076a98b2af"
+}

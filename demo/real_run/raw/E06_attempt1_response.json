@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: humiliation at E06-065\", \"segments\": [{\"start_id\": \"E06-065\", \"end_id\": \"E06-097\"}], \"hook_id\": \"E06-065\", \"hook_quote\": \"Instead of stopping her, the Mysterious Bearded Man kneels beside the table\", \"cliffhanger_id\": \"E06-097\", \"cliffhanger_quote\": \"Warm hearth crackles blending with gentle string music fading out.\", \"hook_type\": \"humiliation\", \"why\": \"Rules only: hook signals [humiliation], cliff signals [episode ending].\", \"scores\": {\"hook\": 3, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "5ff7fd78f2bd6f7eb1cfdd7cbcfe5492a4a6cbe4675c19ce9b815231facc96dc"
+}

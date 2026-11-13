@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: violence at E16-017\", \"segments\": [{\"start_id\": \"E16-017\", \"end_id\": \"E16-040\"}], \"hook_id\": \"E16-017\", \"hook_quote\": \"Alexander strikes the thug across the chest and slams him violently into\", \"cliffhanger_id\": \"E16-040\", \"cliffhanger_quote\": \"Wrong answer.\", \"hook_type\": \"violence\", \"why\": \"Rules only: hook signals [violence, physical], cliff signals [ominous].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "8d3197a394e662ecccd8ebc64fe0e32d4841509bbf5d77cbf6a04ef6f6469a95"
+}

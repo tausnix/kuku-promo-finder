@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: reveal at E46-038\", \"segments\": [{\"start_id\": \"E46-038\", \"end_id\": \"E46-055\"}], \"hook_id\": \"E46-038\", \"hook_quote\": \"Love doesn't make a Duchess, girl. Paper does.\", \"cliffhanger_id\": \"E46-055\", \"cliffhanger_quote\": \"And I have the power to undo in one hearing what took\", \"hook_type\": \"reveal\", \"why\": \"Rules only: hook signals [reveal, delivery:menace], cliff signals [sound sting].\", \"scores\": {\"hook\": 3, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "aea015ba1881e2ab99eb09748580e9938c788759a4ce9546cafe4489408e7ce2"
+}

@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: shocking_line at E29-024\", \"segments\": [{\"start_id\": \"E29-024\", \"end_id\": \"E29-055\"}], \"hook_id\": \"E29-024\", \"hook_quote\": \"You know that is a lie!\", \"cliffhanger_id\": \"E29-055\", \"cliffhanger_quote\": \"The heavy iron door slams shut with a deafening metallic thud, and\", \"hook_type\": \"shocking_line\", \"why\": \"Rules only: hook signals [delivery:rage, delivery:shouting, exclamation], cliff signals [sound sting, interruption].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "502b4151d036ac1caf0cebc3b981c14a3824883b2537ece7a85f32eaadd16a5f"
+}

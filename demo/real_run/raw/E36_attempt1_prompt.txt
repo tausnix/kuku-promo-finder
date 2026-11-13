@@ -1,0 +1,100 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E36
+EPISODE_DURATION: 03:20.75
+LOGLINE: Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming wedding, Alexander vows to return from the dead and reclaim everything stolen from him.
+CONTINUITY: Picking up immediately from the revelation in Episode 35 that the men ruling Ashwood orchestrated Alexander's ambush, Alexander learns of Juliana's imprisonment and looming execution.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E36-032: threat, reveal
+- E36-066: threat, exclamation
+- E36-119: threat, reveal
+- E36-068: delivery:shouting, exclamation
+- E36-072: delivery:rage, exclamation
+- E36-100: threat
+Possible cliffhangers:
+- E36-121: scripted cliffhanger, ominous, sound sting, episode ending
+- E36-011: shock beat, unanswered question
+- E36-064: shock beat, unanswered question
+- E36-083: shock beat
+- E36-119: episode ending
+- E36-120: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E36-002 [00:00.00-00:03.80] ACTION: Alexander's mother leans forward with both hands on the rustic table, searching her son's scarred face in disbelief.
+E36-003 [00:00.80-00:03.70] DIALOGUE ALEXANDER'S MOTHER (Whispering, Distraught): "Then why did they never find you?"
+E36-005 [00:04.80-00:08.20] DIALOGUE ALEXANDER (Cold, Bitter): "Because they made certain no one would look."
+E36-007 [00:09.50-00:11.20] DIALOGUE ALEXANDER'S MOTHER (Trembling): "Who?"
+E36-009 [00:13.50-00:17.00] DIALOGUE ALEXANDER (Grave, Sinister): "Sterling... and Rupert."
+E36-011 [00:17.60-00:19.80] DIALOGUE ALEXANDER'S MOTHER (Gasping, Stricken): "Rupert?"
+E36-013 [00:21.00-00:23.50] DIALOGUE ALEXANDER (Stern, Resolute): "They knew where I was."
+E36-015 [00:23.70-00:28.80] DIALOGUE ALEXANDER (Fierce): "My position was leaked to the French... before I could expose what I had discovered."
+E36-017 [00:29.20-00:31.70] DIALOGUE ALEXANDER'S MOTHER (Horrified): "They gave you to the enemy?"
+E36-019 [00:32.00-00:34.50] DIALOGUE ALEXANDER (Deadpan, Resolute): "They gave them my location."
+E36-021 [00:36.20-00:38.70] DIALOGUE ALEXANDER (Spitting with Contempt): "They wanted the investigation buried."
+E36-023 [00:39.10-00:41.40] DIALOGUE ALEXANDER'S MOTHER (Shattered): "And when you disappeared...?"
+E36-025 [00:41.60-00:43.70] DIALOGUE ALEXANDER (Cold): "They declared me dead."
+E36-027 [00:45.30-00:48.50] DIALOGUE ALEXANDER (O.S., Grave): "They falsified what remained of the reports."
+E36-028 [00:45.30-00:48.80] ACTION: Alexander's mother presses her trembling hands against her lips, tears brimming in her eyes.
+E36-030 [00:49.00-00:51.80] DIALOGUE ALEXANDER'S MOTHER (Tearful, Bitter): "And Rupert took Ashbourne."
+E36-032 [00:52.50-00:55.30] DIALOGUE ALEXANDER (Darkly): "While the world mourned a dead heir."
+E36-034 [00:56.00-00:58.50] DIALOGUE ALEXANDER'S MOTHER (Choked with Tears): "And I mourned you."
+E36-036 [00:59.20-01:00.40] DIALOGUE ALEXANDER (Softly): "I know."
+E36-038 [01:00.90-01:03.80] DIALOGUE ALEXANDER'S MOTHER (Sobbing): "I trusted them."
+E36-040 [01:05.10-01:07.30] DIALOGUE ALEXANDER (Gentle yet Firm): "You trusted family."
+E36-042 [01:07.80-01:10.50] DIALOGUE ALEXANDER (Resentful): "They used that trust against you."
+E36-044 [01:12.10-01:14.70] DIALOGUE ALEXANDER (Urgent, Anxious): "Mother... Juliana..."
+E36-046 [01:14.90-01:18.10] DIALOGUE ALEXANDER (Intense): "She went into Ashbourne Manor to save you. She never came back."
+E36-048 [01:18.80-01:21.70] DIALOGUE ALEXANDER (Tremulous): "I thought perhaps she stayed with you."
+E36-050 [01:22.00-01:23.80] DIALOGUE ALEXANDER'S MOTHER (Hesitant, Trembling): "Alexander..."
+E36-052 [01:24.40-01:25.50] DIALOGUE ALEXANDER (Alarmed): "What?"
+E36-054 [01:27.20-01:29.80] DIALOGUE ALEXANDER'S MOTHER (Choked): "She did come to me."
+E36-056 [01:31.00-01:33.10] DIALOGUE ALEXANDER (Demanding): "Is she still at Ashbourne?"
+E36-058 [01:33.50-01:35.80] DIALOGUE ALEXANDER'S MOTHER (Sobbing): "No..."
+E36-060 [01:36.80-01:38.50] DIALOGUE ALEXANDER (Desperate): "Then where is she?"
+E36-062 [01:39.50-01:43.20] DIALOGUE ALEXANDER'S MOTHER (Wailing): "They arrested her!"
+E36-064 [01:44.00-01:45.50] DIALOGUE ALEXANDER (Stunned): "Arrested?"
+E36-066 [01:45.90-01:49.80] DIALOGUE ALEXANDER'S MOTHER (Despairing): "Rupert and Catherine accused her of poisoning me!"
+E36-068 [01:51.80-01:53.80] DIALOGUE ALEXANDER (Shouting, Incredulous): "But she saved you!"
+E36-070 [01:54.20-01:56.50] DIALOGUE ALEXANDER'S MOTHER (Weeping): "I told them!"
+E36-072 [01:57.50-01:59.30] DIALOGUE ALEXANDER (Furious): "You told them the truth!"
+E36-074 [01:59.80-02:02.50] DIALOGUE ALEXANDER'S MOTHER (Agonized): "They called her a witch!"
+E36-076 [02:03.80-02:06.80] DIALOGUE ALEXANDER (Horrified): "Juliana... is in a cell?"
+E36-078 [02:07.80-02:10.50] DIALOGUE ALEXANDER'S MOTHER (Weak, Trembling): "She was taken before a magistrate."
+E36-080 [02:10.90-02:11.80] DIALOGUE ALEXANDER (Barking): "And?!"
+E36-082 [02:12.20-02:14.40] DIALOGUE ALEXANDER'S MOTHER (Weeping): "They condemned her."
+E36-083 [02:14.50-02:15.20] DIALOGUE ALEXANDER (O.S., Gasping): "No."
+E36-085 [02:16.00-02:18.80] DIALOGUE ALEXANDER'S MOTHER (Solemn, Shattered): "She is to be executed."
+E36-087 [02:20.20-02:21.50] DIALOGUE ALEXANDER (Guttural, Demanding): "When?"
+E36-089 [02:23.20-02:25.50] DIALOGUE ALEXANDER'S MOTHER (Trembling): "After the wedding."
+E36-091 [02:26.50-02:28.00] DIALOGUE ALEXANDER (Cold, Menacing): "What wedding?"
+E36-093 [02:28.80-02:31.50] DIALOGUE ALEXANDER'S MOTHER (Grim): "Rupert... and Catherine's."
+E36-094 [02:30.50-02:33.00] SFX: A sudden dramatic metallic swell underscores the impending deadline.
+E36-096 [02:33.50-02:36.00] DIALOGUE ALEXANDER'S MOTHER (Deadly Serious): "Two days from now."
+E36-098 [02:36.80-02:39.80] DIALOGUE ALEXANDER (Simmering with Fury): "They are marrying in two days..."
+E36-100 [02:40.50-02:43.00] DIALOGUE ALEXANDER (Deadly, Throaty): "...and killing my wife afterward."
+E36-102 [02:43.20-02:46.80] DIALOGUE ALEXANDER'S MOTHER (Pleading, Terrified): "Alexander, you cannot go back there alone!"
+E36-104 [02:48.50-02:50.80] DIALOGUE ALEXANDER (Grave, Seething): "They already took my name."
+E36-106 [02:51.60-02:53.60] DIALOGUE ALEXANDER (Roaring with Conviction): "They stole my home!"
+E36-108 [02:54.20-02:56.80] DIALOGUE ALEXANDER (Venomous): "And now they have taken Juliana!"
+E36-109 [02:57.00-02:59.50] ACTION: Close-up of Alexander's gloved hand clenching into a tight, leather-creaking fist.
+E36-110 [02:57.50-02:59.20] SFX: The sharp, taut creak of leather straining under monstrous grip strength.
+E36-112 [03:00.00-03:04.00] ACTION: Alexander stands framed in the doorway, staring out into the vast, snow-covered pine forest under the cold moonlight.
+E36-113 [03:02.00-03:03.50] DIALOGUE ALEXANDER (Calm, Chilling): "Two days."
+E36-115 [03:04.50-03:07.80] DIALOGUE ALEXANDER (Vow of Vengeance): "Then they have two days to celebrate."
+E36-117 [03:09.50-03:12.20] DIALOGUE ALEXANDER (Low, Menacing Promise): "Because before that wedding begins..."
+E36-119 [03:13.00-03:16.80] DIALOGUE ALEXANDER (Cold, Thunderous Finale): "...their dead Duke is coming home."
+E36-120 [03:17.00-03:20.75] ACTION: Alexander stares resolutely ahead into the dark, snowy woods as the camera holds on his grim, determined expression before cutting to black.
+E36-121 [03:17.00-03:20.75] SFX: A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and reverberates into silence.
+
+NEXT_EPISODE_OPENING (E37, first 30 s; continuation only):
+E37-002 [00:01.50-00:03.20] SFX: The crisp tap of heavy cardstock envelopes being set down onto silver.
+E37-004 [00:06.00-00:09.30] DIALOGUE BLOND NOBLEMAN (Rupert, Cold, Calculating): "Every important family in the county should witness it."
+E37-006 [00:10.80-00:12.40] DIALOGUE CATHERINE (Inquiring, Smug): "The wedding?"
+E37-008 [00:12.80-00:14.80] DIALOGUE BLOND NOBLEMAN (Rupert, Authoritative): "The transfer of Ashbridge."
+E37-010 [00:15.60-00:18.80] DIALOGUE CATHERINE (Gloating): "After the ceremony, no one will question who owns this house."
+E37-012 [00:19.00-00:23.00] DIALOGUE BLOND NOBLEMAN (Rupert, Sinister, Ruthless): "And no one will question what happened to the woman who tried to stop us."
+E37-014 [00:23.80-00:26.40] DIALOGUE CATHERINE (Venomous Satisfaction): "Juliana's execution comes after the wedding."
+E37-016 [00:26.60-00:29.80] DIALOGUE CATHERINE (Gleeful): "Perfect timing. It will be a feast for our guests."
+
+Return up to 1 promos for E36 as JSON.

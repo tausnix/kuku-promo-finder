@@ -1,0 +1,60 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E23
+EPISODE_DURATION: 02:11.50
+LOGLINE: After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being poisoned with arsenic—only for someone to arrive at the bedroom door just as she begins concocting the antidote.
+CONTINUITY: Picks up immediately from the Episode 22 cliffhanger inside the forbidden West Wing of Ashbury Manor, where Lady Juliana crouches beside the bedridden Dowager Duchess, racing against time to determine the source of her fatal illness.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E23-043: threat, delivery:shock
+- E23-040: threat
+- E23-005: reveal
+- E23-045: delivery:menace
+- E23-018: reveal
+- E23-032: delivery:shock
+Possible cliffhangers:
+- E23-066: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E23-003 [00:01.80-00:06.00] DIALOGUE PRUDENCE (Anxious, Whispering): "Juliana, we cannot stay for long. Someone will come."
+E23-005 [00:07.50-00:11.80] ACTION: Juliana cradles the Duchess's frail hands in hers, inspecting her fingers with furrowed brows.
+E23-007 [00:13.50-00:16.00] DIALOGUE LADY JULIANA (Hushed, Grave): "How long has she been like this?"
+E23-009 [00:16.80-00:19.50] DIALOGUE PRUDENCE (Tearful, Trembling): "Weeks."
+E23-012 [00:24.00-00:27.50] DIALOGUE LADY JULIANA (Solemn): "Her mouth is terribly dry."
+E23-014 [00:29.00-00:31.50] DIALOGUE LADY JULIANA (Quiet, Grim): "Her pulse is weak."
+E23-016 [00:32.00-00:36.00] DIALOGUE PRUDENCE (Despairing, Weeping): "The physician said her heart is failing."
+E23-018 [00:36.00-00:38.50] SFX: Duchess's raspy, labored inhalation.
+E23-020 [00:40.80-00:43.00] DIALOGUE LADY JULIANA (Firm, Resolute): "No."
+E23-022 [00:43.80-00:46.50] DIALOGUE LADY JULIANA (Certain, Focused): "This is not simply old age."
+E23-026 [00:57.50-00:58.50] ACTION: Juliana draws in a sharp, startled breath, her eyes widening in horror.
+E23-028 [00:58.50-01:00.00] DIALOGUE LADY JULIANA (Breathless, Reverent): "Mother."
+E23-030 [01:00.80-01:02.00] DIALOGUE PRUDENCE (Urgent, Baffled): "What is it?"
+E23-032 [01:02.00-01:08.50] DIALOGUE LADY JULIANA (Shocked, Deliberate): "Weakness. Dry mouth. The discoloration beneath the nails. The slow wasting."
+E23-035 [01:10.50-01:13.50] DIALOGUE LADY JULIANA (Serious, Chilled): "I have seen these symptoms before."
+E23-037 [01:13.80-01:15.80] DIALOGUE PRUDENCE (Panicked, Shaken): "What are you saying?"
+E23-040 [01:19.00-01:21.50] DIALOGUE LADY JULIANA (Cold, Deadly Serious): "Someone is poisoning her."
+E23-042 [01:21.50-01:22.50] SFX: Sharp intake of breath from Prudence.
+E23-043 [01:22.00-01:24.00] DIALOGUE PRUDENCE (Muffled, Horrified): "Poison?"
+E23-045 [01:26.00-01:28.00] DIALOGUE LADY JULIANA (Venomous, Resolute): "Arsenic."
+E23-046 [01:28.00-01:30.50] SFX: Sudden violent coughing and sputtering from the Duchess.
+E23-050 [01:34.50-01:37.00] DIALOGUE PRUDENCE (Desperate, Begging): "Can you save her?"
+E23-052 [01:37.50-01:40.00] DIALOGUE LADY JULIANA (Focused, Resolute): "I can try."
+E23-055 [01:44.50-01:52.00] SFX: Heavy, rhythmic scraping of stone pestle grinding charcoal and dried herbs.
+E23-057 [01:47.50-01:52.00] DIALOGUE LADY JULIANA (Urgent, Focused): "The charcoal may help remove what is still inside her. We must act quickly."
+E23-058 [01:52.20-01:54.00] SFX: Sudden muffled thump and heavy footsteps echoing from the hallway outside the door!
+E23-063 [01:58.80-02:04.00] DIALOGUE PRUDENCE (Terrified, Hoarse Whisper): "Juliana... someone is coming."
+E23-066 [02:09.20-02:11.20] SFX: Loud, metallic clack of the door latch turning, followed by the slow creak of wood hinges.
+
+NEXT_EPISODE_OPENING (E24, first 30 s; continuation only):
+E24-002 [00:00.20-00:03.00] SFX: Heavy metallic click of the latch and the ominous low creak of the door hinges.
+E24-004 [00:04.00-00:06.50] ACTION: The noblewoman halts in the center of the chamber, tapping her riding crop against her gloved palm as her cold gaze sweeps across the two maids.
+E24-006 [00:06.80-00:08.40] DIALOGUE NOBLEWOMAN (Sharp, Demanding): "Who are you?"
+E24-008 [00:08.50-00:12.00] DIALOGUE LADY JULIANA (Humble, Measured): "Juliana, my lady. I was hired for the winter cleaning."
+E24-010 [00:13.00-00:16.40] DIALOGUE NOBLEWOMAN (Accusatory, Strict): "And who gave you permission to enter this chamber?"
+E24-012 [00:18.80-00:20.50] ACTION: Behind her grey skirt, Juliana quickly slips the small glass remedy vial into her apron pocket with her charcoal-dusted fingers.
+E24-015 [00:20.80-00:22.20] DIALOGUE LADY JULIANA (Softly Defiant): "I heard her. I thought Her Grace needed help."
+E24-017 [00:22.50-00:26.50] DIALOGUE NOBLEWOMAN (Scoffing, Cruel): "You thought? A new maid thinks she knows better than the physicians?"
+E24-019 [00:27.00-00:28.60] DIALOGUE LADY JULIANA (Emphatic, Defiant): "She is suffering."
+E24-021 [00:29.00-00:30.80] DIALOGUE NOBLEWOMAN (Vicious, Venomous): "Then let her suffer."
+
+Return up to 1 promos for E23 as JSON.

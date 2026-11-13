@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: threat at E26-026\", \"segments\": [{\"start_id\": \"E26-026\", \"end_id\": \"E26-036\"}], \"hook_id\": \"E26-026\", \"hook_quote\": \"Rupert and Catherine want me dead. They are poisoning me in my\", \"cliffhanger_id\": \"E26-036\", \"cliffhanger_quote\": \"A sharp, stunned gasp.\", \"hook_type\": \"threat\", \"why\": \"Rules only: hook signals [threat, threat, delivery:anguish], cliff signals [shock beat].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "e76dbd42121829954ebaf10985dc8b88fe967c013b201e8bc5d98d47597be9f9"
+}

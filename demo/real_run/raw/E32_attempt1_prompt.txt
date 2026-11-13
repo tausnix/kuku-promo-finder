@@ -1,0 +1,90 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E32
+EPISODE_DURATION: 02:34.38
+LOGLINE: Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine into a murderous fury.
+CONTINUITY: Picks up immediately from Episode 31's cliffhanger where Catherine used a glowing branding iron to scorch Juliana's mother's herbal book.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E32-034: delivery:rage, delivery:shouting, exclamation
+- E32-042: delivery:rage, delivery:shouting, exclamation
+- E32-081: delivery:rage, delivery:shouting, exclamation
+- E32-111: delivery:rage, delivery:shouting, exclamation
+- E32-038: humiliation, delivery:contempt
+- E32-055: delivery:menace, exclamation
+Possible cliffhangers:
+- E32-116: shock beat, episode ending
+- E32-109: threat/turn
+- E32-113: episode ending
+- E32-114: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E32-002 [00:00.00-00:02.80] SFX: Sizzling, crackling sound of scorched parchment paper.
+E32-004 [00:03.80-00:05.20] DIALOGUE CATHERINE (Mocking, Savoring): "There it is."
+E32-006 [00:07.50-00:09.20] DIALOGUE CATHERINE (Whispering, Venomous): "Fear."
+E32-008 [00:09.80-00:13.20] DIALOGUE CATHERINE (Taunting): "You have been so proud of that brave little face..."
+E32-010 [00:13.40-00:15.80] DIALOGUE CATHERINE (Smug, Dominant): "...but now you are afraid."
+E32-013 [00:16.20-00:18.80] DIALOGUE CATHERINE (Cruel, Final): "Say goodbye to your mother."
+E32-015 [00:18.80-00:20.50] ACTION: Juliana's despair suddenly solidifies. Her jaw tightens, tears stopping as resolve takes over.
+E32-017 [00:20.20-00:22.00] DIALOGUE JULIANA (Defiant, Unbroken): "Burn it."
+E32-020 [00:23.80-00:24.80] DIALOGUE CATHERINE (Disconcerted): "What?"
+E32-022 [00:25.80-00:28.80] DIALOGUE JULIANA (Firm, Resolute): "Burn the ledger. Burn every page."
+E32-024 [00:29.80-00:32.80] DIALOGUE JULIANA (Steely, Proud): "You may destroy the book..."
+E32-027 [00:33.20-00:36.20] DIALOGUE JULIANA (Transcendent, Defiant): "...you cannot destroy what my mother taught me."
+E32-029 [00:36.40-00:39.10] DIALOGUE CATHERINE (Spiteful, Hissing): "You think a few herbs make you better than me?"
+E32-031 [00:39.20-00:42.80] DIALOGUE JULIANA (Calm, Cutting): "No. Your cruelty does that for me."
+E32-034 [00:43.40-00:45.40] DIALOGUE CATHERINE (Furious, Shouting): "You still think you are better?!"
+E32-036 [00:45.60-00:47.40] DIALOGUE JULIANA (Serene, Grounded): "I know what I am."
+E32-038 [00:47.80-00:49.00] DIALOGUE CATHERINE (Sneering, Mocking): "A disgraced woman?"
+E32-040 [00:49.20-00:52.40] DIALOGUE JULIANA (Unwavering): "A woman who survived. You cannot destroy me."
+E32-042 [00:52.80-00:54.20] DIALOGUE CATHERINE (Screaming, Enraged): "You are lying!"
+E32-044 [00:54.60-00:58.00] DIALOGUE JULIANA (Measured, Emphatic): "Gerald leaving me was the best thing he ever did for me."
+E32-046 [00:58.20-01:01.00] DIALOGUE JULIANA (Contemplative, Scathing): "He wanted a woman who looked beautiful beside his wealth."
+E32-048 [01:01.10-01:06.80] DIALOGUE JULIANA (Passionate, Clear): "He wanted a wife whose family could raise his name. He measured a woman's worth by what she could give him."
+E32-051 [01:07.20-01:08.90] DIALOGUE JULIANA (Unapologetic, Victorious): "Let him have Clarissa."
+E32-053 [01:09.60-01:11.20] DIALOGUE JULIANA (Proud): "He lost me."
+E32-055 [01:11.30-01:13.20] DIALOGUE CATHERINE (Shrieking, Vicious): "You were rejected!"
+E32-057 [01:13.40-01:17.60] DIALOGUE JULIANA (Grounded, Powerful): "I was freed. And I found a man who never asked me what I was worth."
+E32-060 [01:17.80-01:19.40] DIALOGUE CATHERINE (Disdainful): "Your soldier?"
+E32-062 [01:20.20-01:22.00] DIALOGUE JULIANA (Tender, Certain): "My husband."
+E32-064 [01:22.50-01:24.00] DIALOGUE CATHERINE (Bitter): "He is a nobody."
+E32-066 [01:24.20-01:26.20] DIALOGUE JULIANA (Warm, Defiant): "Then I love a nobody."
+E32-068 [01:26.50-01:30.20] DIALOGUE JULIANA (Resonant, Moving): "Because that nobody showed me more love than your entire world ever did."
+E32-070 [01:30.10-01:32.60] DIALOGUE CATHERINE (Indignant, Sharp): "You know nothing about my world."
+E32-072 [01:33.20-01:36.60] DIALOGUE JULIANA (Knowing, Sober): "I know exactly what your world values."
+E32-074 [01:37.60-01:39.60] DIALOGUE JULIANA (Listing, Deliberate): "Beauty. Money."
+E32-077 [01:41.20-01:43.50] DIALOGUE JULIANA (Firm): "Family. A perfect name."
+E32-079 [01:43.80-01:47.20] DIALOGUE JULIANA (Continuing): "And a woman who never embarrasses the people standing behind her."
+E32-081 [01:47.20-01:48.80] DIALOGUE CATHERINE (Shouting, Outraged): "And what is wrong with that?!"
+E32-084 [01:49.50-01:52.80] DIALOGUE JULIANA (Gentle, Penetrating): "Nothing. Until you have nothing left beneath it."
+E32-086 [01:52.80-01:56.00] DIALOGUE JULIANA (Unrelenting): "You have spent your whole life collecting things that make people bow..."
+E32-089 [01:56.90-01:59.50] DIALOGUE JULIANA (Piercing): "...but you have never learned how to make anyone love you."
+E32-091 [01:59.60-02:01.80] DIALOGUE CATHERINE (Hysterical, Screaming): "Silence! Silence!"
+E32-093 [02:01.80-02:02.80] DIALOGUE CATHERINE (Shrieking): "Why?!"
+E32-095 [02:03.00-02:05.20] DIALOGUE JULIANA (Forceful): "Because I am right!"
+E32-097 [02:05.40-02:08.80] DIALOGUE JULIANA (Scathing, Direct): "You want everyone to believe you are powerful."
+E32-099 [02:09.00-02:11.60] DIALOGUE JULIANA (Continuing): "You want everyone to fear you."
+E32-101 [02:12.00-02:14.00] DIALOGUE JULIANA (Mocking, Direct): "But look at you."
+E32-103 [02:15.00-02:18.60] DIALOGUE JULIANA (Stripping Her Bare): "You have to threaten a chained woman to feel powerful!"
+E32-105 [02:18.60-02:20.20] DIALOGUE CATHERINE (Choking with Rage): "You insolent—!"
+E32-107 [02:20.40-02:22.30] DIALOGUE JULIANA (Steely, Triumphant): "You may have the title you have always wanted..."
+E32-109 [02:22.40-02:26.50] DIALOGUE JULIANA (Final, Condemning): "...but you will never have the courage to earn what you demand from everyone else."
+E32-111 [02:26.60-02:28.10] DIALOGUE CATHERINE (Enraged, Shouting): "You think you can lecture me?!"
+E32-113 [02:28.00-02:30.80] ACTION: Catherine hoists the searing branding rod over Juliana with frantic fury.
+E32-114 [02:28.10-02:31.20] DIALOGUE CATHERINE (Screaming, Maniacal): "Then let's see how brave you are when it touches your skin!"
+E32-116 [02:31.20-02:34.38] ACTION: Juliana gasps, freezing as the glowing tip of the iron thrusts forward, stopping mere millimeters from her right eye.
+
+NEXT_EPISODE_OPENING (E33, first 30 s; continuation only):
+E33-002 [00:02.50-00:04.80] DIALOGUE LORD (Cold, Authoritative): "Your brother is breathing again."
+E33-003 [00:04.00-00:06.50] ACTION: The young maid steps inside, bowing with a submissive curtsy, keeping her head low and hands clasped.
+E33-005 [00:06.50-00:08.50] DIALOGUE MAID (Meek, Hesitant): "Yes, my Lord."
+E33-007 [00:09.50-00:11.80] DIALOGUE LORD (Probing): "And who saved him?"
+E33-009 [00:13.00-00:14.50] DIALOGUE MAID (Quiet, Truthful): "Lady Juliana."
+E33-011 [00:15.50-00:17.50] DIALOGUE LORD (Measured, Demanding): "Tell me how."
+E33-013 [00:19.50-00:21.00] DIALOGUE MAID (Faltering): "She... she used herbs."
+E33-015 [00:21.20-00:22.80] DIALOGUE LORD (Sharp, Intimidating): "What herbs?"
+E33-017 [00:24.50-00:26.20] DIALOGUE MAID (Whispering, Nervous): "I don't know."
+E33-019 [00:27.50-00:29.00] DIALOGUE LORD (Stern): "You watched her."
+E33-021 [00:29.80-00:32.00] DIALOGUE MAID (Tearful, Sincere): "I watched her save him."
+
+Return up to 1 promos for E32 as JSON.

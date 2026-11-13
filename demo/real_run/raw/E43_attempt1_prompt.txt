@@ -1,0 +1,77 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E43
+EPISODE_DURATION: 01:54.96
+LOGLINE: When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert and Lord Sterling's treasonous plot.
+CONTINUITY: Follows directly from Episode 42; inside the ruined cathedral, Alexander confronts Rupert before the congregation, armed with evidence from the Crown to reclaim his rightful title.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E43-074: threat, delivery:shouting, delivery:anguish, exclamation
+- E43-009: delivery:rage, delivery:shouting, exclamation
+- E43-014: delivery:rage, delivery:shock, exclamation
+- E43-016: reveal, delivery:anguish, exclamation
+- E43-070: threat, reveal
+- E43-011: weapon
+Possible cliffhangers:
+- E43-086: unanswered question, episode ending
+- E43-014: shock beat
+- E43-084: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E43-002 [00:00.60-00:02.40] DIALOGUE BLOND NOBLEMAN (Hysterical, Panicked): "You're lying!"
+E43-003 [00:02.40-00:03.90] ACTION: Rupert lunges forward, his facial features contorting in venomous desperation.
+E43-005 [00:03.90-00:07.40] DIALOGUE BLOND NOBLEMAN (Shrieking, Frantic): "This man is an imposter! Arrest him!"
+E43-007 [00:08.20-00:10.50] ACTION: Alexander stands completely composed in his dark embroidered aristocratic coat, staring Rupert down with unyielding authority.
+E43-009 [00:10.50-00:13.20] DIALOGUE BLOND NOBLEMAN (Enraged, Screaming): "I said arrest him!"
+E43-011 [00:13.80-00:16.00] ACTION: The Guard Captain brings his ceremonial sword upright to attention, his expression stern and resolute.
+E43-012 [00:14.20-00:15.80] DIALOGUE ROYAL GUARD (Firm, Defiant): "We will not."
+E43-014 [00:16.20-00:18.00] DIALOGUE BLOND NOBLEMAN (Outraged, Stunned): "I am Lord Rupert Ashburn!"
+E43-016 [00:18.10-00:19.00] DIALOGUE BLOND NOBLEMAN (Desperate): "Your Duke!"
+E43-018 [00:19.20-00:21.60] ACTION: The Guard Captain snaps a crisp salute toward Alexander.
+E43-019 [00:19.20-00:21.50] DIALOGUE ROYAL GUARD (Calm, Resolute): "No. He is your Duke."
+E43-021 [00:22.00-00:24.00] ACTION: Lord Sterling clutches his gold-headed walking cane tightly, his jaw clenching as tension spreads through the church.
+E43-023 [00:24.10-00:25.80] DIALOGUE BLOND NOBLEMAN (Desperate, Flustered): "You have all been deceived!"
+E43-025 [00:26.10-00:28.00] DIALOGUE ALEXANDER (Cold, Authoritative): "Then let the Crown decide."
+E43-027 [00:28.20-00:30.00] ACTION: Alexander brings forth the dossier stamped "WAR OFFICE - TOP SECRET" with the royal crest.
+E43-029 [00:30.00-00:33.40] DIALOGUE ALEXANDER (Grave, Powerful): "These were delivered to me under the seal of the Crown."
+E43-030 [00:33.50-00:34.50] DIALOGUE ALEXANDER (Commanding): "Read the first."
+E43-033 [00:35.20-00:37.00] ACTION: The Crown Official receives the dossier solemnly with both hands.
+E43-035 [00:37.20-00:38.60] SFX: Crisp sound of parchment turning.
+E43-036 [00:37.80-00:42.50] DIALOGUE CROWN OFFICIAL (Clear, Formal): "Military Intelligence Report, Iberian front, three years ago."
+E43-039 [00:44.00-00:47.40] DIALOGUE CROWN OFFICIAL (Solemn, Objective): "Duke Alexander Ashburn's unit was ambushed after his location was compromised."
+E43-041 [00:47.80-00:50.80] DIALOGUE CROWN OFFICIAL (Accusing, Measured): "The report identifies the leak as deliberate."
+E43-043 [00:51.00-00:54.40] DIALOGUE CROWN OFFICIAL (Voice Continuing): "Information regarding the Duke's position was transmitted through British channels."
+E43-044 [00:51.80-00:54.80] ACTION: Rupert staggers backward, his knees buckling as he leans his weight heavily on the stone balustrade.
+E43-046 [00:55.00-00:56.50] DIALOGUE BLOND NOBLEMAN (Whispering, Terrified): "No..."
+E43-048 [00:58.50-01:00.00] DIALOGUE ALEXANDER (Cold, Implacable): "Read the names."
+E43-050 [01:00.60-01:02.50] DIALOGUE CROWN OFFICIAL (Deliberate, Damning): "Lord Henry Sterling."
+E43-052 [01:03.10-01:04.20] DIALOGUE CROWN OFFICIAL (Continuing): "Rupert Ashburn."
+E43-055 [01:06.50-01:08.00] DIALOGUE DOWAGER DUCHESS (Shaken, Devastated): "My God..."
+E43-057 [01:09.00-01:11.30] DIALOGUE ALEXANDER (Furious, Thunderous): "You sold my men to the enemy."
+E43-059 [01:11.40-01:12.70] DIALOGUE BLOND NOBLEMAN (Desperate, Denying): "I didn't!"
+E43-061 [01:12.80-01:15.20] DIALOGUE ALEXANDER (Resonant, Accusatory): "And when you believed I was dead..."
+E43-064 [01:16.10-01:17.60] DIALOGUE ALEXANDER (Venomous): "You took my title."
+E43-066 [01:18.00-01:19.40] SFX: Brittle snap of breaking sealing wax.
+E43-068 [01:21.50-01:25.80] DIALOGUE CROWN OFFICIAL (Grave, Official): "Official death confirmation was filed three months after the ambush."
+E43-070 [01:26.00-01:28.50] DIALOGUE CROWN OFFICIAL (Continuing): "Duke Alexander Ashburn was declared dead."
+E43-072 [01:28.60-01:33.00] DIALOGUE CROWN OFFICIAL (Loud, Authoritative): "His estate and title were subsequently transferred under false authority."
+E43-074 [01:33.40-01:36.40] DIALOGUE BLOND NOBLEMAN (Screaming, Desperate): "I was told he was dead!"
+E43-076 [01:36.80-01:39.80] DIALOGUE ALEXANDER (Cold, Penetrating): "You were told exactly what you needed to hear."
+E43-078 [01:40.00-01:42.20] DIALOGUE BLOND NOBLEMAN (Frantic, Betraying): "Sterling handled the report!"
+E43-082 [01:44.80-01:46.20] DIALOGUE CATHERINE (Shocked, Murmuring): "My Lord?"
+E43-084 [01:47.00-01:49.00] SFX: Heavy iron latch clicking open and wooden door creaking.
+E43-086 [01:50.40-01:52.50] DIALOGUE POLICE CONSTABLE (Firm, Sardonic): "Going somewhere, Lord Sterling?"
+
+NEXT_EPISODE_OPENING (E44, first 30 s; continuation only):
+E44-002 [00:00.00-00:03.20] ACTION: The Police Constable strides firmly down the steps and halts right in front of Lord Sterling, holding his ground.
+E44-004 [00:03.30-00:08.20] DIALOGUE POLICE CONSTABLE (Authoritative, Stern): "Lord Henry Sterling, you are under arrest by order of the Crown."
+E44-006 [00:09.10-00:11.20] DIALOGUE LORD STERLING (Snarls, Outraged): "You have no authority!"
+E44-008 [00:11.40-00:13.20] DIALOGUE POLICE CONSTABLE (Cold, Definite): "I have more than enough."
+E44-010 [00:14.00-00:16.40] ACTION: A royal redcoat guard firmly forces Rupert down into the stone dust.
+E44-011 [00:14.00-00:16.80] DIALOGUE BLOND NOBLEMAN (Frantic, Shouting): "Get your hands off me! Catherine!"
+E44-013 [00:17.40-00:19.30] DIALOGUE BLOND NOBLEMAN (Desperate, Screaming): "Do something!"
+E44-015 [00:21.80-00:24.40] ACTION: Catherine's satin-gloved hand clenches tightly into a trembling fist against the folds of her ornate gown.
+E44-018 [00:25.20-00:28.00] DIALOGUE CATHERINE (Shaken, Tearful): "Alexander... I thought you had died."
+E44-020 [00:28.40-00:31.00] DIALOGUE CATHERINE (Choked, Weeping): "Do you know what this did to me?"
+
+Return up to 1 promos for E43 as JSON.

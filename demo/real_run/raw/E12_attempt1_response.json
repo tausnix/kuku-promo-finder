@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: shocking_line at E12-017\", \"segments\": [{\"start_id\": \"E12-017\", \"end_id\": \"E12-039\"}], \"hook_id\": \"E12-017\", \"hook_quote\": \"You planted it!\", \"cliffhanger_id\": \"E12-039\", \"cliffhanger_quote\": \"You will retrieve it with your bare hands before the magistrate arrives.\", \"hook_type\": \"shocking_line\", \"why\": \"Rules only: hook signals [delivery:rage, delivery:shouting, exclamation], cliff signals [interruption, threat/turn].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 3, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.0,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "0087bdac345ff8b2ae807a0f2a2baca61b290303d2c578c972a7dc498548b392"
+}

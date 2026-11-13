@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: threat at E25-049\", \"segments\": [{\"start_id\": \"E25-049\", \"end_id\": \"E25-066\"}], \"hook_id\": \"E25-049\", \"hook_quote\": \"Poison.\", \"cliffhanger_id\": \"E25-066\", \"cliffhanger_quote\": \"Will you be going there again?\", \"hook_type\": \"threat\", \"why\": \"Rules only: hook signals [threat, delivery:shock], cliff signals [unanswered question].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "da3043cd172ce40fe54b659ae2b262230d13e7ac7f8593666099800c722c3caf"
+}

@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: threat at E28-015\", \"segments\": [{\"start_id\": \"E28-015\", \"end_id\": \"E28-035\"}], \"hook_id\": \"E28-015\", \"hook_quote\": \"I did not poison her! Look at her eyes, the fever has\", \"cliffhanger_id\": \"E28-035\", \"cliffhanger_quote\": \"They have been\\u2014\", \"hook_type\": \"threat\", \"why\": \"Rules only: hook signals [threat, delivery:rage, exclamation], cliff signals [shock beat, trailing line].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "9fb7c7e25df330f2325f0218d4b73f8316beafcb8af0ad1265918c406f6ccf4a"
+}

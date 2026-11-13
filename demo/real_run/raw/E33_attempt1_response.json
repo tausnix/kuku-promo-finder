@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: shocking_line at E33-077\", \"segments\": [{\"start_id\": \"E33-077\", \"end_id\": \"E33-099\"}], \"hook_id\": \"E33-077\", \"hook_quote\": \"No! She saved Toby! She made him breathe again!\", \"cliffhanger_id\": \"E33-099\", \"cliffhanger_quote\": \"The heartbroken maid weeps silently in the shadow of the desk, consumed\", \"hook_type\": \"shocking_line\", \"why\": \"Rules only: hook signals [delivery:shouting, delivery:anguish, exclamation], cliff signals [episode ending].\", \"scores\": {\"hook\": 3, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "58061d684b27e9c093ad6f68c5a55fd93a9eadf67a59450a1342a5512648e1e3"
+}

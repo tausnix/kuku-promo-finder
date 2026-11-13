@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: violence at E10-011\", \"segments\": [{\"start_id\": \"E10-011\", \"end_id\": \"E10-040\"}], \"hook_id\": \"E10-011\", \"hook_quote\": \"There is blood running down your arm.\", \"cliffhanger_id\": \"E10-040\", \"cliffhanger_quote\": \"Does it hurt?\", \"hook_type\": \"violence\", \"why\": \"Rules only: hook signals [violence], cliff signals [unanswered question].\", \"scores\": {\"hook\": 2, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.0,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "ddaf9ad1711fa5d781895cd808357f49712d468bed200f32dbc8512de380dc49"
+}

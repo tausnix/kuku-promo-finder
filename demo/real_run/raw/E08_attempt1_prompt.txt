@@ -1,0 +1,61 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E08
+EPISODE_DURATION: 01:18.00
+LOGLINE: As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means.
+CONTINUITY: Picks up after Episode 7, where Alexander chased off Gerald and the mocking aristocratic visitors; quiet and intimacy now return inside the woodland cottage as evening approaches.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- (none)
+Possible cliffhangers:
+- E08-059: episode ending
+- E08-062: episode ending
+- E08-063: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E08-002 [00:00.00-00:03.20] ACTION: Juliana delicately runs her fingertips across the embossed leather cover of the worn botanical volume, noticing its weathered state.
+E08-003 [00:00.20-00:03.20] DIALOGUE JULIANA (Gentle, Somber): "Some of the pages are ruined. Careful."
+E08-005 [00:03.40-00:04.50] SFX: Soft metallic click of the book clasp loosening.
+E08-007 [00:05.10-00:07.80] DIALOGUE JULIANA (Reflective, Reverent): "Mother spent years writing this."
+E08-009 [00:08.50-00:10.50] ACTION: Alexander gently sets down a fresh bundle of small white herbal flowers tied with twine beside the open book.
+E08-011 [00:10.50-00:11.80] DIALOGUE JULIANA (Curious, Recognizing): "Yarrow."
+E08-013 [00:12.00-00:14.60] DIALOGUE ALEXANDER (Calm, Knowledgeable): "Good for wounds. Fever, too."
+E08-015 [00:15.10-00:16.10] DIALOGUE JULIANA (Inquiring, Soft): "How do you know that?"
+E08-017 [00:16.30-00:18.90] DIALOGUE ALEXANDER (Somber, Matter-of-Fact): "Soldiers learn quickly which plants keep a man alive."
+E08-019 [00:19.40-00:21.80] DIALOGUE JULIANA (Observant, Lightly Teasing): "You know more about healing than you let on."
+E08-021 [00:22.80-00:24.20] DIALOGUE ALEXANDER (Quiet, Gritty): "Enough to survive."
+E08-023 [00:25.00-00:26.80] DIALOGUE JULIANA (Hesitant, Soft): "Your hair and beard..."
+E08-026 [00:30.10-00:31.90] DIALOGUE JULIANA (Gentle, Tender): "I could trim them for you."
+E08-029 [00:33.20-00:34.50] DIALOGUE ALEXANDER (Firm, Low): "Not yet."
+E08-031 [00:35.80-00:36.90] DIALOGUE JULIANA (Puzzled, Curious): "Not yet?"
+E08-033 [00:37.70-00:38.90] DIALOGUE ALEXANDER (Grounded, Steady): "Let them grow."
+E08-035 [00:39.90-00:42.00] DIALOGUE JULIANA (Playful, Amused): "You prefer looking like a forest hermit?"
+E08-037 [00:43.70-00:44.90] DIALOGUE ALEXANDER (Dry, Droll): "It has advantages."
+E08-039 [00:45.50-00:46.80] DIALOGUE JULIANA (Fond, Resigned): "Very well."
+E08-042 [00:48.10-00:49.60] DIALOGUE JULIANA (Teasing, Determined): "But one day, I am trimming that beard."
+E08-044 [00:50.10-00:51.20] DIALOGUE ALEXANDER (Low, Amused): "We'll see."
+E08-047 [00:53.30-00:57.00] DIALOGUE ALEXANDER (Instructional, Calm): "That one grows near the northern stream. Crushed leaves ease swelling."
+E08-049 [00:58.70-01:00.20] DIALOGUE JULIANA (Soft, Nostalgic): "My mother wrote the same thing."
+E08-051 [01:00.50-01:02.80] DIALOGUE JULIANA (Hesitant, Compassionate): "And the scars... were they from the war?"
+E08-053 [01:03.20-01:04.20] DIALOGUE ALEXANDER (Quiet, Subdued): "Some were."
+E08-055 [01:04.90-01:06.30] DIALOGUE JULIANA (Tender, Aching): "It must have been terrible."
+E08-057 [01:06.70-01:07.60] DIALOGUE ALEXANDER (Heavy, Somber): "It was."
+E08-059 [01:09.00-01:12.10] DIALOGUE JULIANA (Reflective, Vulnerable): "I thought losing wealth meant losing everything."
+E08-062 [01:13.20-01:15.30] DIALOGUE JULIANA (Quiet, Transformed): "Perhaps I was wrong."
+E08-063 [01:15.30-01:18.00] ACTION: Juliana maintains her warm, peaceful gaze across the table as soft firelight flickers over her face into fade out.
+
+NEXT_EPISODE_OPENING (E09, first 30 s; continuation only):
+E09-002 [00:00.00-00:02.80] ACTION: Juliana methodically crushes herbs in the mortar beside her open herbal grimoire.
+E09-003 [00:02.00-00:03.50] SFX: Heavy, frantic pounding echoes against the heavy wooden cottage door.
+E09-004 [00:02.80-00:04.00] ACTION: Juliana stops grinding and lifts her head sharply toward the entrance in alarm.
+E09-006 [00:03.60-00:05.00] DIALOGUE ALEXANDER (Authoritative, Protective): "Stay back. I'll open it."
+E09-007 [00:04.80-00:06.60] ACTION: Alexander steps forward and unlatches the cottage door, opening it into the pouring rain.
+E09-009 [00:06.30-00:11.10] DIALOGUE PEASANT MOTHER (Frantic, Weeping): "Please! They told me there was a woman here who knows herbs. My boy is burning with fever!"
+E09-011 [00:11.40-00:13.30] DIALOGUE JULIANA (Urgent, Compassionate): "Bring him here. Quickly."
+E09-012 [00:12.00-00:14.20] ACTION: The trembling mother gently lays the feverish boy down atop the wooden table as Juliana leans in close.
+E09-015 [00:15.50-00:19.80] DIALOGUE JULIANA (Reassuring, Focused): "He seems very unwell, but he is resting steadily. How long has he been like this?"
+E09-018 [00:20.50-00:23.90] DIALOGUE PEASANT MOTHER (Trembling, Anxious): "Since yesterday morning. He has barely eaten since sunset."
+E09-020 [00:27.20-00:28.80] ACTION: Juliana lifts the weathered herbal book and rapidly browses the handwritten pages.
+E09-022 [00:29.00-00:30.80] DIALOGUE JULIANA (Muttering, Intent): "Feverfew... Not alone."
+
+Return up to 1 promos for E08 as JSON.

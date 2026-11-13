@@ -1,0 +1,63 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E14
+EPISODE_DURATION: 01:27.63
+LOGLINE: After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one will ever harm her again.
+CONTINUITY: Picks up immediately from Episode 13's cliffhanger where Juliana grasped the emerald ring beneath the razor-sharp blackthorns.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E14-002: violence
+- E14-008: violence
+- E14-050: violence
+Possible cliffhangers:
+- E14-051: ominous, sound sting, episode ending
+- E14-013: shock beat
+- E14-048: episode ending
+- E14-050: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E14-002 [00:00.50-00:05.50] ACTION: Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emerald signet ring resting in her palm.
+E14-003 [00:01.00-00:05.50] SFX: Eerie cold wind whistling over the briars with deep, atmospheric cello chords.
+E14-005 [00:07.70-00:09.00] DIALOGUE JULIANA (Exhausted, Resolute): "I found it."
+E14-007 [00:10.50-00:12.70] DIALOGUE JULIANA (Firm, Commanding): "Now release my husband."
+E14-008 [00:12.50-00:13.50] ACTION: The Constable takes the ring from her bloodied fingers.
+E14-010 [00:14.20-00:15.40] SFX: Sharp metallic click and clinking rattle of heavy iron handcuffs unlocking and falling away.
+E14-011 [00:14.50-00:15.60] ACTION: The Constable unlocks the cuffs, freeing Alexander's large hands.
+E14-013 [00:16.80-00:18.00] DIALOGUE ALEXANDER (Gasping, Urgent): "Juliana."
+E14-015 [00:18.80-00:23.00] ACTION: Alexander gently turns her palms up, his thumbs trembling as he inspects the deep, bleeding gashes gouged into her skin.
+E14-017 [00:23.10-00:25.00] DIALOGUE ALEXANDER (Trembling, Heartbroken): "What have they done to you?"
+E14-019 [00:26.50-00:28.50] DIALOGUE JULIANA (Softly, Stifling Pain): "Nothing they didn't promise."
+E14-021 [00:29.80-00:32.00] DIALOGUE JULIANA (Faint, Pleading): "Take me home."
+E14-023 [00:33.20-00:37.00] ACTION: Alexander lifts Juliana bridal-style, wrapping his strong arms protectively around her as she rests against his shoulder.
+E14-024 [00:35.80-00:38.50] DIALOGUE ALEXANDER (Deep, Sorrowful): "You should never have had to bleed for me."
+E14-027 [00:40.50-00:43.50] SFX: Gentle patter of rain and cold wind howling in the desolate countryside.
+E14-029 [00:44.00-00:47.00] ACTION: Alexander gently wraps clean linen bandages around Juliana's torn wrist and palm.
+E14-030 [00:44.00-00:47.50] SFX: Crackling flames and wood popping in the open fireplace.
+E14-032 [00:47.20-00:49.80] DIALOGUE ALEXANDER (Hoarse, Stricken): "You could have lost your hands."
+E14-034 [00:51.80-00:54.00] DIALOGUE JULIANA (Whispered, Emotional): "But I didn't lose you."
+E14-037 [00:58.50-01:00.00] DIALOGUE ALEXANDER (Quiet, Tender): "I'm sorry."
+E14-039 [01:00.50-01:02.50] DIALOGUE JULIANA (Gentle, Reassuring): "You didn't hurt me."
+E14-042 [01:06.00-01:07.40] DIALOGUE JULIANA (Loving, Earnest): "You have taken my place today."
+E14-043 [01:07.50-01:09.80] DIALOGUE JULIANA (Continuing): "And you are doing it better than me."
+E14-045 [01:11.00-01:16.00] ACTION: Juliana closes her eyes in exhausted relief, sinking into Alexander's warmth as his broad arm encloses her safely.
+E14-047 [01:16.50-01:21.00] DIALOGUE ALEXANDER (Dark, Solemn Vow): "No one will ever hurt you for protecting me again."
+E14-048 [01:21.20-01:23.50] ACTION: Alexander strokes her cheek with his thumb, his gaze hardening into deadly, protective conviction.
+E14-050 [01:24.00-01:27.00] ACTION: Alexander's muscular arm drops into frame beside the bloody bucket; his scarred knuckles slowly and tightly clench into an iron fist of brewing vengeance.
+E14-051 [01:24.50-01:27.63] SFX: Ominous, resonating low bass boom swelling into sudden silence as the screen cuts to black.
+
+NEXT_EPISODE_OPENING (E15, first 30 s; continuation only):
+E15-002 [00:00.00-00:03.50] ACTION: Three menacing thugs, armed with clubs and tools, stalk through the quiet herbal garden surrounded by stone walls.
+E15-004 [00:03.60-00:04.90] ACTION: The thug brutally smashes his club down into a wooden planter box, shattering the frame.
+E15-005 [00:03.80-00:04.90] SFX: A splintering wooden crash echoing through the night air.
+E15-007 [00:05.10-00:07.40] ACTION: The bald thug roughly rips a massive handful of flowering herbs up by their roots, scattering soil across the path.
+E15-009 [00:07.60-00:11.80] ACTION: Juliana bursts through the cottage doorway, her hands wrapped in clean white bandages, freezing in horror at the destruction.
+E15-010 [00:08.50-00:11.70] DIALOGUE JULIANA (Desperate, Alarmed): "Stop! What are you doing?!"
+E15-012 [00:13.00-00:15.70] DIALOGUE THUG WITH CAP (Mocking, Smug): "We're clearing this rubbish."
+E15-014 [00:16.40-00:18.70] DIALOGUE JULIANA (Furious, Pleading): "Those are medicinal plants!"
+E15-016 [00:20.00-00:22.30] DIALOGUE BALD THUG (Callous): "They look like weeds to me."
+E15-017 [00:20.50-00:22.50] ACTION: The bald thug flings the bouquet into the mud and grinds his heavy boot directly onto the delicate flowers.
+E15-019 [00:22.80-00:26.50] ACTION: Juliana frantically tries to scoop the crushed soil and torn stems back into the bed with her bandaged hands.
+E15-020 [00:23.20-00:26.30] DIALOGUE JULIANA (Choked with Tears, Desperate): "Please! Those plants took months to grow!"
+E15-022 [00:27.50-00:31.20] DIALOGUE TALL THUG (Contemptuous, Derisive): "Months? You actually spend your days growing this filth?"
+
+Return up to 1 promos for E14 as JSON.

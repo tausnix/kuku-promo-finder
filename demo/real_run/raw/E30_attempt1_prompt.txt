@@ -1,0 +1,71 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E30
+EPISODE_DURATION: 02:31.21
+LOGLINE: When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a witchcraft charge against Juliana, sealing her fate for the gallows.
+CONTINUITY: Follows directly from Episode 29 where Juliana was locked away in the castle's subterranean wet cells, vowing never to let them take Alexander from her.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E30-013: threat, reveal
+- E30-035: reveal, reveal
+- E30-063: humiliation, delivery:menace
+- E30-002: violence
+- E30-019: delivery:menace, exclamation
+- E30-039: threat
+Possible cliffhangers:
+- E30-071: ominous, episode ending
+- E30-069: sound sting, episode ending
+- E30-021: sound sting, unanswered question
+- E30-023: ominous
+- E30-045: shock beat
+
+SCRIPT_LINES (camera directions omitted):
+E30-002 [00:00.00-00:04.50] SFX: Rhythmic, heavy footsteps and the sharp metallic click of a cane striking the polished stone floor.
+E30-003 [00:03.00-00:05.50] ACTION: The Elder Nobleman walks with stern, unhurried authority, dressed in an immaculate black tailcoat and dark vest with a gold pocket watch chain.
+E30-005 [00:06.80-00:07.90] SFX: A firm tap of the wooden walking stick halting against the floor.
+E30-007 [00:08.80-00:13.30] DIALOGUE ELDER NOBLEMAN (Cold, Accusatory): "You have a rat in your cellar, Rupert. And the servants are beginning to smell it."
+E30-009 [00:13.60-00:16.80] DIALOGUE RUPERT (Defensive, Anxious): "The Ashcroft girl is locked tight. Nobody knows she is down there."
+E30-011 [00:17.30-00:25.80] DIALOGUE ELDER NOBLEMAN (Stern, Disapproving): "The kitchen maids are whispering. They see the soup bowls returned unwiped. They see your guards outside the lower grates."
+E30-013 [00:26.50-00:29.20] DIALOGUE RUPERT (Muttered, Paranoid): "She knows the Duchess was poisoned."
+E30-016 [00:32.10-00:33.30] DIALOGUE RUPERT (Fearful): "If she speaks..."
+E30-018 [00:33.40-00:35.20] ACTION: The Elder Nobleman thrusts the gold knob of his walking stick directly against Rupert's chest, pinning him against the wall.
+E30-019 [00:33.60-00:39.80] DIALOGUE ELDER NOBLEMAN (Fierce, Venomous): "Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!"
+E30-021 [00:41.80-00:43.50] DIALOGUE RUPERT (Faltering, Submissive): "What are you suggesting?"
+E30-023 [00:44.80-00:47.30] DIALOGUE ELDER NOBLEMAN (Calculated, Ominous): "We stop hiding the prisoner."
+E30-025 [00:48.00-00:50.50] SFX: The heavy creak of massive mahogany doors gliding open on brass hinges.
+E30-027 [00:51.20-00:54.00] DIALOGUE ELDER NOBLEMAN (Deadpan, Sinister): "We give them a reason to condemn her."
+E30-029 [00:57.00-00:58.80] DIALOGUE CATHERINE (Inquiring, Sharp): "You have a solution?"
+E30-031 [00:59.40-01:02.50] DIALOGUE ELDER NOBLEMAN (Ruthless): "We use the law to destroy her."
+E30-033 [01:03.10-01:04.30] DIALOGUE RUPERT (Confused): "The law?"
+E30-035 [01:05.30-01:12.80] DIALOGUE ELDER NOBLEMAN (Pragmatic, Scheming): "A maid with herbs in her possession, a secret medicine, an unauthorized visit to the Duchess's chamber."
+E30-036 [01:10.80-01:13.20] ACTION: The Elder Nobleman leans both hands against the desk, leaning forward intently.
+E30-039 [01:15.00-01:22.50] DIALOGUE ELDER NOBLEMAN (Cold, Calculating): "Give those facts to a magistrate in the right order, and she becomes a poisoner."
+E30-041 [01:23.20-01:25.40] DIALOGUE CATHERINE (Curious, Conniving): "And if she claims she is a healer?"
+E30-043 [01:25.80-01:27.80] DIALOGUE ELDER NOBLEMAN (Sinister): "Then call it witchcraft."
+E30-045 [01:29.00-01:31.30] DIALOGUE RUPERT (Stunned): "Witchcraft is a capital charge."
+E30-047 [01:32.00-01:33.40] DIALOGUE ELDER NOBLEMAN (Unflinching): "Precisely."
+E30-049 [01:34.60-01:41.80] DIALOGUE ELDER NOBLEMAN (Authoritative, Command): "Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her."
+E30-051 [01:42.20-01:43.90] DIALOGUE CATHERINE (Scheming): "Her botanical ledger..."
+E30-053 [01:44.80-01:46.00] DIALOGUE ELDER NOBLEMAN (Confirming): "Exactly."
+E30-055 [01:47.30-01:48.80] DIALOGUE CATHERINE (Inquiring): "And the Dowager?"
+E30-057 [01:49.50-01:56.50] DIALOGUE ELDER NOBLEMAN (Dismissive): "She is weak, confused. No magistrate will trust a dying woman's accusations against a respected household."
+E30-059 [02:00.00-02:01.50] DIALOGUE RUPERT (Hesitant): "And Juliana?"
+E30-061 [02:02.40-02:04.90] DIALOGUE ELDER NOBLEMAN (Cold, Resolute): "She goes before the magistrate tomorrow."
+E30-063 [02:05.50-02:13.00] DIALOGUE CATHERINE (Cruel, Exultant): "She will hang. A perfect solution. The town will cheer as the witch's disgraced daughter faces the noose."
+E30-065 [02:14.10-02:16.20] DIALOGUE RUPERT (Resolute, Vengeful): "I will write the arrest warrant myself."
+E30-067 [02:17.50-02:23.50] DIALOGUE ELDER NOBLEMAN (Chilling, Decisive): "Tomorrow, she stops being a prisoner. She becomes a witch."
+E30-069 [02:24.50-02:31.21] SFX: Echoing, hollow water droplets splashing into dark pools beneath stone vaults, accompanied by a somber orchestral swell.
+E30-071 [02:28.50-02:31.21] ACTION: Juliana clutches a rough burlap rag to her trembling chest, her tear-stained face lifting upward in dread and fragile hope as the frame holds, cutting abruptly to black.
+
+NEXT_EPISODE_OPENING (E31, first 30 s; continuation only):
+E31-002 [00:00.00-00:02.80] SFX: Heavy iron latch sliding back with an ominous, echoing metallic clang, followed by the deep groaning creak of the cell door swinging inward.
+E31-004 [00:02.80-00:04.20] ACTION: Juliana recoils against the damp stonework, her eyes wide with terror as light floods into the dark cell.
+E31-006 [00:06.90-00:08.80] DIALOGUE CATHERINE (Cruel, Condescending): "Look at you."
+E31-009 [00:10.50-00:13.80] DIALOGUE CATHERINE (Mocking, Venomous): "The great Lady Juliana Ashcroft."
+E31-011 [00:14.00-00:17.60] DIALOGUE CATHERINE (Taunting): "Chained in a dungeon like a common criminal."
+E31-013 [00:17.80-00:20.50] DIALOGUE JULIANA (Defiant, Steady): "You seem very pleased."
+E31-015 [00:21.00-00:23.50] DIALOGUE CATHERINE (Smug, Chilling): "I am."
+E31-017 [00:25.00-00:28.90] DIALOGUE CATHERINE (Whispering, Sinister): "Because this is what you were always meant to be."
+E31-019 [00:29.30-00:34.80] DIALOGUE CATHERINE (Scornful): "Your family dressed you like a lady. They educated you. They gave you a respectable name."
+
+Return up to 1 promos for E30 as JSON.

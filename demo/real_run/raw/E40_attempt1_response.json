@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: reveal at E40-036\", \"segments\": [{\"start_id\": \"E40-036\", \"end_id\": \"E40-051\"}], \"hook_id\": \"E40-036\", \"hook_quote\": \"By sunset, Ashburgh will have its new Duke and Duchess.\", \"cliffhanger_id\": \"E40-051\", \"cliffhanger_quote\": \"Rupert and Catherine exchange conspiratorial, triumphant smiles at the altar as the\", \"hook_type\": \"reveal\", \"why\": \"Rules only: hook signals [reveal], cliff signals [episode ending].\", \"scores\": {\"hook\": 2, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "cabc144a5a1a158ded53243484b8ae189b4f299724dda292528974f305aff62f"
+}

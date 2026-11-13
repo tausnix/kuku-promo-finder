@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: violence at E39-022\", \"segments\": [{\"start_id\": \"E39-022\", \"end_id\": \"E39-045\"}], \"hook_id\": \"E39-022\", \"hook_quote\": \"The driver leaps off the cart, striking the sentry across the chest,\", \"cliffhanger_id\": \"E39-045\", \"cliffhanger_quote\": \"Alexander emerges in full ducal splendor\\u2014dressed in an immaculate navy tailcoat lined\", \"hook_type\": \"violence\", \"why\": \"Rules only: hook signals [violence, physical], cliff signals [none].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 1, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "5f4a84960e4081d4617807aaa26c12b05b8c0af052c2084f1d9ad4656c8f48a0"
+}

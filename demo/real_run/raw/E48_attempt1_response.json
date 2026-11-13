@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: shocking_line at E48-011\", \"segments\": [{\"start_id\": \"E48-011\", \"end_id\": \"E48-034\"}], \"hook_id\": \"E48-011\", \"hook_quote\": \"Ten days for a decree to be undone.\", \"cliffhanger_id\": \"E48-034\", \"cliffhanger_quote\": \"If someone sees him come to you...\", \"hook_type\": \"shocking_line\", \"why\": \"Rules only: hook signals [delivery:menace], cliff signals [trailing line].\", \"scores\": {\"hook\": 2, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "dbb3e876b67489c568bf9d174e754765e6a6850c8935d502419943d95c08721f"
+}

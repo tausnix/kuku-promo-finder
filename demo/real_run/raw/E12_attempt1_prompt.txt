@@ -1,0 +1,61 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E12
+EPISODE_DURATION: 01:27.21
+LOGLINE: When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from frozen, razor-sharp blackthorn briars with her bare hands, or watch her husband hang.
+CONTINUITY: Picks up directly from Episode 11's cliffhanger where the Constable pulls Gerald's planted gold pocket watch from Alexander's trench coat.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E12-017: delivery:rage, delivery:shouting, exclamation
+- E12-005: delivery:rage, exclamation
+- E12-032: delivery:menace
+- E12-045: delivery:menace
+Possible cliffhangers:
+- E12-039: interruption, threat/turn
+- E12-055: shock beat, episode ending
+- E12-052: episode ending
+- E12-054: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E12-002 [00:00.50-00:04.50] DIALOGUE CONSTABLE (Authoritative, Stern): "Put out your hands, veteran. You are under arrest for theft."
+E12-004 [00:04.80-00:06.00] ACTION: Juliana steps firmly forward, shielding Alexander with her body.
+E12-005 [00:05.70-00:08.80] DIALOGUE JULIANA (Furious, Defiant): "No! That watch was not in his coat!"
+E12-007 [00:10.00-00:11.70] DIALOGUE CONSTABLE (Blunt, Unyielding): "I found it there myself."
+E12-009 [00:12.30-00:13.90] DIALOGUE JULIANA (Passionate, Accusatory): "Then someone put it there!"
+E12-011 [00:14.30-00:20.60] DIALOGUE GERALD (Smug, Condescending): "The proof is in his coat, Juliana. A valuable pocket watch doesn't just walk into a beggar's pocket."
+E12-013 [00:21.60-00:23.60] DIALOGUE ALEXANDER (Low, Steady, Dangerous): "I have never touched your property."
+E12-015 [00:23.70-00:26.80] DIALOGUE GERALD (Mocking, Malicious): "Then perhaps your wife should explain why it was found in your coat."
+E12-016 [00:26.80-00:28.00] ACTION: Juliana lunges a step forward, jabbing an accusing finger toward Gerald.
+E12-017 [00:26.80-00:27.90] DIALOGUE JULIANA (Enraged, Shouting): "You planted it!"
+E12-019 [00:28.10-00:30.00] DIALOGUE CLARISSA (Purring, Taunting): "Oh, dear sister..."
+E12-022 [00:30.00-00:32.40] DIALOGUE CLARISSA (O.S., Continuing taunt): "...still defending your broken scrap of a man?"
+E12-024 [00:32.40-00:35.20] DIALOGUE JULIANA (Steely, Resolute): "Name your price, Clarissa. I know you."
+E12-026 [00:35.40-00:40.00] DIALOGUE CLARISSA (Smooth, Derisive): "You always were clever, Juliana. Always searching for some way to escape."
+E12-028 [00:40.10-00:41.50] DIALOGUE CLARISSA (Scheming): "Perhaps I can give you one."
+E12-030 [00:42.20-00:43.50] DIALOGUE JULIANA (Guarded, Cold): "What do you want?"
+E12-032 [00:44.00-00:46.40] DIALOGUE CLARISSA (Cruel, Savoring): "I want to see you crawl, sister."
+E12-034 [00:46.70-00:52.30] DIALOGUE CLARISSA (Theatrical, Vindictive): "My emerald signet ring fell deep into the frozen blackthorn briars at Ashworth Manor. The thorns have grown over it..."
+E12-036 [00:52.40-00:56.70] DIALOGUE CLARISSA (Chilling, Sarcastic): "...sharp as steel. The ground is frozen, like pure ice."
+E12-037 [00:56.80-00:58.00] ACTION: Gerald bursts into a loud, mocking laugh beside the stony Constable.
+E12-039 [00:57.30-01:00.60] DIALOGUE CLARISSA (Demanding, Brutal): "You will retrieve it with your bare hands before the magistrate arrives."
+E12-041 [01:00.80-01:03.10] DIALOGUE GERALD (Gleeful, Derisive): "A lady's hands will be shredded to ribbons!"
+E12-043 [01:03.30-01:05.10] DIALOGUE CLARISSA (Cold, Transactional): "Do it, and we withdraw the charges."
+E12-045 [01:05.40-01:09.20] DIALOGUE CLARISSA (Whispering, Menacing): "Fail, or refuse, and your husband hangs from the gallows."
+E12-047 [01:09.60-01:11.20] ACTION: Alexander rests his scarred hand reassuringly on Juliana's shoulder, leaning in toward her.
+E12-048 [01:09.80-01:13.80] DIALOGUE ALEXANDER (Desperate, Protective, Urgent): "Juliana, no. Do not let them hurt you. I can handle the law."
+E12-050 [01:14.20-01:16.00] ACTION: Juliana clutches the front of her rustic grey dress, her breathing trembling.
+E12-051 [01:15.30-01:18.20] DIALOGUE JULIANA (Fierce, Emotional, Sacrificial): "I am not letting them take you."
+E12-052 [01:21.50-01:23.00] ACTION: Juliana turns her head sharply back toward Clarissa, her expression hardening with fierce resolution.
+E12-054 [01:22.80-01:24.70] DIALOGUE JULIANA (Steely, Resolute): "Tell me where the garden is."
+E12-055 [01:24.70-01:27.21] ACTION: Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacrificial defiance.
+
+NEXT_EPISODE_OPENING (E13, first 30 s; continuation only):
+E13-002 [00:00.00-00:04.00] SFX: Whistling winter wind and an ominous low brass drone.
+E13-004 [00:05.10-00:07.00] ACTION: Alexander turns toward Juliana, his manacled hands trembling as he grips her arm.
+E13-005 [00:05.40-00:10.20] DIALOGUE ALEXANDER (Pleading, Agonized): "Juliana, look at those thorns. You cannot do this."
+E13-008 [00:12.40-00:13.80] DIALOGUE JULIANA (Quiet, Unwavering): "I must."
+E13-010 [00:14.40-00:17.30] DIALOGUE ALEXANDER (Terrified for Her): "They will tear your hands apart."
+E13-013 [00:22.00-00:23.90] DIALOGUE JULIANA (Soft, Reassuring): "I will be fine."
+E13-014 [00:24.20-00:28.40] DIALOGUE ALEXANDER (Desperate, Fierce): "I would rather face the gallows than watch you hurt yourself for me."
+
+Return up to 1 promos for E12 as JSON.

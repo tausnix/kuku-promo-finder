@@ -1,0 +1,81 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E09
+EPISODE_DURATION: 01:55.50
+LOGLINE: When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remedies, unknowingly igniting dangerous rumors that reach the ears of the Blond Nobleman.
+CONTINUITY: Picks up immediately after Episode 8, continuing the peaceful evening inside the cottage before an urgent knock shatters the calm.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E09-029: physical
+- E09-057: violence
+- E09-075: reveal
+- E09-079: reveal
+Possible cliffhangers:
+- E09-015: sound sting, unanswered question
+- E09-044: threat/turn
+- E09-088: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E09-002 [00:00.00-00:02.80] ACTION: Juliana methodically crushes herbs in the mortar beside her open herbal grimoire.
+E09-003 [00:02.00-00:03.50] SFX: Heavy, frantic pounding echoes against the heavy wooden cottage door.
+E09-004 [00:02.80-00:04.00] ACTION: Juliana stops grinding and lifts her head sharply toward the entrance in alarm.
+E09-006 [00:03.60-00:05.00] DIALOGUE ALEXANDER (Authoritative, Protective): "Stay back. I'll open it."
+E09-007 [00:04.80-00:06.60] ACTION: Alexander steps forward and unlatches the cottage door, opening it into the pouring rain.
+E09-009 [00:06.30-00:11.10] DIALOGUE PEASANT MOTHER (Frantic, Weeping): "Please! They told me there was a woman here who knows herbs. My boy is burning with fever!"
+E09-011 [00:11.40-00:13.30] DIALOGUE JULIANA (Urgent, Compassionate): "Bring him here. Quickly."
+E09-012 [00:12.00-00:14.20] ACTION: The trembling mother gently lays the feverish boy down atop the wooden table as Juliana leans in close.
+E09-015 [00:15.50-00:19.80] DIALOGUE JULIANA (Reassuring, Focused): "He seems very unwell, but he is resting steadily. How long has he been like this?"
+E09-018 [00:20.50-00:23.90] DIALOGUE PEASANT MOTHER (Trembling, Anxious): "Since yesterday morning. He has barely eaten since sunset."
+E09-020 [00:27.20-00:28.80] ACTION: Juliana lifts the weathered herbal book and rapidly browses the handwritten pages.
+E09-022 [00:29.00-00:30.80] DIALOGUE JULIANA (Muttering, Intent): "Feverfew... Not alone."
+E09-024 [00:31.80-00:33.80] DIALOGUE JULIANA (Determined): "Chamomile... and willow bark."
+E09-026 [00:34.90-00:35.80] DIALOGUE ALEXANDER (Grave): "You're certain?"
+E09-028 [00:36.30-00:37.40] DIALOGUE JULIANA (Resolute): "I have to be."
+E09-029 [00:38.00-00:39.80] ACTION: Juliana quickly grabs bundles of dried herbs from the table and turns to Alexander.
+E09-030 [00:38.20-00:39.80] DIALOGUE JULIANA (Urgent): "Alexander, I need hot water."
+E09-031 [00:39.90-00:40.80] DIALOGUE ALEXANDER (Prompt): "I'm on it."
+E09-032 [00:40.80-00:42.50] ACTION: Alexander hurries to the hearth and lifts a boiling iron kettle from the hearth chain, while the mother buries her face in her hands.
+E09-033 [00:41.00-00:42.50] DIALOGUE PEASANT MOTHER (Sobbing): "Please save him."
+E09-034 [00:42.20-00:43.50] ACTION: Alexander returns and pours steaming hot water into the stone mortar as Juliana prepares the remedy.
+E09-036 [00:43.80-00:45.60] DIALOGUE JULIANA (Gentle, Steadfast): "He is not beyond saving."
+E09-038 [00:47.00-00:48.20] ACTION: The child swallows weakly and lets out a soft cough.
+E09-042 [00:52.50-00:54.00] DIALOGUE PEASANT MOTHER (Despairing): "Why isn't it working?"
+E09-044 [00:54.30-00:55.20] DIALOGUE JULIANA (Quiet, Focused): "Wait."
+E09-047 [00:58.80-01:01.80] DIALOGUE PEASANT MOTHER (Overcome with Emotion): "His fever... it's breaking."
+E09-050 [01:04.20-01:05.50] DIALOGUE PEASANT MOTHER (Tearful, Grateful): "You saved him."
+E09-052 [01:05.80-01:08.20] DIALOGUE JULIANA (Soft, Gracious): "The herbs did their work. Let him rest."
+E09-053 [01:08.00-01:10.50] ACTION: Juliana places a comforting hand over the mother's hands.
+E09-054 [01:10.50-01:13.00] ACTION: The mother gathers her sleeping son in her arms and steps back toward the rainy doorway.
+E09-056 [01:11.20-01:14.80] DIALOGUE PEASANT MOTHER (Reverent, Vowing): "I will tell the village what you did. They will never forget you."
+E09-057 [01:14.50-01:15.50] ACTION: The mother exits into the rainy twilight as Alexander pushes the door shut.
+E09-059 [01:15.10-01:17.50] DIALOGUE ALEXANDER (Stern, Warning): "You cannot let the whole village start talking about you."
+E09-061 [01:17.60-01:19.40] DIALOGUE JULIANA (Defiant, Principled): "A child's life matters more than gossip."
+E09-063 [01:19.60-01:21.60] DIALOGUE ALEXANDER (Dark, Cautionary): "Gossip has a way of becoming dangerous."
+E09-065 [01:22.00-01:23.80] DIALOGUE JULIANA (Committed, Unshakable): "Then we will face it together."
+E09-067 [01:24.00-01:26.50] ACTION: The Former Groom, soaked from the rain and clutching his hat, walks nervously through the double doors into the study.
+E09-069 [01:26.60-01:27.40] DIALOGUE BLOND NOBLEMAN (Aloof, Without Looking Up): "What is it?"
+E09-071 [01:28.00-01:30.30] DIALOGUE THE FORMER GROOM (Hesitant, Deferential): "There is a rumor going around, my Lord."
+E09-073 [01:30.60-01:31.40] DIALOGUE BLOND NOBLEMAN (Coldly Curious): "What rumor?"
+E09-075 [01:32.10-01:35.10] DIALOGUE THE FORMER GROOM (Uneasy): "About a war veteran. Some say he resembles the late Duke."
+E09-077 [01:35.30-01:37.30] DIALOGUE BLOND NOBLEMAN (Mocking, Arrogant): "People see ghosts whenever they want a story."
+E09-079 [01:37.50-01:41.20] DIALOGUE THE FORMER GROOM (Tense, Solemn): "The man is said to have the same kind of scar the Duke carried after the war."
+E09-081 [01:41.40-01:41.90] DIALOGUE BLOND NOBLEMAN (Sharp, Demanding): "Where?"
+E09-083 [01:42.30-01:43.60] DIALOGUE THE FORMER GROOM (Cautious): "No one seems certain."
+E09-085 [01:44.20-01:45.90] DIALOGUE BLOND NOBLEMAN (Dismissive, Masking Panic): "Then let it remain a rumor."
+E09-088 [01:49.80-01:51.20] DIALOGUE BLOND NOBLEMAN (Whispering, Shaken): "Impossible."
+
+NEXT_EPISODE_OPENING (E10, first 30 s; continuation only):
+E10-002 [00:00.00-00:02.20] ACTION: Juliana quietly studies the botanical illustrations by firelight, a bundle of fresh dried herbs resting on the table.
+E10-003 [00:02.10-00:03.30] SFX: A heavy wooden door suddenly creaks and bangs open in the quiet cottage.
+E10-004 [00:02.20-00:03.50] ACTION: Juliana jerks her head up from the book, startled by the sudden intrusion.
+E10-007 [00:05.10-00:06.60] DIALOGUE JULIANA (Alarmed, Breathless): "Alexander!"
+E10-009 [00:07.50-00:09.00] DIALOGUE ALEXANDER (Gruff, Strained): "It is nothing."
+E10-011 [00:09.15-00:11.45] DIALOGUE JULIANA (Urgent, Worried): "There is blood running down your arm."
+E10-013 [00:11.90-00:14.30] DIALOGUE ALEXANDER (Stiff, Dismissive): "A cut from the tenant fields."
+E10-015 [00:14.50-00:16.00] DIALOGUE JULIANA (Commanding, Resolute): "Sit down."
+E10-017 [00:16.20-00:17.30] DIALOGUE JULIANA (Stern): "Now."
+E10-020 [00:20.90-00:22.90] DIALOGUE JULIANA (Gentle, Insistent): "I need to see the wound."
+E10-022 [00:23.20-00:24.90] DIALOGUE ALEXANDER (Low, Defiant): "It is only a scratch."
+E10-024 [00:25.50-00:28.00] DIALOGUE JULIANA (Sarcastic, Challenging): "Then removing your shirt should not trouble you."
+
+Return up to 1 promos for E09 as JSON.

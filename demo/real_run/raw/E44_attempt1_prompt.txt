@@ -1,0 +1,61 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E44
+EPISODE_DURATION: 01:10.50
+LOGLINE: As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as he walks toward his chained bride, Juliana.
+CONTINUITY: Picks up immediately from Episode 43's cliffhanger at the church side exit; Lord Sterling's escape is blocked by the Police Constable, leading into the downfall of the conspirators.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E44-013: delivery:shouting, delivery:anguish, exclamation
+- E44-035: reveal, delivery:anguish, exclamation
+- E44-041: reveal, romance, delivery:contempt
+- E44-006: delivery:rage, exclamation
+- E44-011: delivery:shouting, exclamation
+- E44-037: reveal
+Possible cliffhangers:
+- E44-054: shock beat, episode ending
+- E44-051: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E44-002 [00:00.00-00:03.20] ACTION: The Police Constable strides firmly down the steps and halts right in front of Lord Sterling, holding his ground.
+E44-004 [00:03.30-00:08.20] DIALOGUE POLICE CONSTABLE (Authoritative, Stern): "Lord Henry Sterling, you are under arrest by order of the Crown."
+E44-006 [00:09.10-00:11.20] DIALOGUE LORD STERLING (Snarls, Outraged): "You have no authority!"
+E44-008 [00:11.40-00:13.20] DIALOGUE POLICE CONSTABLE (Cold, Definite): "I have more than enough."
+E44-010 [00:14.00-00:16.40] ACTION: A royal redcoat guard firmly forces Rupert down into the stone dust.
+E44-011 [00:14.00-00:16.80] DIALOGUE BLOND NOBLEMAN (Frantic, Shouting): "Get your hands off me! Catherine!"
+E44-013 [00:17.40-00:19.30] DIALOGUE BLOND NOBLEMAN (Desperate, Screaming): "Do something!"
+E44-015 [00:21.80-00:24.40] ACTION: Catherine's satin-gloved hand clenches tightly into a trembling fist against the folds of her ornate gown.
+E44-018 [00:25.20-00:28.00] DIALOGUE CATHERINE (Shaken, Tearful): "Alexander... I thought you had died."
+E44-020 [00:28.40-00:31.00] DIALOGUE CATHERINE (Choked, Weeping): "Do you know what this did to me?"
+E44-022 [00:31.20-00:32.40] DIALOGUE CATHERINE (O.S., Pleading): "I mourned you."
+E44-024 [00:32.40-00:34.00] DIALOGUE CATHERINE (Vulnerable, Trembling): "I waited for you."
+E44-026 [00:34.20-00:38.80] DIALOGUE CATHERINE (Heartbroken): "For three years, I believed the man I loved was buried somewhere across the sea."
+E44-029 [00:38.90-00:41.20] DIALOGUE CATHERINE (Whispering, Longing): "I never stopped loving you."
+E44-030 [00:41.20-00:42.80] ACTION: Alexander abruptly pulls his face back, refusing her touch and leaving her hand suspended in mid-air.
+E44-033 [00:44.20-00:46.40] DIALOGUE CATHERINE (Breathless, Hurt): "You don't remember?"
+E44-035 [00:46.60-00:48.80] DIALOGUE CATHERINE (Desperate, Demanding): "I was supposed to be your Duchess!"
+E44-037 [00:49.20-00:51.00] DIALOGUE ALEXANDER (Cold, Implacable): "You were never my Duchess."
+E44-039 [00:51.10-00:52.80] DIALOGUE CATHERINE (Sobbing, Pleading): "But I loved you!"
+E44-041 [00:53.00-00:55.50] DIALOGUE ALEXANDER (Scornful, Biting): "You loved the Duke you thought you would marry."
+E44-043 [00:56.20-00:58.20] DIALOGUE CATHERINE (Defiant, Pained): "No!"
+E44-045 [00:59.80-01:02.40] DIALOGUE CATHERINE (Passionate, Crying): "I loved you before all this!"
+E44-047 [01:02.50-01:03.40] DIALOGUE ALEXANDER (Skeptical, Cutting): "Did you?"
+E44-051 [01:08.00-01:09.60] ACTION: Alexander walks away from Catherine toward Juliana, who waits solemnly by the cathedral entrance.
+E44-054 [01:10.10-01:10.40] DIALOGUE CATHERINE (Gasping, Incredulous): "Her?!"
+
+NEXT_EPISODE_OPENING (E45, first 30 s; continuation only):
+E45-002 [00:00.00-00:02.80] ACTION: Alexander strides purposefully down the cathedral aisle, ignoring the watching nobles as Juliana stands shackled in her rustic grey dress near the entrance.
+E45-004 [00:03.20-00:04.80] DIALOGUE JULIANA (Whispering, Tearful): "Alexander..."
+E45-006 [00:05.20-00:07.80] ACTION: Alexander drops to one knee before Juliana, looking up at her with profound devotion.
+E45-007 [00:07.40-00:08.90] DIALOGUE ALEXANDER (Gentle, Reassuring): "Look at me."
+E45-010 [00:10.20-00:11.80] SFX: Heavy iron clanking as the shackles fall away.
+E45-012 [00:12.50-00:14.30] DIALOGUE JULIANA (Breathless, Overcome): "Your eyes..."
+E45-014 [00:15.20-00:18.50] ACTION: Juliana places her palm against Alexander's beard, feeling his scarred face as recognition dawns.
+E45-015 [00:17.10-00:18.70] DIALOGUE JULIANA (Emotional, Realizing): "It's you."
+E45-016 [00:19.40-00:21.50] DIALOGUE ALEXANDER (Solemn, Loving): "It was always me."
+E45-018 [00:21.90-00:24.20] ACTION: Alexander places the ducal cloak over Juliana's rustic gown, adjusting it gently over her shoulders.
+E45-019 [00:22.90-00:24.40] DIALOGUE JULIANA (Shocked, Wondering): "You're the Duke?"
+E45-021 [00:24.60-00:27.40] DIALOGUE ALEXANDER (Firm, Resonant): "Alexander Ashburton. The rightful Duke of Ashburton."
+E45-023 [00:27.60-00:29.60] DIALOGUE JULIANA (Incredulous, Moved): "All this time?"
+
+Return up to 1 promos for E44 as JSON.

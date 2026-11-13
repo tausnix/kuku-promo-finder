@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: reveal at E27-081\", \"segments\": [{\"start_id\": \"E27-081\", \"end_id\": \"E27-093\"}], \"hook_id\": \"E27-081\", \"hook_quote\": \"She admits she has been giving the Duchess poison in secret!\", \"cliffhanger_id\": \"E27-093\", \"cliffhanger_quote\": \"The guard twists Juliana around and drags her forcibly toward the doorway\", \"hook_type\": \"reveal\", \"why\": \"Rules only: hook signals [threat, reveal, reveal, delivery:menace], cliff signals [episode ending].\", \"scores\": {\"hook\": 5, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.0,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "b0bd91cf1eff64a5d658aabafa9b22e39e1368a3016e3b1034ff1c2900109973"
+}

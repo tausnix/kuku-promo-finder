@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: physical at E09-029\", \"segments\": [{\"start_id\": \"E09-029\", \"end_id\": \"E09-069\"}], \"hook_id\": \"E09-029\", \"hook_quote\": \"Juliana quickly grabs bundles of dried herbs from the table and turns\", \"cliffhanger_id\": \"E09-069\", \"cliffhanger_quote\": \"What is it?\", \"hook_type\": \"physical\", \"why\": \"Rules only: hook signals [physical], cliff signals [unanswered question].\", \"scores\": {\"hook\": 2, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "4d6c6ac409fc1adc302fad8f6ae8312e1d8c87c0fdc0ad026fad63f2f80b3085"
+}

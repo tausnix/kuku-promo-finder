@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: shocking_line at E44-013\", \"segments\": [{\"start_id\": \"E44-013\", \"end_id\": \"E44-054\"}], \"hook_id\": \"E44-013\", \"hook_quote\": \"Do something!\", \"cliffhanger_id\": \"E44-054\", \"cliffhanger_quote\": \"Her?!\", \"hook_type\": \"shocking_line\", \"why\": \"Rules only: hook signals [delivery:shouting, delivery:anguish, exclamation], cliff signals [shock beat, episode ending].\", \"scores\": {\"hook\": 3, \"cliffhanger\": 3, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "29089da3b2a3ddd751bf2c88267ec4e0ad5ec72643a3d39d4ed05580e19fa3c8"
+}

@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: threat at E45-040\", \"segments\": [{\"start_id\": \"E45-040\", \"end_id\": \"E45-058\"}], \"hook_id\": \"E45-040\", \"hook_quote\": \"You poisoned my mother. You tortured my wife.\", \"cliffhanger_id\": \"E45-058\", \"cliffhanger_quote\": \"Loud, echoing thud of cathedral doors swinging open violently.\", \"hook_type\": \"threat\", \"why\": \"Rules only: hook signals [threat, delivery:rage], cliff signals [sound sting, interruption].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "01d0b684b015e03c8c3a8506f8c2bf037a79cfa1bb47b3dc9e5b4b856709e534"
+}

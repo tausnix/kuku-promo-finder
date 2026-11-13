@@ -1,0 +1,58 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E40
+EPISODE_DURATION: 01:50.08
+LOGLINE: High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's execution—unaware that Alexander's retribution is already at their gates.
+CONTINUITY: Picks up right after Alexander commands his men to secure the chapel and vows to reclaim his house and rescue Juliana; inside the cathedral, the wedding guests arrive and the conspirators finalize their sinister plot.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E40-038: threat
+- E40-010: reveal
+- E40-036: reveal
+Possible cliffhangers:
+- E40-039: sound sting, interruption
+- E40-002: interruption
+- E40-050: episode ending
+- E40-051: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E40-002 [00:00.00-00:04.80] SFX: Somber cathedral bells tolling and the distant murmur of arriving carriages.
+E40-004 [00:05.50-00:07.40] DIALOGUE FOOTMAN (Formal, Resonant): "The Harrington family."
+E40-006 [00:10.00-00:12.40] ACTION: Lady Harrington takes his hand and steps onto the pavement, clutching a velvet reticule.
+E40-007 [00:12.40-00:17.30] DIALOGUE LADY HARRINGTON (Smug, Impressed): "Look at them. Every noble family in the county is here today."
+E40-010 [00:19.20-00:23.00] DIALOGUE LORD HARRINGTON (Ambitious, Proud): "And soon, we'll be connected to the Duchess of Ashburgh."
+E40-012 [00:23.20-00:26.00] DIALOGUE LADY HARRINGTON (Malicious, Taunting): "Imagine Juliana seeing this."
+E40-014 [00:26.20-00:28.90] DIALOGUE LORD HARRINGTON (Sinister, Dismissive): "She won't be seeing anything for long."
+E40-015 [00:29.00-00:29.90] DIALOGUE LADY HARRINGTON (Pleased, Cold): "Good."
+E40-016 [00:30.10-00:33.20] DIALOGUE LORD HARRINGTON (Chuckling, Scornful): "This place has always been unlucky for Juliana."
+E40-017 [00:32.80-00:34.20] ACTION: Lady Harrington lets out a soft, amused laugh as they reach the heavy wooden cathedral doors.
+E40-019 [00:34.40-00:39.00] DIALOGUE LADY HARRINGTON (Vindictive, Pious): "She stands beneath God's watch and still gets exactly what she deserves."
+E40-020 [00:40.50-00:42.20] ACTION: Lord and Lady Harrington slide gracefully into the polished wooden pew, smoothing their garments.
+E40-022 [00:42.00-00:44.00] DIALOGUE LADY HARRINGTON (Anticipatory, Eager): "We have an excellent view."
+E40-023 [00:44.10-00:45.20] DIALOGUE LORD HARRINGTON (Inquiring, Subdued): "Of the wedding?"
+E40-025 [00:45.30-00:48.30] DIALOGUE LADY HARRINGTON (Chilling, Sarcastic): "And everything that comes after it."
+E40-027 [00:50.80-00:53.20] DIALOGUE BLOND NOBLEMAN (Nervous, Determined): "Everything must go perfectly."
+E40-028 [00:53.20-00:55.80] ACTION: Rupert smooths the lapels of his coat, checking his posture as he waits for the bride.
+E40-032 [01:05.00-01:06.80] DIALOGUE ELDER NOBLEMAN (Stern, Scheming): "All entrances are covered?"
+E40-033 [01:06.90-01:08.20] DIALOGUE ROYAL GUARD (Obedient, Firm): "Every one, my Lord."
+E40-034 [01:08.30-01:09.30] DIALOGUE ELDER NOBLEMAN (Calculating): "Good."
+E40-036 [01:09.80-01:14.20] DIALOGUE ELDER NOBLEMAN (Ruthless, Victorious): "By sunset, Ashburgh will have its new Duke and Duchess."
+E40-038 [01:14.80-01:17.40] DIALOGUE ELDER NOBLEMAN (Deadly, Uncompromising): "And its witch will be dead."
+E40-039 [01:18.50-01:21.00] SFX: The heavy creak of massive wooden cathedral doors swinging open, accompanied by swelling bridal organ music.
+E40-045 [01:32.00-01:34.20] DIALOGUE LADY HARRINGTON (Awestruck, Whispering): "She looks like a queen."
+E40-048 [01:40.00-01:42.80] DIALOGUE BLOND NOBLEMAN (Enamored, Flattering): "You look more queen than bride."
+E40-050 [01:45.00-01:49.00] DIALOGUE CATHERINE (Smug, Coquettish): "And you look better in silk than you ever did as an ignored cousin."
+E40-051 [01:49.00-01:50.08] ACTION: Rupert and Catherine exchange conspiratorial, triumphant smiles at the altar as the solemn organ chord holds and the scene cuts to black.
+
+NEXT_EPISODE_OPENING (E41, first 30 s; continuation only):
+E41-002 [00:01.80-00:04.50] ACTION: Catherine abruptly pulls away from Rupert and raises her white-gloved hand high, commanding silence from the congregation.
+E41-003 [00:01.80-00:02.80] DIALOGUE CATHERINE (Imperious, Commanding): "Wait."
+E41-005 [00:04.90-00:08.20] DIALOGUE CATHERINE (Haughty, Loud): "Before I become Duchess of Ashburgh..."
+E41-007 [00:08.50-00:12.70] DIALOGUE CATHERINE (Cruel, Resonant): "...I want everyone to see what happens to a woman who dares defy this family."
+E41-009 [00:13.20-00:14.00] DIALOGUE BLOND NOBLEMAN (Subdued, Inquiring): "Catherine..."
+E41-010 [00:14.00-00:15.30] DIALOGUE CATHERINE (Callous, Projecting): "Bring her in."
+E41-011 [00:15.50-00:17.50] SFX: Heavy wooden creak of the cathedral double doors swinging open.
+E41-013 [00:17.50-00:20.00] ACTION: Juliana, dressed in a coarse drab prison dress with a numbered identification badge, is marched forward by two armed constables holding her by the arms.
+E41-017 [00:26.80-00:28.40] DIALOGUE CATHERINE (Smug, Taunting): "There she is."
+
+Return up to 1 promos for E40 as JSON.

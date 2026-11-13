@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: reveal at E41-005\", \"segments\": [{\"start_id\": \"E41-005\", \"end_id\": \"E41-034\"}], \"hook_id\": \"E41-005\", \"hook_quote\": \"Before I become Duchess of Ashburgh...\", \"cliffhanger_id\": \"E41-034\", \"cliffhanger_quote\": \"You needed an entire chapel to feel powerful over one chained woman?\", \"hook_type\": \"reveal\", \"why\": \"Rules only: hook signals [reveal], cliff signals [unanswered question].\", \"scores\": {\"hook\": 2, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "a53918078f80ed4e2ebaa0beb7c6b122e9db12b301a7169cbb68efd44a6f3524"
+}

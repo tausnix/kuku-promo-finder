@@ -1,0 +1,85 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E35
+EPISODE_DURATION: 02:37.50
+LOGLINE: Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise.
+CONTINUITY: While Juliana faces trial and sentencing in the courtroom, this episode reveals Alexander's mother escaping confinement and tracking down Alexander in his mountain hideout, uncovering the dark treason that orchestrates both their fates.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E35-020: delivery:shock, delivery:anguish, exclamation
+- E35-066: threat, delivery:rage
+- E35-005: violence
+- E35-023: physical
+- E35-063: violence
+- E35-003: threat
+Possible cliffhangers:
+- E35-072: ominous, sound sting, episode ending
+- E35-057: shock beat, unanswered question
+- E35-068: shock beat, unanswered question
+- E35-007: interruption
+- E35-020: shock beat
+- E35-059: ominous
+
+SCRIPT_LINES (camera directions omitted):
+E35-002 [00:00.00-00:05.20] ACTION: Alexander's mother, frail with silver hair under a dark hooded cloak, braces her hand against the rough stone wall, panting heavily in fear.
+E35-003 [00:05.50-00:08.50] DIALOGUE ALEXANDER'S MOTHER (Determined, Breathless): "I will not die in that house."
+E35-005 [00:09.50-00:12.80] ACTION: She uses all her strength to shove the stone bolt upward, disengaging the hidden lock mechanism.
+E35-006 [00:11.20-00:13.00] SFX: Heavy stone grating and metallic latch clanging as the lock releases.
+E35-007 [00:13.00-00:15.50] ACTION: The heavy stone doorway swings inward, and the elderly woman ducks low, crawling through the opening into the cold night outside.
+E35-009 [00:15.50-00:19.50] ACTION: Alexander's mother plods through the thick snow, leaning heavily on a wooden walking stick, her dark cloak dusted with snow.
+E35-010 [00:16.00-00:19.50] SFX: Howling winter wind and crunching of footsteps in deep snow.
+E35-012 [00:21.00-00:23.00] DIALOGUE ALEXANDER'S MOTHER (Whispering, Weary): "This must be the place."
+E35-014 [00:24.80-00:27.00] SFX: Creak of cold wooden hinges opening.
+E35-016 [00:28.50-00:30.80] ACTION: Alexander, wearing a rugged trench coat, his scarred face framed by long dark hair, stands studying an unfolded tactical map before snapping his head up in alarm.
+E35-020 [00:37.00-00:40.00] DIALOGUE ALEXANDER'S MOTHER (Sobbing, Stunned): "Alexander!"
+E35-022 [00:42.50-00:44.20] DIALOGUE ALEXANDER (Breathless, In Disbelief): "Mother?"
+E35-023 [00:44.20-00:47.50] ACTION: She drops her walking staff and rushes forward, throwing her arms around Alexander's neck. He pulls her tightly into his chest.
+E35-024 [00:45.50-00:48.00] DIALOGUE ALEXANDER'S MOTHER (Weeping, Overwhelmed): "You're alive."
+E35-025 [00:48.00-00:49.80] DIALOGUE ALEXANDER (Gentle, Choked Up): "Mother."
+E35-026 [00:50.00-00:55.50] ACTION: She leans back slightly, her frail hand reaching up to gently cup his bearded, scarred cheek, staring into his eyes in disbelief.
+E35-027 [00:52.50-00:55.00] DIALOGUE ALEXANDER'S MOTHER (Tearful, Heartbroken): "I buried you."
+E35-028 [00:56.50-00:58.00] DIALOGUE ALEXANDER (Soft, Somber): "I know."
+E35-029 [00:59.50-01:06.00] DIALOGUE ALEXANDER'S MOTHER (Anguished, Accusing): "They told me you died. They told me your entire regiment was destroyed."
+E35-031 [01:08.50-01:10.80] DIALOGUE ALEXANDER (Dark, Resigned): "Most of them were."
+E35-032 [01:11.50-01:14.00] DIALOGUE ALEXANDER'S MOTHER (Searching, Desperate): "Then how did you survive?"
+E35-034 [01:15.00-01:17.50] DIALOGUE ALEXANDER (Grim, Quiet): "I wasn't supposed to."
+E35-035 [01:18.00-01:22.50] ACTION: Alexander steps over to the wooden table, looking down at the parchment map spread out under the lantern.
+E35-036 [01:19.00-01:23.00] DIALOGUE ALEXANDER (Solemn): "Three years ago, I was sent to the Iberian front."
+E35-038 [01:23.00-01:29.00] DIALOGUE ALEXANDER (Steady, Focused): "It was a classified Crown mission. We were investigating a British officer selling military secrets to French spies."
+E35-039 [01:27.00-01:29.80] ACTION: Alexander's scarred finger points to a red-circled location on the parchment map marked near Madrid.
+E35-041 [01:29.80-01:31.50] DIALOGUE ALEXANDER'S MOTHER (Shocked): "A traitor?"
+E35-042 [01:32.00-01:33.20] DIALOGUE ALEXANDER (Cold, Firm): "Yes."
+E35-044 [01:34.50-01:37.00] DIALOGUE ALEXANDER (Grave): "We were close to finding him."
+E35-045 [01:38.50-01:41.00] DIALOGUE ALEXANDER (Hardened): "Then came the ambush."
+E35-047 [01:41.50-01:44.20] DIALOGUE ALEXANDER (Bitter, Painful): "My men were slaughtered."
+E35-049 [01:44.50-01:46.00] DIALOGUE ALEXANDER'S MOTHER (Trembling, Anxious): "And you?"
+E35-050 [01:47.00-01:50.00] DIALOGUE ALEXANDER (Hollow): "I was shot. Left for dead."
+E35-052 [01:51.00-01:53.00] DIALOGUE ALEXANDER'S MOTHER (Pleading, Astonished): "How did you escape?"
+E35-054 [01:54.00-01:58.00] DIALOGUE ALEXANDER (Somber, Low): "I crawled away from the battlefield, half dead, alone."
+E35-055 [01:58.20-02:02.00] DIALOGUE ALEXANDER (Continuing): "I survived because the men who came looking for me believed I was already dead."
+E35-057 [02:02.00-02:05.50] DIALOGUE ALEXANDER'S MOTHER (Aghast, Stunned): "Then why did they never tell us?"
+E35-059 [02:06.00-02:09.50] DIALOGUE ALEXANDER (Ominous, Deliberate): "Because someone wanted you to believe I was dead."
+E35-060 [02:09.50-02:10.50] DIALOGUE ALEXANDER'S MOTHER (Breathless): "Who?"
+E35-061 [02:10.50-02:14.00] ACTION: Alexander turns away toward the frosted window, staring out into the dark raging blizzard outside.
+E35-062 [02:11.00-02:14.00] DIALOGUE ALEXANDER (Brooding): "I spent three years trying to find out."
+E35-063 [02:14.00-02:16.80] ACTION: Alexander abruptly pushes away from the window, storming back toward the table with burning rage.
+E35-064 [02:14.00-02:17.00] DIALOGUE ALEXANDER (Fierce, Resolute): "The ambush was not an accident."
+E35-065 [02:17.00-02:24.00] ACTION: He leans heavily over the wooden table, looming close as his fury boils over.
+E35-066 [02:17.00-02:20.50] DIALOGUE ALEXANDER (Vehement, Enraged): "Someone ordered my men to die."
+E35-067 [02:21.00-02:24.00] DIALOGUE ALEXANDER (Darkly Intimating): "Someone wanted me erased."
+E35-068 [02:24.00-02:25.00] DIALOGUE ALEXANDER'S MOTHER (Gasping, Terrified): "Who?"
+E35-070 [02:25.50-02:30.00] DIALOGUE ALEXANDER (Deadly, Chilling): "The men behind it... are the same men ruling Ashwood now."
+E35-072 [02:30.80-02:37.50] SFX: A sudden, ominous orchestral crescendo swells dramatically into silence.
+
+NEXT_EPISODE_OPENING (E36, first 30 s; continuation only):
+E36-002 [00:00.00-00:03.80] ACTION: Alexander's mother leans forward with both hands on the rustic table, searching her son's scarred face in disbelief.
+E36-003 [00:00.80-00:03.70] DIALOGUE ALEXANDER'S MOTHER (Whispering, Distraught): "Then why did they never find you?"
+E36-005 [00:04.80-00:08.20] DIALOGUE ALEXANDER (Cold, Bitter): "Because they made certain no one would look."
+E36-007 [00:09.50-00:11.20] DIALOGUE ALEXANDER'S MOTHER (Trembling): "Who?"
+E36-009 [00:13.50-00:17.00] DIALOGUE ALEXANDER (Grave, Sinister): "Sterling... and Rupert."
+E36-011 [00:17.60-00:19.80] DIALOGUE ALEXANDER'S MOTHER (Gasping, Stricken): "Rupert?"
+E36-013 [00:21.00-00:23.50] DIALOGUE ALEXANDER (Stern, Resolute): "They knew where I was."
+E36-015 [00:23.70-00:28.80] DIALOGUE ALEXANDER (Fierce): "My position was leaked to the French... before I could expose what I had discovered."
+E36-017 [00:29.20-00:31.70] DIALOGUE ALEXANDER'S MOTHER (Horrified): "They gave you to the enemy?"
+
+Return up to 1 promos for E35 as JSON.

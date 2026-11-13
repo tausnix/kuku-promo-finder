@@ -1,0 +1,75 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E22
+EPISODE_DURATION: 02:11.00
+LOGLINE: Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the dying Dowager Duchess suffering from an unnatural, poisoned affliction.
+CONTINUITY: Directly follows Episode 21 where Prudence revealed that the Dowager Duchess is dying from a mysterious illness; Juliana sets aside her aristocratic identity to sneak into Ashbury Manor under the guise of domestic help to save her.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E22-002: humiliation
+- E22-059: physical
+- E22-077: reveal
+- E22-011: reveal
+- E22-076: delivery:shock
+- E22-043: delivery:menace
+Possible cliffhangers:
+- E22-077: shock beat, episode ending
+- E22-080: unanswered question, episode ending
+- E22-075: episode ending
+- E22-076: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E22-002 [00:00.00-00:04.00] ACTION: Lady Juliana walks nervously along the stone pavement dressed in a modest dark maid's dress and a plain white apron, looking around cautiously.
+E22-004 [00:06.50-00:08.50] ACTION: Prudence rushes up behind Lady Juliana, pulling her into the shelter of the stone archway.
+E22-005 [00:07.00-00:11.10] DIALOGUE PRUDENCE (Urgent, Whispering): "Keep your head down. If anyone recognizes you, everything is over."
+E22-007 [00:11.20-00:14.20] DIALOGUE LADY JULIANA (Resolute, Quiet): "No one will recognize me dressed like this."
+E22-009 [00:14.20-00:19.00] DIALOGUE PRUDENCE (Nervous, Warning): "This is Ashburton Manor. The housekeeper watches everyone. Lady Catherine watches everyone, and Lord Rupert..."
+E22-011 [00:19.10-00:21.00] DIALOGUE LADY JULIANA (Determined): "The Duchess is dying."
+E22-013 [00:22.00-00:25.50] DIALOGUE LADY JULIANA (Defiant, Firm): "I saved Toby. I can save her."
+E22-015 [00:26.00-00:28.10] DIALOGUE PRUDENCE (Fretful): "And if they discover who you are?"
+E22-017 [00:28.20-00:31.00] DIALOGUE LADY JULIANA (Steely, Selfless): "Then I will face that when she is breathing again."
+E22-019 [00:33.80-00:36.00] DIALOGUE PRUDENCE (Solemn): "Then forget you were ever a lady."
+E22-021 [00:37.00-00:39.50] DIALOGUE LADY JULIANA (Quietly Resolute): "Today, I am only a maid."
+E22-022 [00:39.80-00:42.50] ACTION: Prudence opens the heavy wooden service door, and both women step inside into the dark servants' corridor as the door shuts firmly behind them.
+E22-023 [00:41.50-00:42.80] SFX: Heavy wooden latch clicks shut with a thud.
+E22-024 [00:43.00-00:44.20] DIALOGUE HOUSEKEEPER (Sharp, Stern, O.S.): "Prudence."
+E22-026 [00:44.30-00:45.60] DIALOGUE HOUSEKEEPER (Suspicious): "Who is this?"
+E22-028 [00:46.00-00:49.00] DIALOGUE PRUDENCE (Submissive): "Julian, ma'am. New help for the winter cleaning."
+E22-030 [00:49.50-00:51.80] DIALOGUE HOUSEKEEPER (Cold, Skeptical): "She looks soft."
+E22-031 [00:51.80-00:53.00] ACTION: Close-up on Lady Juliana's hands gripping the iron handle of the wooden wash bucket firmly.
+E22-033 [00:52.80-00:54.80] DIALOGUE LADY JULIANA (Humble, Steady): "I can work, ma'am."
+E22-035 [00:56.00-00:58.00] DIALOGUE HOUSEKEEPER (Demanding): "Can you scrub stone?"
+E22-037 [00:58.50-00:59.80] DIALOGUE LADY JULIANA (Subdued): "Yes, ma'am."
+E22-038 [01:00.20-01:01.80] DIALOGUE HOUSEKEEPER (Harsh, O.S.): "Carry coal?"
+E22-041 [01:02.50-01:03.80] DIALOGUE LADY JULIANA (Polite): "Yes, ma'am."
+E22-043 [01:06.00-01:09.50] DIALOGUE HOUSEKEEPER (Menacing, Threatening): "And can you keep your eyes and ears where they belong?"
+E22-045 [01:11.20-01:12.60] DIALOGUE LADY JULIANA (Subdued, Steady): "Yes, ma'am."
+E22-047 [01:13.20-01:17.50] DIALOGUE HOUSEKEEPER (Stern, Dismissive): "Then prove it. The manor has no use for useless girls."
+E22-048 [01:17.50-01:21.00] ACTION: The Housekeeper turns and stalks away down the corridor. Prudence exhales a trembling breath of relief.
+E22-050 [01:19.00-01:21.00] DIALOGUE PRUDENCE (Relieved, Whispering): "That was close."
+E22-052 [01:22.50-01:24.50] DIALOGUE LADY JULIANA (Urgent, Quiet): "Where is the West Wing?"
+E22-054 [01:24.80-01:28.00] DIALOGUE PRUDENCE (Nervous, Warning): "Beyond the grand staircase. Few servants go there."
+E22-056 [01:31.50-01:36.00] ACTION: Lady Juliana stops in her tracks and gazes upward in awe at the soaring gilded ceilings and aristocratic crest.
+E22-058 [01:34.50-01:36.00] DIALOGUE LADY JULIANA (Breathless): "This house..."
+E22-059 [01:36.00-01:38.50] ACTION: Prudence rushes into frame, grabbing Juliana's arm to keep her moving.
+E22-061 [01:36.00-01:38.50] DIALOGUE PRUDENCE (Panicked, Hushed): "Do not stare. Keep walking."
+E22-064 [01:45.50-01:48.50] ACTION: Lady Juliana reaches out with a trembling hand and quietly turns the ornate brass and glass door knob.
+E22-066 [01:46.50-01:48.50] SFX: Faint, muffled click of the heavy door lock turning.
+E22-068 [01:49.00-01:54.00] SFX: Labored, raspy, shallow breathing echoing in the quiet room.
+E22-069 [01:53.80-01:56.00] ACTION: Lady Juliana hurries inside, sets the wooden bucket onto the floor, and rushes to the bedside.
+E22-070 [01:54.00-01:55.50] DIALOGUE LADY JULIANA (Gentle, Concerned): "Your Grace?"
+E22-073 [01:58.20-01:59.80] DIALOGUE LADY JULIANA (Soft, Comforting): "Do not speak."
+E22-075 [02:03.00-02:05.80] ACTION: Lady Juliana's eyes widen with sudden, horrifying realization.
+E22-076 [02:03.50-02:05.80] DIALOGUE LADY JULIANA (Shocked, Murmuring): "This isn't ordinary fever."
+E22-077 [02:05.80-02:07.00] ACTION: The Dowager Duchess suddenly gasps violently for breath, convulsing weakly as her eyes snap open in agony.
+E22-080 [02:07.20-02:08.80] DIALOGUE LADY JULIANA (Urgent, Alarmed): "Who has been treating you?"
+
+NEXT_EPISODE_OPENING (E23, first 30 s; continuation only):
+E23-003 [00:01.80-00:06.00] DIALOGUE PRUDENCE (Anxious, Whispering): "Juliana, we cannot stay for long. Someone will come."
+E23-005 [00:07.50-00:11.80] ACTION: Juliana cradles the Duchess's frail hands in hers, inspecting her fingers with furrowed brows.
+E23-007 [00:13.50-00:16.00] DIALOGUE LADY JULIANA (Hushed, Grave): "How long has she been like this?"
+E23-009 [00:16.80-00:19.50] DIALOGUE PRUDENCE (Tearful, Trembling): "Weeks."
+E23-012 [00:24.00-00:27.50] DIALOGUE LADY JULIANA (Solemn): "Her mouth is terribly dry."
+E23-014 [00:29.00-00:31.50] DIALOGUE LADY JULIANA (Quiet, Grim): "Her pulse is weak."
+
+Return up to 1 promos for E22 as JSON.

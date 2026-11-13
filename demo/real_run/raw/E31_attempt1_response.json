@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: shocking_line at E31-071\", \"segments\": [{\"start_id\": \"E31-071\", \"end_id\": \"E31-086\"}], \"hook_id\": \"E31-071\", \"hook_quote\": \"Enough!\", \"cliffhanger_id\": \"E31-086\", \"cliffhanger_quote\": \"Juliana recoils back against the hard dungeon wall, gasping for breath in\", \"hook_type\": \"shocking_line\", \"why\": \"Rules only: hook signals [delivery:rage, delivery:shouting, exclamation], cliff signals [shock beat, episode ending].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 3, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "606b8dcd5a33804e8f1995640f74f8974a00526650e15ffe5d3d0d4c74570bde"
+}

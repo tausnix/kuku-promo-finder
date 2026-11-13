@@ -1,0 +1,82 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E25
+EPISODE_DURATION: 02:48.00
+LOGLINE: Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and protective concern upon learning that someone is systematically poisoning the Dowager Duchess with arsenic.
+CONTINUITY: Picks up immediately following Juliana's ordeal at Ashburg Manor, where she escaped punishment after hiding the antidote and now encounters Alexander awaiting her on the woodland trail.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E25-081: violence, threat, delivery:rage
+- E25-049: threat, delivery:shock
+- E25-014: violence
+- E25-055: threat
+- E25-077: threat
+- E25-037: reveal
+Possible cliffhangers:
+- E25-047: open question, unanswered question
+- E25-039: shock beat, unanswered question
+- E25-009: shock beat
+- E25-094: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E25-002 [00:00.60-00:04.20] ACTION: Juliana walks hurriedly along the leaf-strewn forest path, clutching her dark hooded cloak tightly around her shoulders, breathing heavily.
+E25-004 [00:05.10-00:06.40] DIALOGUE ALEXANDER (Grave, Alert): "Juliana."
+E25-006 [00:07.80-00:09.60] DIALOGUE ALEXANDER (Concerned, Suspicious): "Why are you walking like that?"
+E25-008 [00:10.20-00:12.80] DIALOGUE JULIANA (Deflective, Breathless): "I am tired. That is all."
+E25-009 [00:13.20-00:16.00] ACTION: Alexander steps forward and reaches out, his gloved hand firmly grasping her left shoulder. Juliana winces sharply and gasps in sudden pain.
+E25-011 [00:14.90-00:16.10] DIALOGUE ALEXANDER (Sharp, Alarmed): "You're hurt."
+E25-013 [00:16.80-00:18.50] DIALOGUE JULIANA (Strained, Minimizing): "It is nothing."
+E25-014 [00:18.80-00:22.50] ACTION: Alexander's gloved fingers pull back the torn fabric of her cloak and sleeve, revealing a raw, bloody welt slashing across her bare shoulder.
+E25-017 [00:24.00-00:25.50] DIALOGUE ALEXANDER (Seething, Dangerous): "Who did this?"
+E25-019 [00:27.50-00:29.30] DIALOGUE JULIANA (Subdued, Weary): "It does not matter."
+E25-021 [00:32.80-00:34.50] ACTION: Alexander steps directly into her space, firmly taking her hand in his.
+E25-022 [00:32.80-00:33.80] DIALOGUE ALEXANDER (Demanding, Stern): "Who?"
+E25-024 [00:36.00-00:37.80] DIALOGUE JULIANA (Quiet, Apprehensive): "Lady Catherine."
+E25-026 [00:39.20-00:41.00] DIALOGUE ALEXANDER (Low, Interrogating): "Where did you meet her?"
+E25-028 [00:41.20-00:44.20] DIALOGUE JULIANA (Hedged): "I was in the wrong chamber. I was punished as a maid."
+E25-030 [00:44.60-00:46.40] DIALOGUE ALEXANDER (Incredulous, Demanding): "What were you doing there?"
+E25-032 [00:47.00-00:51.20] DIALOGUE ALEXANDER (Fierce, Urgent): "Juliana... why were you inside Ashburg Manor?"
+E25-034 [00:52.20-00:54.20] DIALOGUE JULIANA (Earnest): "I went there to help someone."
+E25-035 [00:54.40-00:55.20] DIALOGUE ALEXANDER (Blunt): "Who?"
+E25-037 [00:55.60-00:57.20] DIALOGUE JULIANA (Solemn): "The Dowager Duchess."
+E25-039 [01:00.80-01:02.50] DIALOGUE ALEXANDER (Stunned, Disbelieving): "The Dowager?"
+E25-041 [01:06.20-01:08.50] DIALOGUE JULIANA (Urgent): "Prudence told me she was dying."
+E25-043 [01:08.80-01:13.80] DIALOGUE JULIANA (Fervent): "She was barely breathing when I found her. The doctor said she was simply growing old."
+E25-045 [01:14.20-01:15.80] DIALOGUE JULIANA (Chilling, Definite): "But it wasn't age."
+E25-047 [01:17.40-01:18.90] DIALOGUE ALEXANDER (Grim, Low): "What did you find?"
+E25-049 [01:20.20-01:21.80] DIALOGUE JULIANA (Hushed, Horrified): "Poison."
+E25-051 [01:23.50-01:25.00] DIALOGUE JULIANA (Sober): "Arsenic."
+E25-052 [01:26.20-01:30.00] ACTION: Alexander's hand drops to his side and clenches into a white-knuckled fist, the thick scar across his hand tightening with intense restraint.
+E25-055 [01:30.20-01:37.40] DIALOGUE JULIANA (Pained, Troubled): "Someone has been giving it to her again and again. Small amounts. Enough to make her weaker without killing her quickly."
+E25-058 [01:40.40-01:44.80] DIALOGUE JULIANA (Sincere, Earnest): "I made her medicine. She was still barely conscious, but her breathing became easier."
+E25-060 [01:45.60-01:47.00] DIALOGUE ALEXANDER (Incredulous): "You treated her?"
+E25-061 [01:47.20-01:48.00] DIALOGUE JULIANA (Firm): "Yes."
+E25-063 [01:48.40-01:49.40] DIALOGUE ALEXANDER (Tense): "Alone?"
+E25-064 [01:49.80-01:51.20] DIALOGUE JULIANA (Soft): "With Prudence."
+E25-066 [01:52.20-01:54.40] DIALOGUE ALEXANDER (Anxious): "Will you be going there again?"
+E25-068 [01:55.20-01:56.80] DIALOGUE JULIANA (Determined): "I have to."
+E25-069 [01:57.50-02:01.00] ACTION: Juliana places her gentle hand against Alexander's broad chest, trying to soothe his rising anger.
+E25-071 [01:57.50-02:00.20] DIALOGUE JULIANA (Pleading, Defiant): "She is still sick. I cannot leave her there."
+E25-072 [02:01.00-02:05.00] ACTION: Alexander takes both of her hands into his own, gripping them tightly.
+E25-075 [02:05.80-02:07.50] DIALOGUE JULIANA (Gentle, Perplexed): "Alexander... why are you so angry?"
+E25-077 [02:08.20-02:13.80] DIALOGUE ALEXANDER (Fierce, Reproachful): "Because you were standing inside a house where someone is poisoning a woman... and you never told me."
+E25-079 [02:15.00-02:17.00] DIALOGUE JULIANA (Vulnerable): "I knew you would worry."
+E25-081 [02:17.40-02:22.40] DIALOGUE ALEXANDER (Furious, Tormented): "Worry? They struck you. They could have killed you."
+E25-083 [02:23.20-02:24.60] DIALOGUE JULIANA (Defiant, Soothing): "But they didn't."
+E25-085 [02:25.20-02:26.40] DIALOGUE ALEXANDER (Grim, Fearful): "This time."
+E25-086 [02:27.00-02:28.80] DIALOGUE JULIANA (Sincere, Steadfast): "I am being careful."
+E25-088 [02:29.00-02:31.20] DIALOGUE JULIANA (Resolute): "I cannot abandon her."
+E25-089 [02:31.20-02:34.00] ACTION: Alexander closes his eyes for a brief, agonizing second, exhaling deeply as he yields to her unshakeable conviction.
+E25-091 [02:33.80-02:36.20] DIALOGUE ALEXANDER (Resigned, Steely): "Then tell me everything."
+E25-093 [02:37.40-02:39.20] DIALOGUE ALEXANDER (Low, Uncompromising): "Everything you saw."
+E25-094 [02:42.50-02:48.00] ACTION: Alexander turns, falling into step beside Juliana. Together, side by side, they begin their quiet walk down the darkening forest path into the twilight.
+
+NEXT_EPISODE_OPENING (E26, first 30 s; continuation only):
+E26-002 [00:00.00-00:05.50] ACTION: Juliana glances nervously back toward the door, ensuring no guards are near, before turning her full attention back to the ailing Duchess.
+E26-004 [00:06.50-00:09.00] SFX: Tense, atmospheric orchestral score builds softly in the background.
+E26-006 [00:11.00-00:14.00] ACTION: The Dowager Duchess blinks against the dim lamplight, turning her head toward Juliana.
+E26-008 [00:14.20-00:20.20] DIALOGUE DOWAGER DUCHESS (Weak, Raspy): "Who are you? Speak to me. I have not seen your face before."
+E26-010 [00:20.60-00:25.40] DIALOGUE JULIANA (Urgent, Reassuring): "Please, Your Grace. Drink the last of this antidote. Drink it slowly."
+E26-012 [00:25.80-00:28.40] ACTION: The Duchess swallows the remedy with difficulty as Juliana carefully tilts the amber bottle.
+
+Return up to 1 promos for E25 as JSON.

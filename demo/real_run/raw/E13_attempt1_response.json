@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: shocking_line at E13-029\", \"segments\": [{\"start_id\": \"E13-029\", \"end_id\": \"E13-055\"}], \"hook_id\": \"E13-029\", \"hook_quote\": \"Juliana, stop!\", \"cliffhanger_id\": \"E13-055\", \"cliffhanger_quote\": \"Stop!\", \"hook_type\": \"shocking_line\", \"why\": \"Rules only: hook signals [delivery:shouting, exclamation], cliff signals [sound sting].\", \"scores\": {\"hook\": 3, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "b0d06e068199a54e24e458682a2b07bd3976a8f901c4d0983cbda388334f3194"
+}

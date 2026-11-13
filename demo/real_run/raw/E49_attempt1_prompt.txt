@@ -1,0 +1,67 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E49
+EPISODE_DURATION: 02:24.75
+LOGLINE: Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract inside intelligence, sealing their treasonous alliance with intimate assurance.
+CONTINUITY: Directly follows Catherine sending Agnes to fetch Father Thomas under cover of darkness; now in Episode 49, Father Thomas slips into the secluded wing for their covert rendezvous.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E49-016: reveal
+- E49-018: humiliation
+- E49-023: humiliation
+- E49-033: humiliation
+- E49-044: humiliation
+- E49-046: reveal
+Possible cliffhangers:
+- E49-008: threat/turn
+- E49-056: episode ending
+- E49-057: episode ending
+- E49-059: episode ending
+- E49-060: episode ending
+- E49-062: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E49-002 [00:01.00-00:04.50] SFX: Hinges creaking softly followed by the muffled thud of a heavy wooden door clicking shut.
+E49-003 [00:01.80-00:05.20] ACTION: Father Thomas, clad in a hooded dark mantle over priestly black robes, secures the door behind him and steps into the shadows of the abandoned corridor.
+E49-005 [00:05.40-00:06.80] DIALOGUE CATHERINE (Quietly Chiding): "You took your time."
+E49-008 [00:09.00-00:15.20] DIALOGUE FATHER THOMAS (Low, Measured): "Agnes is thorough. She made me wait for a groom to finish his rounds before she'd let me past the stables."
+E49-010 [00:15.80-00:18.80] DIALOGUE CATHERINE (Pleased, Cold): "Good. That's what I pay her for."
+E49-012 [00:20.00-00:22.00] ACTION: Catherine sets down the brass candleholder, the flame flickering across their faces.
+E49-014 [00:22.20-00:27.20] DIALOGUE FATHER THOMAS (Grave): "No shadows tonight, Catherine. Just us and an empty wing."
+E49-016 [00:27.80-00:33.00] DIALOGUE CATHERINE (Unfazed): "You didn't need them the first time, either. I just prefer my secrets thorough."
+E49-018 [00:33.50-00:41.50] DIALOGUE FATHER THOMAS (Dry, Cynical): "A priest and a disgraced bride meeting before dawn in her bedchamber. I'd say thoroughness served us both rather well."
+E49-020 [00:42.00-00:46.50] DIALOGUE CATHERINE (Assertive, Warning): "It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way."
+E49-023 [00:48.80-00:52.80] DIALOGUE CATHERINE (Scheming): "Today went better than either of us planned for. The whole court watched you humiliate her."
+E49-025 [00:53.20-00:59.50] DIALOGUE FATHER THOMAS (Reflective, Brooding): "Fitting choice, this room. A place the family forgot for a conversation they mustn't remember."
+E49-027 [01:00.00-01:02.50] DIALOGUE CATHERINE (Amused): "You always did have a taste for symbolism."
+E49-029 [01:03.00-01:07.10] DIALOGUE FATHER THOMAS (Intimate, Candid): "And you always did have a taste for using me. It's why we suit each other."
+E49-031 [01:07.40-01:12.20] DIALOGUE CATHERINE (Strict, Urgent): "Then make certain the council remembers that for the full ten days, not just the first hour."
+E49-033 [01:12.60-01:16.80] DIALOGUE FATHER THOMAS (Direct): "What is it you actually need from me, Catherine? Say it plainly, for once."
+E49-035 [01:17.20-01:23.80] DIALOGUE CATHERINE (Calculating, Determined): "First, the hearing stays unresolved as long as possible. Every extension, every delay, every excuse to reconvene."
+E49-037 [01:24.20-01:31.20] DIALOGUE CATHERINE (Fierce, Uncompromising): "Second, I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her."
+E49-039 [01:31.60-01:34.00] DIALOGUE FATHER THOMAS (Skeptical): "You want eyes inside the council chamber itself?"
+E49-041 [01:34.40-01:37.80] DIALOGUE CATHERINE (Haughty, Imperious): "I want eyes and ears everywhere that decides my future."
+E49-043 [01:38.20-01:42.50] ACTION: Father Thomas clasps his hands behind his back, turning slightly away to ponder the gravity of her words.
+E49-044 [01:38.30-01:43.20] DIALOGUE CATHERINE (Bitterly Resolute): "Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?"
+E49-046 [01:44.20-01:52.80] DIALOGUE FATHER THOMAS (Wary, Grave): "If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?"
+E49-048 [01:53.20-01:57.80] DIALOGUE CATHERINE (Seductive, Reassuring): "Then make certain he doesn't find out. You're careful. I've seen how careful."
+E49-050 [01:58.20-02:04.50] DIALOGUE FATHER THOMAS (Stern, Stark): "Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored."
+E49-052 [02:05.00-02:08.50] DIALOGUE CATHERINE (Tempting): "Careful men who help me also get remembered."
+E49-054 [02:09.20-02:14.20] DIALOGUE CATHERINE (Whispering, Promising): "A grateful Duchess collects debts differently than a desperate one."
+E49-056 [02:15.00-02:19.50] ACTION: Father Thomas slowly raises his right hand, palm turned upward in invitation and pact.
+E49-057 [02:15.20-02:19.50] DIALOGUE FATHER THOMAS (Low, Resigned): "The rest depends on how well you keep your part of this quiet."
+E49-059 [02:20.00-02:22.50] DIALOGUE FATHER THOMAS (Softly): "Then we understand each other."
+E49-060 [02:20.50-02:22.80] ACTION: Catherine reaches out and places her slender hand firmly into Father Thomas's open palm.
+E49-062 [02:23.00-02:24.00] DIALOGUE CATHERINE (Intimate): "We always have."
+
+NEXT_EPISODE_OPENING (E50, first 30 s; continuation only):
+E50-002 [00:00.00-00:02.00] ACTION: Father Thomas lies flat on his back, breathless, while Catherine rests beside him, her fingers tracing across his bare skin.
+E50-004 [00:01.80-00:05.80] DIALOGUE CATHERINE (Playful, Seductive): "A man in your collar isn't supposed to have that much left in him, Thomas."
+E50-005 [00:05.80-00:07.20] ACTION: Catherine runs her hand gently down his chest, smiling with triumphant affection.
+E50-007 [00:07.20-00:11.20] DIALOGUE FATHER THOMAS (Low, Ironical): "A man in my collar isn't supposed to be in this bed at all."
+E50-009 [00:12.00-00:15.50] DIALOGUE CATHERINE (Intense, Whispering): "Then let's stop pretending this was only appetite."
+E50-011 [00:16.80-00:18.50] DIALOGUE CATHERINE (Direct, Transactional): "Name your price."
+E50-013 [00:19.40-00:25.00] DIALOGUE FATHER THOMAS (Calculated, Demanding): "The west territory. Tax collection, all of it. Routed through my office."
+E50-015 [00:27.20-00:30.20] DIALOGUE CATHERINE (Scoffing, Incredulous): "That's not absolution, Thomas. That's a fortune."
+
+Return up to 1 promos for E49 as JSON.

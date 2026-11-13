@@ -1,0 +1,61 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E39
+EPISODE_DURATION: 01:38.41
+LOGLINE: While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal regalia, and marches forth to reclaim his house and rescue Juliana.
+CONTINUITY: Picks up as the wedding bells toll for Rupert and Catherine's ceremony. While Juliana prepares for execution in the dungeon below, Alexander's coordinated strike to liberate the cathedral and reclaim his birthright begins.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E39-022: violence, physical
+- E39-030: reveal
+- E39-054: delivery:shouting
+Possible cliffhangers:
+- E39-056: episode ending
+- E39-058: episode ending
+- E39-059: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E39-002 [00:00.00-00:04.60] ACTION: Men in work clothes stack wooden crates onto the back of a large carriage as horses snort restlessly in the morning mist.
+E39-004 [00:04.60-00:07.10] ACTION: The scout stands quietly by a wooden rail, keeping a sharp eye on passing civilians.
+E39-008 [00:13.80-00:15.80] ACTION: Four royal guards in red ceremonial tunics and tall black bearskin hats stand rigidly at attention with rifles on the grand cathedral staircase.
+E39-011 [00:18.30-00:19.90] DIALOGUE LOYALIST SCOUT (Low, Urgent): "Six at the front."
+E39-012 [00:20.20-00:21.80] DIALOGUE LOYALIST FIGHTER (Grave): "Four more inside."
+E39-014 [00:22.50-00:23.20] DIALOGUE LOYALIST SCOUT (Focused): "And the east gate?"
+E39-015 [00:23.30-00:24.20] DIALOGUE LOYALIST FIGHTER (Determined): "Ours."
+E39-017 [00:24.20-00:29.60] ACTION: A lone driver in rugged attire guides the horse cart slowly toward the sentries guarding the arched entryway.
+E39-019 [00:29.80-00:30.60] DIALOGUE ROYAL SENTRY (Commanding): "Stop!"
+E39-020 [00:30.80-00:32.40] DIALOGUE CART DRIVER (Meek, Deferential): "Firewood for the kitchens, sir."
+E39-022 [00:32.80-00:36.50] ACTION: The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him violently against the wooden carriage wheel.
+E39-023 [00:33.10-00:36.00] SFX: Dull physical thuds and scuffling boots on wet stone as the guard groans in surprise.
+E39-025 [00:37.00-00:42.50] ACTION: The loyalist locks the sentry into a tight sleeper hold, clamping a hand firmly over his mouth until his eyes roll back and he goes limp.
+E39-026 [00:41.00-00:42.20] DIALOGUE LOYALIST FIGHTER (Whispering, Cold): "Sleep."
+E39-029 [00:47.00-00:48.10] DIALOGUE CART DRIVER (Relieved, Firm): "The road is clear."
+E39-030 [00:48.20-00:49.20] DIALOGUE LOYALIST FIGHTER (Resolute): "Tell the Duke."
+E39-032 [00:50.00-00:52.80] ACTION: Alexander stares solemnly at his rugged reflection, his expression dark and resolute.
+E39-035 [00:56.50-00:59.80] ACTION: Alexander snips through his overgrown locks, shedding the years of exile and camouflage.
+E39-036 [00:57.20-01:00.80] SFX: Rhythmic, metallic snips of heavy shears cutting through thick hair.
+E39-039 [01:02.00-01:06.60] ACTION: Alexander lightly traces the jagged combat scar across his cheek, eyes burning with reclaimed power.
+E39-040 [01:02.00-01:02.80] DIALOGUE ALEXANDER (Deep, Steely Resolve): "Enough hiding."
+E39-041 [01:03.00-01:05.50] DIALOGUE ALEXANDER (Dark, Unforgiving): "They buried Alexander Ashwin three years ago."
+E39-042 [01:05.60-01:06.90] DIALOGUE ALEXANDER (Fierce, Commanding): "Today, he comes home."
+E39-045 [01:08.50-01:11.80] ACTION: Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery, double-breasted brass buttons, and a crisp white cravat.
+E39-048 [01:15.80-01:17.20] DIALOGUE LOYALIST (Reverent, Submissive): "Your Grace."
+E39-050 [01:20.50-01:22.20] DIALOGUE ALEXANDER (Authoritative, Command): "Secure the chapel."
+E39-052 [01:23.80-01:25.20] DIALOGUE LOYALIST (Resolute): "Yes, Your Grace."
+E39-054 [01:25.50-01:27.20] DIALOGUE ALEXANDER (Powerful, Roaring Defiance): "No more hiding."
+E39-055 [01:27.50-01:30.20] DIALOGUE ALEXANDER (Fierce, Unyielding): "I am taking back my house."
+E39-056 [01:30.20-01:35.00] ACTION: Alexander marches forward unstoppably, his long coat fluttering in the winter wind as his icy gaze locks forward.
+E39-058 [01:35.00-01:38.00] DIALOGUE ALEXANDER (Passionate, Unstoppable Vow): "And I am bringing my wife home."
+E39-059 [01:37.80-01:38.41] ACTION: Alexander's eyes burn with furious determination as the screen cuts sharply to black.
+
+NEXT_EPISODE_OPENING (E40, first 30 s; continuation only):
+E40-002 [00:00.00-00:04.80] SFX: Somber cathedral bells tolling and the distant murmur of arriving carriages.
+E40-004 [00:05.50-00:07.40] DIALOGUE FOOTMAN (Formal, Resonant): "The Harrington family."
+E40-006 [00:10.00-00:12.40] ACTION: Lady Harrington takes his hand and steps onto the pavement, clutching a velvet reticule.
+E40-007 [00:12.40-00:17.30] DIALOGUE LADY HARRINGTON (Smug, Impressed): "Look at them. Every noble family in the county is here today."
+E40-010 [00:19.20-00:23.00] DIALOGUE LORD HARRINGTON (Ambitious, Proud): "And soon, we'll be connected to the Duchess of Ashburgh."
+E40-012 [00:23.20-00:26.00] DIALOGUE LADY HARRINGTON (Malicious, Taunting): "Imagine Juliana seeing this."
+E40-014 [00:26.20-00:28.90] DIALOGUE LORD HARRINGTON (Sinister, Dismissive): "She won't be seeing anything for long."
+E40-015 [00:29.00-00:29.90] DIALOGUE LADY HARRINGTON (Pleased, Cold): "Good."
+
+Return up to 1 promos for E39 as JSON.

@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": []}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.0,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "700ebe2c70334428ccc54e26ebabe2ac20b20f075624cc28e8e170c8313b6cdb"
+}

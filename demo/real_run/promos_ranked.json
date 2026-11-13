@@ -1,0 +1,1256 @@
+[
+  {
+    "title": "Rule pick: confrontation at E15-031",
+    "episodes": [
+      15
+    ],
+    "segments": [
+      {
+        "episode": 15,
+        "start_id": "E15-031",
+        "end_id": "E15-055",
+        "start_s": 44.2,
+        "end_s": 86.0,
+        "start": "00:44.20",
+        "end": "01:26.00",
+        "duration_s": 41.8
+      }
+    ],
+    "total_duration_s": 41.8,
+    "hook": {
+      "line_id": "E15-031",
+      "episode": 15,
+      "timestamp": "00:44.80",
+      "speaker": "THUG WITH CAP",
+      "script_text": "\"Get out of the way!\"",
+      "llm_quote": "Get out of the way!",
+      "offset_s": 0.6
+    },
+    "cliffhanger": {
+      "line_id": "E15-055",
+      "episode": 15,
+      "timestamp": "01:24.00",
+      "speaker": "SFX",
+      "script_text": "Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.",
+      "llm_quote": "Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.",
+      "gap_to_end_s": 0.0
+    },
+    "hook_type": "confrontation",
+    "why": "Rules only: hook signals [confrontation, delivery:menace, exclamation], cliff signals [scripted cliffhanger, sound sting, episode ending].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 4,
+      "cliffhanger": 4,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 5.5,
+      "hook_reasons": [
+        "confrontation",
+        "delivery:menace",
+        "exclamation"
+      ],
+      "cliff": 7.0,
+      "cliff_reasons": [
+        "scripted cliffhanger",
+        "sound sting",
+        "episode ending"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E15-P1",
+    "score": 78.7,
+    "score_breakdown": {
+      "llm_hook": 0.75,
+      "llm_cliffhanger": 0.75,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.69,
+      "rule_cliff": 1.0,
+      "duration_fit": 1.0,
+      "hook_speed": 1.0,
+      "funnel": 0.85
+    },
+    "duplicate_of": null,
+    "rerank_pos": null,
+    "rerank_note": "",
+    "rank": 1,
+    "rank_reason": "hook 4/5 (confrontation, at +0.6s); cliffhanger 4/5; standalone 3/5; 42s",
+    "review_status": "ready_for_review"
+  },
+  {
+    "title": "Rule pick: physical at E04-087",
+    "episodes": [
+      4
+    ],
+    "segments": [
+      {
+        "episode": 4,
+        "start_id": "E04-087",
+        "end_id": "E04-110",
+        "start_s": 114.8,
+        "end_s": 149.0,
+        "start": "01:54.80",
+        "end": "02:29.00",
+        "duration_s": 34.2
+      }
+    ],
+    "total_duration_s": 34.2,
+    "hook": {
+      "line_id": "E04-087",
+      "episode": 4,
+      "timestamp": "01:55.00",
+      "speaker": "GERALD",
+      "script_text": "\"You have thrown yourself away!\"",
+      "llm_quote": "You have thrown yourself away!",
+      "offset_s": 0.2
+    },
+    "cliffhanger": {
+      "line_id": "E04-110",
+      "episode": 4,
+      "timestamp": "02:27.00",
+      "speaker": "SFX",
+      "script_text": "Heavy oak doors creaking open, followed by a triumphant musical swell fading out into silence.",
+      "llm_quote": "Heavy oak doors creaking open, followed by a triumphant musical swell fading",
+      "gap_to_end_s": 0.0
+    },
+    "hook_type": "physical",
+    "why": "Rules only: hook signals [physical, delivery:rage, delivery:shouting, exclamation], cliff signals [sound sting, episode ending].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 5,
+      "cliffhanger": 2,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 7.5,
+      "hook_reasons": [
+        "physical",
+        "delivery:rage",
+        "delivery:shouting",
+        "exclamation"
+      ],
+      "cliff": 3.0,
+      "cliff_reasons": [
+        "sound sting",
+        "episode ending"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E04-P1",
+    "score": 78.2,
+    "score_breakdown": {
+      "llm_hook": 1.0,
+      "llm_cliffhanger": 0.25,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.94,
+      "rule_cliff": 0.5,
+      "duration_fit": 1.0,
+      "hook_speed": 1.0,
+      "funnel": 1.0
+    },
+    "duplicate_of": null,
+    "rerank_pos": null,
+    "rerank_note": "",
+    "rank": 2,
+    "rank_reason": "hook 5/5 (physical, at +0.2s); cliffhanger 2/5; standalone 3/5; 34s; early episode E04, no spoilers",
+    "review_status": "ready_for_review"
+  },
+  {
+    "title": "Rule pick: reveal at E27-081",
+    "episodes": [
+      27
+    ],
+    "segments": [
+      {
+        "episode": 27,
+        "start_id": "E27-081",
+        "end_id": "E27-093",
+        "start_s": 124.6,
+        "end_s": 149.2,
+        "start": "02:04.60",
+        "end": "02:29.20",
+        "duration_s": 24.6
+      }
+    ],
+    "total_duration_s": 24.6,
+    "hook": {
+      "line_id": "E27-081",
+      "episode": 27,
+      "timestamp": "02:04.80",
+      "speaker": "LADY CATHERINE",
+      "script_text": "\"She admits she has been giving the Duchess poison in secret!\"",
+      "llm_quote": "She admits she has been giving the Duchess poison in secret!",
+      "offset_s": 0.2
+    },
+    "cliffhanger": {
+      "line_id": "E27-093",
+      "episode": 27,
+      "timestamp": "02:25.00",
+      "speaker": "ACTION",
+      "script_text": "The guard twists Juliana around and drags her forcibly toward the doorway as she struggles against his grip.",
+      "llm_quote": "The guard twists Juliana around and drags her forcibly toward the doorway",
+      "gap_to_end_s": 1.2
+    },
+    "hook_type": "reveal",
+    "why": "Rules only: hook signals [threat, reveal, reveal, delivery:menace], cliff signals [episode ending].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 5,
+      "cliffhanger": 2,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 10.0,
+      "hook_reasons": [
+        "threat",
+        "reveal",
+        "reveal",
+        "delivery:menace",
+        "exclamation"
+      ],
+      "cliff": 2.0,
+      "cliff_reasons": [
+        "episode ending"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E27-P1",
+    "score": 73.8,
+    "score_breakdown": {
+      "llm_hook": 1.0,
+      "llm_cliffhanger": 0.25,
+      "llm_standalone": 0.5,
+      "rule_hook": 1.0,
+      "rule_cliff": 0.33,
+      "duration_fit": 0.96,
+      "hook_speed": 1.0,
+      "funnel": 0.7
+    },
+    "duplicate_of": null,
+    "rerank_pos": null,
+    "rerank_note": "",
+    "rank": 3,
+    "rank_reason": "hook 5/5 (reveal, at +0.2s); cliffhanger 2/5; standalone 3/5; 25s",
+    "review_status": "ready_for_review"
+  },
+  {
+    "title": "Rule pick: shocking_line at E12-017",
+    "episodes": [
+      12
+    ],
+    "segments": [
+      {
+        "episode": 12,
+        "start_id": "E12-017",
+        "end_id": "E12-039",
+        "start_s": 26.8,
+        "end_s": 60.8,
+        "start": "00:26.80",
+        "end": "01:00.80",
+        "duration_s": 34.0
+      }
+    ],
+    "total_duration_s": 34.0,
+    "hook": {
+      "line_id": "E12-017",
+      "episode": 12,
+      "timestamp": "00:26.80",
+      "speaker": "JULIANA",
+      "script_text": "\"You planted it!\"",
+      "llm_quote": "You planted it!",
+      "offset_s": 0.0
+    },
+    "cliffhanger": {
+      "line_id": "E12-039",
+      "episode": 12,
+      "timestamp": "00:57.30",
+      "speaker": "CLARISSA",
+      "script_text": "\"You will retrieve it with your bare hands before the magistrate arrives.\"",
+      "llm_quote": "You will retrieve it with your bare hands before the magistrate arrives.",
+      "gap_to_end_s": 0.2
+    },
+    "hook_type": "shocking_line",
+    "why": "Rules only: hook signals [delivery:rage, delivery:shouting, exclamation], cliff signals [interruption, threat/turn].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 4,
+      "cliffhanger": 3,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 5.5,
+      "hook_reasons": [
+        "delivery:rage",
+        "delivery:shouting",
+        "exclamation"
+      ],
+      "cliff": 4.0,
+      "cliff_reasons": [
+        "interruption",
+        "threat/turn"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E12-P1",
+    "score": 72.4,
+    "score_breakdown": {
+      "llm_hook": 0.75,
+      "llm_cliffhanger": 0.5,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.69,
+      "rule_cliff": 0.67,
+      "duration_fit": 1.0,
+      "hook_speed": 1.0,
+      "funnel": 0.85
+    },
+    "duplicate_of": null,
+    "rerank_pos": null,
+    "rerank_note": "",
+    "rank": 4,
+    "rank_reason": "hook 4/5 (shocking_line, at +0.0s); cliffhanger 3/5; standalone 3/5; 34s",
+    "review_status": "ready_for_review"
+  },
+  {
+    "title": "Rule pick: shocking_line at E34-019",
+    "episodes": [
+      34
+    ],
+    "segments": [
+      {
+        "episode": 34,
+        "start_id": "E34-019",
+        "end_id": "E34-035",
+        "start_s": 35.4,
+        "end_s": 60.8,
+        "start": "00:35.40",
+        "end": "01:00.80",
+        "duration_s": 25.4
+      }
+    ],
+    "total_duration_s": 25.4,
+    "hook": {
+      "line_id": "E34-019",
+      "episode": 34,
+      "timestamp": "00:35.40",
+      "speaker": "JUDGE",
+      "script_text": "\"Silence!\"",
+      "llm_quote": "Silence!",
+      "offset_s": 0.0
+    },
+    "cliffhanger": {
+      "line_id": "E34-035",
+      "episode": 34,
+      "timestamp": "00:58.20",
+      "speaker": "JUDGE",
+      "script_text": "\"What did you see?\"",
+      "llm_quote": "What did you see?",
+      "gap_to_end_s": 0.7
+    },
+    "hook_type": "shocking_line",
+    "why": "Rules only: hook signals [delivery:rage, delivery:shouting, exclamation], cliff signals [open question, unanswered question].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 4,
+      "cliffhanger": 3,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 5.5,
+      "hook_reasons": [
+        "delivery:rage",
+        "delivery:shouting",
+        "exclamation"
+      ],
+      "cliff": 4.5,
+      "cliff_reasons": [
+        "open question",
+        "unanswered question"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E34-P1",
+    "score": 70.2,
+    "score_breakdown": {
+      "llm_hook": 0.75,
+      "llm_cliffhanger": 0.5,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.69,
+      "rule_cliff": 0.75,
+      "duration_fit": 1.0,
+      "hook_speed": 1.0,
+      "funnel": 0.6
+    },
+    "duplicate_of": null,
+    "rerank_pos": null,
+    "rerank_note": "",
+    "rank": 5,
+    "rank_reason": "hook 4/5 (shocking_line, at +0.0s); cliffhanger 3/5; standalone 3/5; 25s",
+    "review_status": "ready_for_review"
+  },
+  {
+    "title": "Rule pick: shocking_line at E31-071",
+    "episodes": [
+      31
+    ],
+    "segments": [
+      {
+        "episode": 31,
+        "start_id": "E31-071",
+        "end_id": "E31-086",
+        "start_s": 130.8,
+        "end_s": 155.2,
+        "start": "02:10.80",
+        "end": "02:35.20",
+        "duration_s": 24.4
+      }
+    ],
+    "total_duration_s": 24.4,
+    "hook": {
+      "line_id": "E31-071",
+      "episode": 31,
+      "timestamp": "02:11.00",
+      "speaker": "CATHERINE",
+      "script_text": "\"Enough!\"",
+      "llm_quote": "Enough!",
+      "offset_s": 0.2
+    },
+    "cliffhanger": {
+      "line_id": "E31-086",
+      "episode": 31,
+      "timestamp": "02:31.50",
+      "speaker": "ACTION",
+      "script_text": "Juliana recoils back against the hard dungeon wall, gasping for breath in raw terror as the searing iron stops inches from her eyes.",
+      "llm_quote": "Juliana recoils back against the hard dungeon wall, gasping for breath in",
+      "gap_to_end_s": 0.0
+    },
+    "hook_type": "shocking_line",
+    "why": "Rules only: hook signals [delivery:rage, delivery:shouting, exclamation], cliff signals [shock beat, episode ending].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 4,
+      "cliffhanger": 3,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 5.5,
+      "hook_reasons": [
+        "delivery:rage",
+        "delivery:shouting",
+        "exclamation"
+      ],
+      "cliff": 4.0,
+      "cliff_reasons": [
+        "shock beat",
+        "episode ending"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E31-P1",
+    "score": 68.8,
+    "score_breakdown": {
+      "llm_hook": 0.75,
+      "llm_cliffhanger": 0.5,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.69,
+      "rule_cliff": 0.67,
+      "duration_fit": 0.94,
+      "hook_speed": 1.0,
+      "funnel": 0.6
+    },
+    "duplicate_of": null,
+    "rerank_pos": null,
+    "rerank_note": "",
+    "rank": 6,
+    "rank_reason": "hook 4/5 (shocking_line, at +0.2s); cliffhanger 3/5; standalone 3/5; 24s",
+    "review_status": "ready_for_review"
+  },
+  {
+    "title": "Rule pick: physical at E47-037",
+    "episodes": [
+      47
+    ],
+    "segments": [
+      {
+        "episode": 47,
+        "start_id": "E47-037",
+        "end_id": "E47-051",
+        "start_s": 74.8,
+        "end_s": 98.8,
+        "start": "01:14.80",
+        "end": "01:38.80",
+        "duration_s": 24.0
+      }
+    ],
+    "total_duration_s": 24.0,
+    "hook": {
+      "line_id": "E47-037",
+      "episode": 47,
+      "timestamp": "01:15.20",
+      "speaker": "ALEXANDER",
+      "script_text": "\"Do it, Vaughn! Throw her past the estate perimeter!\"",
+      "llm_quote": "Do it, Vaughn! Throw her past the estate perimeter!",
+      "offset_s": 0.4
+    },
+    "cliffhanger": {
+      "line_id": "E47-051",
+      "episode": 47,
+      "timestamp": "01:36.00",
+      "speaker": "CATHERINE",
+      "script_text": "\"You want me? As a guest?\"",
+      "llm_quote": "You want me? As a guest?",
+      "gap_to_end_s": 0.0
+    },
+    "hook_type": "physical",
+    "why": "Rules only: hook signals [physical, delivery:rage, exclamation], cliff signals [shock beat, unanswered question].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 4,
+      "cliffhanger": 3,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 5.5,
+      "hook_reasons": [
+        "physical",
+        "delivery:rage",
+        "exclamation"
+      ],
+      "cliff": 3.5,
+      "cliff_reasons": [
+        "shock beat",
+        "unanswered question"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E47-P1",
+    "score": 67.5,
+    "score_breakdown": {
+      "llm_hook": 0.75,
+      "llm_cliffhanger": 0.5,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.69,
+      "rule_cliff": 0.58,
+      "duration_fit": 0.9,
+      "hook_speed": 1.0,
+      "funnel": 0.6
+    },
+    "duplicate_of": null,
+    "rerank_pos": null,
+    "rerank_note": "",
+    "rank": 7,
+    "rank_reason": "hook 4/5 (physical, at +0.4s); cliffhanger 3/5; standalone 3/5; 24s",
+    "review_status": "ready_for_review"
+  },
+  {
+    "title": "Rule pick: threat at E28-015",
+    "episodes": [
+      28
+    ],
+    "segments": [
+      {
+        "episode": 28,
+        "start_id": "E28-015",
+        "end_id": "E28-035",
+        "start_s": 15.2,
+        "end_s": 47.4,
+        "start": "00:15.20",
+        "end": "00:47.40",
+        "duration_s": 32.2
+      }
+    ],
+    "total_duration_s": 32.2,
+    "hook": {
+      "line_id": "E28-015",
+      "episode": 28,
+      "timestamp": "00:15.30",
+      "speaker": "JULIANA",
+      "script_text": "\"I did not poison her! Look at her eyes, the fever has broken!\"",
+      "llm_quote": "I did not poison her! Look at her eyes, the fever has",
+      "offset_s": 0.1
+    },
+    "cliffhanger": {
+      "line_id": "E28-035",
+      "episode": 28,
+      "timestamp": "00:45.60",
+      "speaker": "DOWAGER DUCHESS",
+      "script_text": "\"They have been—\"",
+      "llm_quote": "They have been—",
+      "gap_to_end_s": 0.4
+    },
+    "hook_type": "threat",
+    "why": "Rules only: hook signals [threat, delivery:rage, exclamation], cliff signals [shock beat, trailing line].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 4,
+      "cliffhanger": 2,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 6.0,
+      "hook_reasons": [
+        "threat",
+        "delivery:rage",
+        "exclamation"
+      ],
+      "cliff": 3.0,
+      "cliff_reasons": [
+        "shock beat",
+        "trailing line"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E28-P1",
+    "score": 67.2,
+    "score_breakdown": {
+      "llm_hook": 0.75,
+      "llm_cliffhanger": 0.25,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.75,
+      "rule_cliff": 0.5,
+      "duration_fit": 1.0,
+      "hook_speed": 1.0,
+      "funnel": 0.7
+    },
+    "duplicate_of": null,
+    "rerank_pos": null,
+    "rerank_note": "",
+    "rank": 8,
+    "rank_reason": "hook 4/5 (threat, at +0.1s); cliffhanger 2/5; standalone 3/5; 32s",
+    "review_status": "ready_for_review"
+  },
+  {
+    "title": "Rule pick: humiliation at E02-006",
+    "episodes": [
+      2
+    ],
+    "segments": [
+      {
+        "episode": 2,
+        "start_id": "E02-006",
+        "end_id": "E02-026",
+        "start_s": 4.6,
+        "end_s": 37.2,
+        "start": "00:04.60",
+        "end": "00:37.20",
+        "duration_s": 32.6
+      }
+    ],
+    "total_duration_s": 32.6,
+    "hook": {
+      "line_id": "E02-006",
+      "episode": 2,
+      "timestamp": "00:04.70",
+      "speaker": "THE FORMER GROOM",
+      "script_text": "\"You are far too plain...\"",
+      "llm_quote": "You are far too plain...",
+      "offset_s": 0.1
+    },
+    "cliffhanger": {
+      "line_id": "E02-026",
+      "episode": 2,
+      "timestamp": "00:34.30",
+      "speaker": "LADY JULIANA",
+      "script_text": "\"Surely you will not let him humiliate me like this?\"",
+      "llm_quote": "Surely you will not let him humiliate me like this?",
+      "gap_to_end_s": 0.1
+    },
+    "hook_type": "humiliation",
+    "why": "Rules only: hook signals [humiliation, delivery:menace], cliff signals [threat/turn, unanswered question].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 3,
+      "cliffhanger": 3,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 4.5,
+      "hook_reasons": [
+        "humiliation",
+        "delivery:menace"
+      ],
+      "cliff": 3.5,
+      "cliff_reasons": [
+        "threat/turn",
+        "unanswered question"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E02-P1",
+    "score": 67.1,
+    "score_breakdown": {
+      "llm_hook": 0.5,
+      "llm_cliffhanger": 0.5,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.56,
+      "rule_cliff": 0.58,
+      "duration_fit": 1.0,
+      "hook_speed": 1.0,
+      "funnel": 1.0
+    },
+    "duplicate_of": null,
+    "rerank_pos": null,
+    "rerank_note": "",
+    "rank": 9,
+    "rank_reason": "hook 3/5 (humiliation, at +0.1s); cliffhanger 3/5; standalone 3/5; 33s; early episode E02, no spoilers",
+    "review_status": "ready_for_review"
+  },
+  {
+    "title": "Rule pick: violence at E16-017",
+    "episodes": [
+      16
+    ],
+    "segments": [
+      {
+        "episode": 16,
+        "start_id": "E16-017",
+        "end_id": "E16-040",
+        "start_s": 19.2,
+        "end_s": 48.5,
+        "start": "00:19.20",
+        "end": "00:48.50",
+        "duration_s": 29.3
+      }
+    ],
+    "total_duration_s": 29.3,
+    "hook": {
+      "line_id": "E16-017",
+      "episode": 16,
+      "timestamp": "00:19.20",
+      "speaker": "ACTION",
+      "script_text": "Alexander strikes the thug across the chest and slams him violently into the muddy ground beside the stone wall.",
+      "llm_quote": "Alexander strikes the thug across the chest and slams him violently into",
+      "offset_s": 0.0
+    },
+    "cliffhanger": {
+      "line_id": "E16-040",
+      "episode": 16,
+      "timestamp": "00:46.30",
+      "speaker": "ALEXANDER",
+      "script_text": "\"Wrong answer.\"",
+      "llm_quote": "Wrong answer.",
+      "gap_to_end_s": 1.1
+    },
+    "hook_type": "violence",
+    "why": "Rules only: hook signals [violence, physical], cliff signals [ominous].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 4,
+      "cliffhanger": 2,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 6.0,
+      "hook_reasons": [
+        "violence",
+        "physical"
+      ],
+      "cliff": 2.0,
+      "cliff_reasons": [
+        "ominous"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E16-P1",
+    "score": 65.5,
+    "score_breakdown": {
+      "llm_hook": 0.75,
+      "llm_cliffhanger": 0.25,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.75,
+      "rule_cliff": 0.33,
+      "duration_fit": 1.0,
+      "hook_speed": 1.0,
+      "funnel": 0.7
+    },
+    "duplicate_of": null,
+    "rerank_pos": null,
+    "rerank_note": "",
+    "rank": 10,
+    "rank_reason": "hook 4/5 (violence, at +0.0s); cliffhanger 2/5; standalone 3/5; 29s",
+    "review_status": "ready_for_review"
+  },
+  {
+    "title": "Rule pick: threat at E26-026",
+    "episodes": [
+      26
+    ],
+    "segments": [
+      {
+        "episode": 26,
+        "start_id": "E26-026",
+        "end_id": "E26-036",
+        "start_s": 55.8,
+        "end_s": 92.0,
+        "start": "00:55.80",
+        "end": "01:32.00",
+        "duration_s": 36.2
+      }
+    ],
+    "total_duration_s": 36.2,
+    "hook": {
+      "line_id": "E26-026",
+      "episode": 26,
+      "timestamp": "00:56.00",
+      "speaker": "DOWAGER DUCHESS",
+      "script_text": "\"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\"",
+      "llm_quote": "Rupert and Catherine want me dead. They are poisoning me in my",
+      "offset_s": 0.2
+    },
+    "cliffhanger": {
+      "line_id": "E26-036",
+      "episode": 26,
+      "timestamp": "01:30.20",
+      "speaker": "SFX",
+      "script_text": "A sharp, stunned gasp.",
+      "llm_quote": "A sharp, stunned gasp.",
+      "gap_to_end_s": 0.0
+    },
+    "hook_type": "threat",
+    "why": "Rules only: hook signals [threat, threat, delivery:anguish], cliff signals [shock beat].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 4,
+      "cliffhanger": 2,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 6.0,
+      "hook_reasons": [
+        "threat",
+        "threat",
+        "delivery:anguish"
+      ],
+      "cliff": 2.0,
+      "cliff_reasons": [
+        "shock beat"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E26-P1",
+    "score": 65.5,
+    "score_breakdown": {
+      "llm_hook": 0.75,
+      "llm_cliffhanger": 0.25,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.75,
+      "rule_cliff": 0.33,
+      "duration_fit": 1.0,
+      "hook_speed": 1.0,
+      "funnel": 0.7
+    },
+    "duplicate_of": null,
+    "rerank_pos": null,
+    "rerank_note": "",
+    "rank": 11,
+    "rank_reason": "hook 4/5 (threat, at +0.2s); cliffhanger 2/5; standalone 3/5; 36s",
+    "review_status": "ready_for_review"
+  },
+  {
+    "title": "Rule pick: threat at E45-040",
+    "episodes": [
+      45
+    ],
+    "segments": [
+      {
+        "episode": 45,
+        "start_id": "E45-040",
+        "end_id": "E45-058",
+        "start_s": 54.0,
+        "end_s": 88.2,
+        "start": "00:54.00",
+        "end": "01:28.20",
+        "duration_s": 34.2
+      }
+    ],
+    "total_duration_s": 34.2,
+    "hook": {
+      "line_id": "E45-040",
+      "episode": 45,
+      "timestamp": "00:54.00",
+      "speaker": "ALEXANDER",
+      "script_text": "\"You poisoned my mother. You tortured my wife.\"",
+      "llm_quote": "You poisoned my mother. You tortured my wife.",
+      "offset_s": 0.0
+    },
+    "cliffhanger": {
+      "line_id": "E45-058",
+      "episode": 45,
+      "timestamp": "01:26.50",
+      "speaker": "SFX",
+      "script_text": "Loud, echoing thud of cathedral doors swinging open violently.",
+      "llm_quote": "Loud, echoing thud of cathedral doors swinging open violently.",
+      "gap_to_end_s": 0.0
+    },
+    "hook_type": "threat",
+    "why": "Rules only: hook signals [threat, delivery:rage], cliff signals [sound sting, interruption].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 4,
+      "cliffhanger": 2,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 5.5,
+      "hook_reasons": [
+        "threat",
+        "delivery:rage"
+      ],
+      "cliff": 3.0,
+      "cliff_reasons": [
+        "sound sting",
+        "interruption"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E45-P1",
+    "score": 64.7,
+    "score_breakdown": {
+      "llm_hook": 0.75,
+      "llm_cliffhanger": 0.25,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.69,
+      "rule_cliff": 0.5,
+      "duration_fit": 1.0,
+      "hook_speed": 1.0,
+      "funnel": 0.6
+    },
+    "duplicate_of": null,
+    "rerank_pos": null,
+    "rerank_note": "",
+    "rank": 12,
+    "rank_reason": "hook 4/5 (threat, at +0.0s); cliffhanger 2/5; standalone 3/5; 34s",
+    "review_status": "ready_for_review"
+  },
+  {
+    "title": "Rule pick: shocking_line at E29-024",
+    "episodes": [
+      29
+    ],
+    "segments": [
+      {
+        "episode": 29,
+        "start_id": "E29-024",
+        "end_id": "E29-055",
+        "start_s": 40.0,
+        "end_s": 88.8,
+        "start": "00:40.00",
+        "end": "01:28.80",
+        "duration_s": 48.8
+      }
+    ],
+    "total_duration_s": 48.8,
+    "hook": {
+      "line_id": "E29-024",
+      "episode": 29,
+      "timestamp": "00:40.10",
+      "speaker": "JULIANA",
+      "script_text": "\"You know that is a lie!\"",
+      "llm_quote": "You know that is a lie!",
+      "offset_s": 0.1
+    },
+    "cliffhanger": {
+      "line_id": "E29-055",
+      "episode": 29,
+      "timestamp": "01:26.50",
+      "speaker": "SFX",
+      "script_text": "The heavy iron door slams shut with a deafening metallic thud, and the massive exterior bolt grates locked.",
+      "llm_quote": "The heavy iron door slams shut with a deafening metallic thud, and",
+      "gap_to_end_s": 0.8
+    },
+    "hook_type": "shocking_line",
+    "why": "Rules only: hook signals [delivery:rage, delivery:shouting, exclamation], cliff signals [sound sting, interruption].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 4,
+      "cliffhanger": 2,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 5.5,
+      "hook_reasons": [
+        "delivery:rage",
+        "delivery:shouting",
+        "exclamation"
+      ],
+      "cliff": 3.0,
+      "cliff_reasons": [
+        "sound sting",
+        "interruption"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E29-P1",
+    "score": 64.6,
+    "score_breakdown": {
+      "llm_hook": 0.75,
+      "llm_cliffhanger": 0.25,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.69,
+      "rule_cliff": 0.5,
+      "duration_fit": 0.87,
+      "hook_speed": 1.0,
+      "funnel": 0.7
+    },
+    "duplicate_of": null,
+    "rerank_pos": null,
+    "rerank_note": "",
+    "rank": 13,
+    "rank_reason": "hook 4/5 (shocking_line, at +0.1s); cliffhanger 2/5; standalone 3/5; 49s",
+    "review_status": "ready_for_review"
+  },
+  {
+    "title": "Rule pick: violence at E03-072",
+    "episodes": [
+      3
+    ],
+    "segments": [
+      {
+        "episode": 3,
+        "start_id": "E03-072",
+        "end_id": "E03-113",
+        "start_s": 84.0,
+        "end_s": 137.3,
+        "start": "01:24.00",
+        "end": "02:17.30",
+        "duration_s": 53.3
+      }
+    ],
+    "total_duration_s": 53.3,
+    "hook": {
+      "line_id": "E03-072",
+      "episode": 3,
+      "timestamp": "01:24.50",
+      "speaker": "SFX",
+      "script_text": "A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone floor.",
+      "llm_quote": "A heavy, bone-rattling punch followed by the clatter and thud of the",
+      "offset_s": 0.5
+    },
+    "cliffhanger": {
+      "line_id": "E03-113",
+      "episode": 3,
+      "timestamp": "02:14.80",
+      "speaker": "SFX",
+      "script_text": "A collective, stunned gasp rippling across the entire congregation.",
+      "llm_quote": "A collective, stunned gasp rippling across the entire congregation.",
+      "gap_to_end_s": 1.1
+    },
+    "hook_type": "violence",
+    "why": "Rules only: hook signals [violence, physical], cliff signals [shock beat].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 4,
+      "cliffhanger": 2,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 5.0,
+      "hook_reasons": [
+        "violence",
+        "physical"
+      ],
+      "cliff": 2.0,
+      "cliff_reasons": [
+        "shock beat"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E03-P1",
+    "score": 63.8,
+    "score_breakdown": {
+      "llm_hook": 0.75,
+      "llm_cliffhanger": 0.25,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.62,
+      "rule_cliff": 0.33,
+      "duration_fit": 0.72,
+      "hook_speed": 1.0,
+      "funnel": 1.0
+    },
+    "duplicate_of": null,
+    "rerank_pos": null,
+    "rerank_note": "",
+    "rank": 14,
+    "rank_reason": "hook 4/5 (violence, at +0.5s); cliffhanger 2/5; standalone 3/5; 53s; early episode E03, no spoilers",
+    "review_status": "ready_for_review"
+  },
+  {
+    "title": "Rule pick: threat at E25-049",
+    "episodes": [
+      25
+    ],
+    "segments": [
+      {
+        "episode": 25,
+        "start_id": "E25-049",
+        "end_id": "E25-066",
+        "start_s": 79.5,
+        "end_s": 114.8,
+        "start": "01:19.50",
+        "end": "01:54.80",
+        "duration_s": 35.3
+      }
+    ],
+    "total_duration_s": 35.3,
+    "hook": {
+      "line_id": "E25-049",
+      "episode": 25,
+      "timestamp": "01:20.20",
+      "speaker": "JULIANA",
+      "script_text": "\"Poison.\"",
+      "llm_quote": "Poison.",
+      "offset_s": 0.7
+    },
+    "cliffhanger": {
+      "line_id": "E25-066",
+      "episode": 25,
+      "timestamp": "01:52.20",
+      "speaker": "ALEXANDER",
+      "script_text": "\"Will you be going there again?\"",
+      "llm_quote": "Will you be going there again?",
+      "gap_to_end_s": 0.4
+    },
+    "hook_type": "threat",
+    "why": "Rules only: hook signals [threat, delivery:shock], cliff signals [unanswered question].",
+    "context_needed": "",
+    "llm_scores": {
+      "hook": 4,
+      "cliffhanger": 2,
+      "standalone": 3
+    },
+    "rule_signals": {
+      "hook": 5.5,
+      "hook_reasons": [
+        "threat",
+        "delivery:shock"
+      ],
+      "cliff": 1.5,
+      "cliff_reasons": [
+        "unanswered question"
+      ]
+    },
+    "warnings": [],
+    "repaired": false,
+    "source": {
+      "provider": "mock",
+      "model": "rules-baseline",
+      "prompt_version": "promo-v2",
+      "attempt": 1
+    },
+    "promo_id": "E25-P1",
+    "score": 63.4,
+    "score_breakdown": {
+      "llm_hook": 0.75,
+      "llm_cliffhanger": 0.25,
+      "llm_standalone": 0.5,
+      "rule_hook": 0.69,
+      "rule_cliff": 0.25,
+      "duration_fit": 1.0,
+      "hook_speed": 1.0,
+      "funnel": 0.7
+    },
+    "duplicate_of": null,
+    "rerank_pos": null,
+    "rerank_note": "",
+    "rank": 15,
+    "rank_reason": "hook 4/5 (threat, at +0.7s); cliffhanger 2/5; standalone 3/5; 35s",
+    "review_status": "ready_for_review"
+  }
+]

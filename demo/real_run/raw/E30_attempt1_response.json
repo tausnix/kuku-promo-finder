@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: threat at E30-013\", \"segments\": [{\"start_id\": \"E30-013\", \"end_id\": \"E30-033\"}], \"hook_id\": \"E30-013\", \"hook_quote\": \"She knows the Duchess was poisoned.\", \"cliffhanger_id\": \"E30-033\", \"cliffhanger_quote\": \"The law?\", \"hook_type\": \"threat\", \"why\": \"Rules only: hook signals [threat, reveal], cliff signals [unanswered question].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "a3bbd8ef0abee8ebe2d79ebb129ec03be953318d9a523e8b7fd7758e3bfb76f5"
+}

@@ -1,0 +1,73 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E17
+EPISODE_DURATION: 01:58.88
+LOGLINE: In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intimate embrace by the hearth.
+CONTINUITY: Picks up the morning after Episode 16's moonlit confrontation where Alexander defended Juliana and defeated Harrington's hired thugs in her medicinal garden.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- (none)
+Possible cliffhangers:
+- E17-075: sound sting, episode ending
+- E17-068: threat/turn
+- E17-070: episode ending
+- E17-074: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E17-002 [00:00.00-00:03.00] ACTION: Juliana sits on her knees in her dirt-smudged dress, her hands wrapped in clean linen bandages, sorrowfully examining the wreckage. In the distant background, Alexander paces near the perimeter fence.
+E17-004 [00:03.00-00:07.00] ACTION: Juliana gently lifts a tiny, delicate white daisy clinging to its exposed roots out of the soil, cupping it in her palm.
+E17-006 [00:09.30-00:11.30] DIALOGUE JULIANA (Soft, Emotional): "Some of them survived."
+E17-008 [00:11.50-00:14.00] SFX: Rhythmic, heavy thuds of an iron hammer pounding into weathered wood.
+E17-009 [00:11.50-00:14.00] ACTION: Alexander firmly drives nails into a fractured fence post, his brow furrowed with focused determination.
+E17-011 [00:14.30-00:15.30] DIALOGUE JULIANA (Grateful, Sincere): "Thank you."
+E17-013 [00:16.80-00:17.80] DIALOGUE ALEXANDER (Gruff, Low): "For what?"
+E17-015 [00:18.20-00:20.50] DIALOGUE JULIANA (Trembling, Heartfelt): "For standing between me and those men."
+E17-017 [00:21.50-00:23.00] DIALOGUE ALEXANDER (Unwavering, Firm): "I would do it again."
+E17-019 [00:24.00-00:25.70] DIALOGUE JULIANA (Whispering, Awed): "Even if there were ten of them?"
+E17-020 [00:26.00-00:27.70] DIALOGUE ALEXANDER (Deep, Resolute): "As long as I draw breath..."
+E17-022 [00:28.00-00:31.50] ACTION: Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, weathered palms.
+E17-023 [00:28.80-00:31.00] DIALOGUE ALEXANDER (Gentle, Vowing): "...no one will hurt you again."
+E17-025 [00:32.80-00:34.20] DIALOGUE JULIANA (Choked Up, Pained): "You cannot promise that."
+E17-027 [00:34.80-00:35.80] DIALOGUE ALEXANDER (Quiet, Absolute): "I just did."
+E17-029 [00:36.50-00:39.00] ACTION: Alexander squeezes Juliana's hands reassuringly as she rests her fingertips against his skin. The scene fades to black.
+E17-031 [00:40.00-00:44.50] ACTION: Juliana wrings out a clean linen cloth from the basin and tenderly dabs at the fresh cuts and abrasions on the back of Alexander's right hand.
+E17-033 [00:42.80-00:44.70] DIALOGUE JULIANA (Tender, Reproachful): "You were bleeding last night."
+E17-035 [00:46.00-00:47.30] DIALOGUE ALEXANDER (Quiet, Fond): "So were you."
+E17-037 [00:49.00-00:51.50] DIALOGUE JULIANA (Softly Teasing): "You make it very difficult to argue with you."
+E17-039 [00:53.50-00:56.00] ACTION: Juliana returns the damp cloth to the ceramic basin, her expression turning somber and reflective.
+E17-041 [00:56.50-00:58.00] DIALOGUE JULIANA (Vulnerable, Sincere): "I was frightened."
+E17-043 [00:58.80-00:59.80] DIALOGUE ALEXANDER (Questioning): "Of them?"
+E17-045 [01:00.80-01:02.20] DIALOGUE JULIANA (Whispering, Earnest): "Of losing you."
+E17-048 [01:06.00-01:13.50] ACTION: Juliana rests her cheek against Alexander's chest, closing her eyes as his strong arms wrap around her shoulders, holding her safe against his frame.
+E17-050 [01:17.00-01:21.00] ACTION: Juliana nestles deeper into his coat, listening intently to the rapid thudding beneath his chest.
+E17-051 [01:18.50-01:20.00] DIALOGUE JULIANA (Soft, Playful): "Your heart is racing."
+E17-053 [01:21.20-01:22.50] DIALOGUE ALEXANDER (Warm, Whispering): "So is yours."
+E17-055 [01:26.50-01:30.00] ACTION: Juliana slowly raises her hand, gently twirling a lock of Alexander's long, unruly dark hair between her fingers.
+E17-057 [01:28.00-01:29.80] DIALOGUE JULIANA (Lighthearted, Teasing): "This is becoming impossible."
+E17-059 [01:30.40-01:32.50] DIALOGUE JULIANA (Smiling): "Soon birds will start nesting in it."
+E17-061 [01:33.50-01:35.20] DIALOGUE ALEXANDER (Dry, Amused): "They have not complained yet."
+E17-062 [01:35.50-01:37.00] ACTION: Juliana lets out a quiet, melodic laugh.
+E17-064 [01:36.50-01:39.20] DIALOGUE JULIANA (Charming, Tender): "Then I shall have to save you from the birds."
+E17-065 [01:39.50-01:42.50] ACTION: Alexander gently catches her wrist mid-air, holding her hand firmly against his chest while looking into her eyes with solemn sincerity.
+E17-066 [01:40.30-01:41.50] DIALOGUE ALEXANDER (Solemn, Gentle): "Not yet."
+E17-068 [01:43.00-01:44.20] DIALOGUE JULIANA (Sweet, Reassuring): "Then I will wait."
+E17-070 [01:47.00-01:54.00] ACTION: Juliana rests her head against Alexander's collarbone once more, wrapping both arms around him as he cradles her head in his palm.
+E17-072 [01:48.30-01:51.50] DIALOGUE JULIANA (V.O., Reflective, Resonant): "I know almost nothing about the man I married."
+E17-074 [01:52.20-01:56.00] DIALOGUE JULIANA (V.O., Deeply Moved, Loving): "But every day, he gives me another reason to trust him."
+E17-075 [01:54.00-01:58.88] SFX: Warm crackle of embers in the hearth blending with swelling, tender orchestral strings holding into the fade-out.
+
+NEXT_EPISODE_OPENING (E18, first 30 s; continuation only):
+E18-002 [00:00.00-00:02.10] SFX: Muffled crackle and roar of an encroaching blaze.
+E18-004 [00:03.50-00:06.00] ACTION: Juliana coughs, her eyes widening in immediate alarm as the smell of burning wood fills her lungs.
+E18-005 [00:06.00-00:09.50] ACTION: Juliana bolts upright in bed, tossing off the woolen quilt as she sees the orange glow under the door.
+E18-006 [00:06.50-00:08.50] DIALOGUE JULIANA (Screaming, Terrified): "Alexander!"
+E18-008 [00:10.50-00:12.30] DIALOGUE JULIANA (Desperate, Shouting): "Alexander!"
+E18-010 [00:16.20-00:20.10] ACTION: Juliana sits huddled at the edge of the bed, pressing her bandaged hands against her mouth, coughing and sobbing in fear.
+E18-011 [00:17.80-00:19.80] DIALOGUE JULIANA (Muffled, Weeping): "Alexander..."
+E18-012 [00:19.50-00:21.00] SFX: A violent crash as the bedroom door is kicked open.
+E18-014 [00:20.80-00:22.50] DIALOGUE ALEXANDER (Authoritative, Urgency): "Juliana! Get up!"
+E18-016 [00:24.50-00:28.90] ACTION: Alexander reaches the bed, hoisting Juliana up by her arms into a standing embrace.
+E18-017 [00:26.50-00:28.00] DIALOGUE JULIANA (Breathless, Distressed): "What happened?"
+E18-018 [00:28.10-00:28.90] DIALOGUE ALEXANDER (Grim, Urgent): "Fire."
+
+Return up to 1 promos for E17 as JSON.

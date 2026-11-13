@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: violence at E14-002\", \"segments\": [{\"start_id\": \"E14-002\", \"end_id\": \"E14-017\"}], \"hook_id\": \"E14-002\", \"hook_quote\": \"Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate\", \"cliffhanger_id\": \"E14-017\", \"cliffhanger_quote\": \"What have they done to you?\", \"hook_type\": \"violence\", \"why\": \"Rules only: hook signals [violence], cliff signals [unanswered question].\", \"scores\": {\"hook\": 2, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.0,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "4764dd1554742673e1598fbca904cc00719a9217f2a554b19a506132c38a1d64"
+}

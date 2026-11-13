@@ -1,0 +1,87 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E04
+EPISODE_DURATION: 02:31.40
+LOGLINE: Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosing exile and dignity over her family's cruelty as they walk out into the light together.
+CONTINUITY: Picks up directly from Episode 3's cliffhanger where the Mysterious Bearded Man dropped to one knee before the altar, presenting a ring to Lady Juliana.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E04-087: physical, delivery:rage, delivery:shouting, exclamation
+- E04-099: confrontation, delivery:menace, exclamation
+- E04-089: delivery:rage, exclamation
+- E04-097: delivery:shouting, exclamation
+- E04-029: betrayal
+- E04-012: humiliation
+Possible cliffhangers:
+- E04-110: sound sting, episode ending
+- E04-003: shock beat
+- E04-107: episode ending
+- E04-109: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E04-003 [00:01.50-00:03.20] ACTION: Juliana's eyes widen, stunned breath catching in her throat.
+E04-005 [00:03.40-00:04.90] DIALOGUE GERALD (Mocking, Arrogant): "Look at him."
+E04-007 [00:05.00-00:07.50] DIALOGUE GERALD (Scornful): "A penniless nobody for a discarded bride."
+E04-009 [00:07.80-00:09.50] ACTION: Clarissa giggles spitefully, lowering her gloved hand to gloat.
+E04-010 [00:09.00-00:10.50] DIALOGUE CLARISSA (Gleeful, Condescending): "How fitting."
+E04-012 [00:10.60-00:14.20] DIALOGUE CLARISSA (Taunting): "You have finally found a man as worthless as everyone thinks you are."
+E04-015 [00:15.50-00:17.50] ACTION: Juliana closes her eyes briefly and releases a steadying breath.
+E04-017 [00:20.00-00:21.80] DIALOGUE JULIANA (Vulnerable, Trembling): "You don't even know me."
+E04-020 [00:23.50-00:25.80] DIALOGUE JULIANA (Conflicted, Pained): "You heard what they think I am."
+E04-022 [00:25.90-00:27.70] DIALOGUE JULIANA (Searching): "Why would you offer me your name?"
+E04-024 [00:28.00-00:30.20] DIALOGUE MYSTERIOUS BEARDED MAN (Grave, Certain): "Because I know what I see."
+E04-027 [00:32.10-00:33.70] DIALOGUE JULIANA (Quiet, Hesitant): "And what do you see?"
+E04-029 [00:34.00-00:36.00] DIALOGUE MYSTERIOUS BEARDED MAN (Firm, Sincere): "A woman who was betrayed."
+E04-031 [00:36.50-00:38.80] DIALOGUE MYSTERIOUS BEARDED MAN (Resolute): "Not a woman who deserves to be discarded."
+E04-034 [00:42.00-00:44.80] DIALOGUE JULIANA (Soft, Bitter): "You don't know what my family has done to me."
+E04-036 [00:46.00-00:48.80] DIALOGUE MYSTERIOUS BEARDED MAN (Solemn): "I know they have made you stand alone."
+E04-038 [00:50.00-00:52.50] DIALOGUE MYSTERIOUS BEARDED MAN (Gentle): "You don't have to stand alone now."
+E04-040 [00:53.60-00:55.80] DIALOGUE JULIANA (Defiant, Dignified): "If this is pity, take back your ring."
+E04-042 [00:56.80-00:58.80] DIALOGUE JULIANA (Fierce): "I will not become anyone's charity."
+E04-044 [00:59.50-01:02.50] DIALOGUE MYSTERIOUS BEARDED MAN (Earnest): "It is not pity, Lady Juliana."
+E04-046 [01:03.50-01:05.50] DIALOGUE MYSTERIOUS BEARDED MAN (Deep, Absolute): "It is a vow."
+E04-048 [01:06.00-01:08.00] DIALOGUE JULIANA (V.O.): "I don't know this man."
+E04-050 [01:08.00-01:09.60] DIALOGUE JULIANA (V.O.): "I don't know what waits beyond these doors."
+E04-052 [01:09.80-01:12.00] DIALOGUE JULIANA (V.O.): "But he looked at me when everyone else turned away."
+E04-054 [01:12.80-01:14.50] DIALOGUE JULIANA (Resolved): "Then I accept."
+E04-057 [01:16.20-01:19.00] ACTION: The Mysterious Bearded Man stands tall, extending his scarred hand toward Juliana.
+E04-059 [01:19.20-01:21.50] ACTION: He folds his fingers over hers, holding her hand with protective firmness.
+E04-061 [01:22.00-01:23.80] DIALOGUE THE PRIEST (Hesitant, Anxious): "My- My Lady..."
+E04-063 [01:24.00-01:25.80] DIALOGUE THE PRIEST (Tentative): "Are you certain?"
+E04-066 [01:29.80-01:31.00] DIALOGUE JULIANA (Unwavering): "I am."
+E04-068 [01:32.00-01:34.50] DIALOGUE THE PRIEST (Resigned, Solemn): "Then... let us proceed."
+E04-070 [01:35.80-01:38.00] DIALOGUE MYSTERIOUS BEARDED MAN (Low, Reassuring): "You need not say anything you do not mean."
+E04-072 [01:38.20-01:40.00] DIALOGUE JULIANA (Warm, Sincere): "I truly mean it."
+E04-074 [01:40.20-01:42.20] ACTION: The Mysterious Bearded Man carefully slides the band onto Juliana's finger.
+E04-076 [01:42.50-01:44.20] DIALOGUE MYSTERIOUS BEARDED MAN (Solemn): "You have my protection."
+E04-078 [01:45.20-01:47.00] DIALOGUE MYSTERIOUS BEARDED MAN (Steadfast): "You have my respect."
+E04-080 [01:47.80-01:49.80] DIALOGUE MYSTERIOUS BEARDED MAN (Grave): "And you have my word."
+E04-082 [01:50.00-01:53.00] DIALOGUE THE PRIEST (Ceremonial): "By the authority entrusted to me, I now pronounce you..."
+E04-084 [01:53.00-01:54.80] DIALOGUE THE PRIEST (Off-Screen, Booming): "...husband and wife!"
+E04-085 [01:54.00-01:55.20] SFX: Dramatic musical chord swelling.
+E04-087 [01:55.00-01:56.80] DIALOGUE GERALD (Furious, Shouting): "You have thrown yourself away!"
+E04-089 [01:57.00-01:59.00] DIALOGUE GERALD (Livid): "For a penniless nobody!"
+E04-091 [02:00.50-02:02.80] DIALOGUE JULIANA (Calm, Cutting): "I would rather choose my own life..."
+E04-093 [02:03.00-02:05.50] DIALOGUE JULIANA (Firm, Final): "...than spend another moment begging for yours."
+E04-095 [02:06.00-02:07.40] ACTION: Gerald recoils slightly, mouth agape.
+E04-097 [02:07.50-02:11.50] DIALOGUE LADY ASHCROFT (Imperious, Shouting): "Do not bring this man anywhere near Ashcroft Manor!"
+E04-099 [02:12.00-02:14.50] DIALOGUE LADY ASHCROFT (Venomous): "You are disowned!"
+E04-103 [02:19.50-02:20.80] DIALOGUE MYSTERIOUS BEARDED MAN (Soft, Protective): "Come, Lady Juliana."
+E04-107 [02:25.00-02:26.50] ACTION: Clarissa gapes in shock while Lady Ashcroft exhales in exasperation.
+E04-109 [02:27.50-02:31.40] ACTION: Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering doors into the sunlight together, turning their backs on the ruined wedding as the screen fades out.
+E04-110 [02:27.00-02:29.00] SFX: Heavy oak doors creaking open, followed by a triumphant musical swell fading out into silence.
+
+NEXT_EPISODE_OPENING (E05, first 30 s; continuation only):
+E05-002 [00:00.00-00:02.50] ACTION: Juliana grips the heirloom ledger tightly against her waist, her posture resolute despite the tension.
+E05-004 [00:04.20-00:05.80] DIALOGUE LORD ASHCROFT (Stern, Commanding): "Miss Ashcroft."
+E05-005 [00:05.50-00:06.60] ACTION: Juliana and the Mysterious Bearded Man pause on the stone steps, turning slightly back toward Lord Ashcroft.
+E05-007 [00:06.80-00:10.40] DIALOGUE LORD ASHCROFT (Cold, Condemnatory): "You will not leave this church carrying the Ashcroft name."
+E05-009 [00:11.70-00:15.50] DIALOGUE JULIANA (Defiant, Steadfast): "The vows are spoken, Father. I am his wife now."
+E05-011 [00:16.00-00:18.00] DIALOGUE LORD ASHCROFT (Harsh, Final): "Then leave as his wife."
+E05-012 [00:18.50-00:20.80] DIALOGUE LORD ASHCROFT (Harsh, Final): "You leave as no daughter of mine."
+E05-014 [00:21.00-00:23.00] DIALOGUE LORD ASHCROFT (O.S. / Continues): "Your dowry is revoked."
+E05-015 [00:23.10-00:25.10] DIALOGUE LORD ASHCROFT (O.S. / Continues): "Your inheritance is revoked."
+E05-017 [00:25.40-00:28.90] DIALOGUE LORD ASHCROFT (O.S. / Continues): "From this moment, you are dead to the Ashcroft family."
+E05-018 [00:29.50-00:33.40] DIALOGUE JULIANA (Shaking, Tearful): "You truly mean it? You are my father!"
+
+Return up to 1 promos for E04 as JSON.

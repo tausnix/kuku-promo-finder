@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: shocking_line at E42-014\", \"segments\": [{\"start_id\": \"E42-014\", \"end_id\": \"E42-034\"}], \"hook_id\": \"E42-014\", \"hook_quote\": \"I said arrest him!\", \"cliffhanger_id\": \"E42-034\", \"cliffhanger_quote\": \"Let everyone hear me! This is my son... Alexander Ashburn. The rightful\", \"hook_type\": \"shocking_line\", \"why\": \"Rules only: hook signals [delivery:rage, delivery:shouting, exclamation], cliff signals [episode ending].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "d14f735b429f5a4c49e6da916c5ab3c161909353df0c17d30c3a668976b0e9e5"
+}

@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: reveal at E20-011\", \"segments\": [{\"start_id\": \"E20-011\", \"end_id\": \"E20-038\"}], \"hook_id\": \"E20-011\", \"hook_quote\": \"'Practically' is a word for beggars. I do not marry a practical\", \"cliffhanger_id\": \"E20-038\", \"cliffhanger_quote\": \"Your palms are still raw from the fire. You shouldn't be working\", \"hook_type\": \"reveal\", \"why\": \"Rules only: hook signals [reveal, romance], cliff signals [shock beat].\", \"scores\": {\"hook\": 2, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "9cad95319f731eb18c1588bbf6472da05c3b1ea8b42e4cdf47f0a79305bf6339"
+}

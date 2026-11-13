@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: humiliation at E38-009\", \"segments\": [{\"start_id\": \"E38-009\", \"end_id\": \"E38-031\"}], \"hook_id\": \"E38-009\", \"hook_quote\": \"The Guard kneels down and slips a small loaf of rustic bread\", \"cliffhanger_id\": \"E38-031\", \"cliffhanger_quote\": \"What if I never see you again?\", \"hook_type\": \"humiliation\", \"why\": \"Rules only: hook signals [humiliation], cliff signals [unanswered question].\", \"scores\": {\"hook\": 3, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "f8c842d2de41a0fb84ef24b688763c3b342ddb225f4c264d09b1f784e626fe26"
+}

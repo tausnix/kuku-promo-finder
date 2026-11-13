@@ -1,0 +1,72 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E13
+EPISODE_DURATION: 01:58.88
+LOGLINE: Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's cruel taunts until she unearths the lost emerald signet ring.
+CONTINUITY: Picks up immediately from Episode 12's climax where Juliana demanded to know where the frozen blackthorn garden was located to save Alexander from the gallows.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E13-064: delivery:shouting, delivery:anguish, exclamation
+- E13-029: delivery:shouting, exclamation
+- E13-052: delivery:shouting, exclamation
+- E13-055: delivery:rage, exclamation
+- E13-058: delivery:shouting, exclamation
+- E13-060: delivery:shouting, exclamation
+Possible cliffhangers:
+- E13-002: ominous, sound sting
+- E13-037: shock beat, trailing line
+
+SCRIPT_LINES (camera directions omitted):
+E13-002 [00:00.00-00:04.00] SFX: Whistling winter wind and an ominous low brass drone.
+E13-004 [00:05.10-00:07.00] ACTION: Alexander turns toward Juliana, his manacled hands trembling as he grips her arm.
+E13-005 [00:05.40-00:10.20] DIALOGUE ALEXANDER (Pleading, Agonized): "Juliana, look at those thorns. You cannot do this."
+E13-008 [00:12.40-00:13.80] DIALOGUE JULIANA (Quiet, Unwavering): "I must."
+E13-010 [00:14.40-00:17.30] DIALOGUE ALEXANDER (Terrified for Her): "They will tear your hands apart."
+E13-013 [00:22.00-00:23.90] DIALOGUE JULIANA (Soft, Reassuring): "I will be fine."
+E13-014 [00:24.20-00:28.40] DIALOGUE ALEXANDER (Desperate, Fierce): "I would rather face the gallows than watch you hurt yourself for me."
+E13-018 [00:30.80-00:35.80] DIALOGUE JULIANA (Emotional, Devoted): "You stood beside me when everyone else abandoned me. I will not abandon you now."
+E13-019 [00:36.20-00:39.50] ACTION: Juliana releases his hands and turns toward the briar thicket. Alexander stretches out his chained hands, attempting to hold her back, but the Constable restrains him.
+E13-021 [00:37.00-00:38.20] DIALOGUE CLARISSA (O.S., Mocking, Vindictive): "Careful, sister."
+E13-023 [00:39.90-00:41.50] DIALOGUE CLARISSA (Cruel, Sarcastic): "That garden has swallowed better women than you."
+E13-025 [00:41.80-00:45.50] DIALOGUE GERALD (Condescending, Arrogant): "Perhaps the beggar's wife will finally learn what her new life is worth."
+E13-026 [00:45.80-00:47.00] ACTION: Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath.
+E13-029 [00:47.20-00:48.80] DIALOGUE ALEXANDER (Screaming, Panicked): "Juliana, stop!"
+E13-030 [00:47.80-00:49.20] SFX: Rattling of heavy iron chains.
+E13-031 [00:50.00-00:53.00] ACTION: Juliana crawls forward on all fours, lowering her head under the jagged, arching thorns.
+E13-033 [00:51.50-00:52.60] DIALOGUE ALEXANDER (Strangled, Weeping): "Please..."
+E13-036 [00:54.00-00:56.50] ACTION: Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin.
+E13-037 [00:54.50-00:55.80] DIALOGUE JULIANA (Gasping in Pain): "No..."
+E13-039 [00:57.20-00:58.60] DIALOGUE CLARISSA (O.S., Gleeful, Derisive): "Look at her hands."
+E13-041 [00:58.80-01:01.80] DIALOGUE CLARISSA (Mocking, Spiteful): "The lady has finally found something worthy of her."
+E13-042 [01:02.00-01:04.00] ACTION: Gerald leans his hands on the terrace railing, sneering callously.
+E13-044 [01:02.20-01:07.00] DIALOGUE GERALD (Taunting, Cruel): "Keep searching, Juliana. Your husband's freedom is somewhere in that garden."
+E13-046 [01:08.50-01:10.20] SFX: Sickening crunch and scrape of thorns slicing through flesh.
+E13-048 [01:11.40-01:13.80] DIALOGUE ALEXANDER (Desperate, Choked): "Please... enough!"
+E13-050 [01:14.50-01:18.00] ACTION: Juliana drags her body across the frozen, cracked soil beneath the dense roof of briars.
+E13-052 [01:18.50-01:20.50] DIALOGUE JULIANA (Screaming in Pain): "Ah!"
+E13-053 [01:20.50-01:23.00] ACTION: Alexander loses control, violently lunging past the Constable toward the briars.
+E13-055 [01:20.80-01:22.20] DIALOGUE ALEXANDER (Furious, Booming): "Stop!"
+E13-056 [01:23.00-01:26.00] ACTION: Juliana continues clawing forward, branches lacerating her arm and cheek.
+E13-058 [01:23.80-01:25.80] DIALOGUE JULIANA (Agonized Scream): "Ahhh!"
+E13-060 [01:26.50-01:28.80] DIALOGUE ALEXANDER (Roaring in Torment): "Juliana!"
+E13-062 [01:29.20-01:34.00] ACTION: Juliana digs her torn fingers into the frost-hardened earth, turning over rocks and dead vegetation.
+E13-064 [01:34.80-01:36.40] DIALOGUE ALEXANDER (Desperate Shout): "Juliana!"
+E13-066 [01:38.20-01:42.50] DIALOGUE JULIANA (Panting, Praying): "Please, ring... you have to be here."
+E13-067 [01:43.00-01:46.50] ACTION: Her blood-smeared index finger brushes against a solid metallic object half-buried in the frozen dirt beneath a thorny branch.
+E13-070 [01:49.00-01:52.00] ACTION: Juliana reaches out her torn, bloodied hand and wraps her fingers tightly around the emerald ring.
+
+NEXT_EPISODE_OPENING (E14, first 30 s; continuation only):
+E14-002 [00:00.50-00:05.50] ACTION: Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emerald signet ring resting in her palm.
+E14-003 [00:01.00-00:05.50] SFX: Eerie cold wind whistling over the briars with deep, atmospheric cello chords.
+E14-005 [00:07.70-00:09.00] DIALOGUE JULIANA (Exhausted, Resolute): "I found it."
+E14-007 [00:10.50-00:12.70] DIALOGUE JULIANA (Firm, Commanding): "Now release my husband."
+E14-008 [00:12.50-00:13.50] ACTION: The Constable takes the ring from her bloodied fingers.
+E14-010 [00:14.20-00:15.40] SFX: Sharp metallic click and clinking rattle of heavy iron handcuffs unlocking and falling away.
+E14-011 [00:14.50-00:15.60] ACTION: The Constable unlocks the cuffs, freeing Alexander's large hands.
+E14-013 [00:16.80-00:18.00] DIALOGUE ALEXANDER (Gasping, Urgent): "Juliana."
+E14-015 [00:18.80-00:23.00] ACTION: Alexander gently turns her palms up, his thumbs trembling as he inspects the deep, bleeding gashes gouged into her skin.
+E14-017 [00:23.10-00:25.00] DIALOGUE ALEXANDER (Trembling, Heartbroken): "What have they done to you?"
+E14-019 [00:26.50-00:28.50] DIALOGUE JULIANA (Softly, Stifling Pain): "Nothing they didn't promise."
+E14-021 [00:29.80-00:32.00] DIALOGUE JULIANA (Faint, Pleading): "Take me home."
+
+Return up to 1 promos for E13 as JSON.

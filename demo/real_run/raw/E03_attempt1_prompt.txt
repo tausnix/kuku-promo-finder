@@ -1,0 +1,94 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E03
+EPISODE_DURATION: 02:25.75
+LOGLINE: Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who intervenes with lethal grace—and drops to one knee with a proposal that shocks high society.
+CONTINUITY: Follows directly from Episode 2's confrontation at the altar, where Juliana publicly exposed Gerald's dishonor before the entire aristocratic congregation.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E03-072: violence, physical
+- E03-071: violence
+- E03-035: delivery:menace, delivery:contempt
+- E03-047: delivery:shouting, exclamation
+- E03-050: delivery:shouting, exclamation
+- E03-065: delivery:menace, exclamation
+Possible cliffhangers:
+- E03-118: scripted cliffhanger, sound sting, episode ending
+- E03-062: open question
+- E03-054: shock beat
+- E03-113: shock beat
+- E03-116: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E03-002 [00:02.10-00:04.20] DIALOGUE LADY IN GOLD GOWN (Mocking, Spiteful): "Look at you..."
+E03-004 [00:03.60-00:08.20] DIALOGUE LADY IN GOLD GOWN (Gloating, Scornful): "...still clinging to that little locket as if it can make you worthy of a place here."
+E03-007 [00:08.80-00:10.80] DIALOGUE LADY JULIANA (Hurt, Bitter): "You stole my wedding."
+E03-009 [00:11.20-00:13.40] DIALOGUE LADY JULIANA (Defiant): "Don't pretend you've earned anything."
+E03-011 [00:13.80-00:16.30] DIALOGUE LADY IN GOLD GOWN (Smug, Malicious): "I didn't steal what was never truly yours."
+E03-013 [00:16.60-00:18.40] DIALOGUE LADY JULIANA (Trembling, Resolute): "This was my wedding."
+E03-015 [00:18.70-00:20.40] DIALOGUE LADY IN GOLD GOWN (Taunting, Cruel): "It was supposed to be."
+E03-017 [00:20.60-00:22.50] DIALOGUE LADY IN GOLD GOWN (Vindictive): "Now it is mine."
+E03-019 [00:23.10-00:25.50] DIALOGUE NOBLE MATRIARCH (Harsh, Authoritative): "Enough, Juliana."
+E03-021 [00:25.90-00:28.00] DIALOGUE NOBLE MATRIARCH (Cold, Disgusted): "You have humiliated this family enough for one day."
+E03-024 [00:30.40-00:33.20] DIALOGUE LADY JULIANA (Pained, Betrayed): "I was humiliated by your family."
+E03-025 [00:33.30-00:35.60] DIALOGUE LADY JULIANA (Accusing): "And my father said nothing."
+E03-027 [00:36.50-00:38.40] DIALOGUE NOBLE MATRIARCH (Brutal, Dismissive): "Your father has made his choice."
+E03-029 [00:38.50-00:40.40] DIALOGUE LADY JULIANA (Choked, Vulnerable): "And what happens to me?"
+E03-031 [00:40.50-00:41.90] DIALOGUE NOBLE MATRIARCH (Cold, Heartless): "You leave."
+E03-033 [00:42.10-00:43.30] DIALOGUE LADY JULIANA (Disbelieving): "Leave where?"
+E03-035 [00:43.40-00:46.00] DIALOGUE NOBLE MATRIARCH (Cruel, Scornful): "Wherever a discarded daughter belongs."
+E03-037 [00:46.40-00:48.60] DIALOGUE LADY JULIANA (Fierce, Choked): "This is my mother's church."
+E03-039 [00:48.90-00:51.10] DIALOGUE LADY JULIANA (Defiant, Firm): "I have every right to stand here."
+E03-041 [00:51.30-00:53.00] DIALOGUE NOBLE MATRIARCH (Venomous): "Not anymore."
+E03-043 [00:53.30-00:56.20] DIALOGUE NOBLE MATRIARCH (Stern, Final): "Your father has chosen his family..."
+E03-045 [00:56.30-00:58.20] DIALOGUE NOBLE MATRIARCH (Coldly Severing): "...and it isn't you."
+E03-046 [00:58.20-00:59.80] ACTION: The Noble Matriarch turns sharply toward the back of the chapel and barks an order.
+E03-047 [00:58.30-01:00.00] DIALOGUE NOBLE MATRIARCH (Shouting, Imperious): "Guards! Remove her!"
+E03-049 [01:00.50-01:02.50] ACTION: The guards forcefully grab Juliana by both shoulders and drag her backwards.
+E03-050 [01:00.60-01:02.30] DIALOGUE LADY JULIANA (Screaming, Resisting): "Let me go!"
+E03-052 [01:02.40-01:03.50] DIALOGUE LADY JULIANA (Desperate, Begging): "Please! Someone!"
+E03-053 [01:03.00-01:04.50] ACTION: The guards tear her grip away from the pew.
+E03-054 [01:03.00-01:04.50] SFX: Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone.
+E03-057 [01:06.00-01:08.10] ACTION: The Bearded Stranger steps deliberately into the aisle, his heavy boots echoing.
+E03-059 [01:09.90-01:12.10] DIALOGUE THE BEARDED STRANGER (Low, Thunderous, Imposing): "Take your hands off her."
+E03-062 [01:13.00-01:16.80] DIALOGUE NOBLE MATRIARCH (Indignant, Screeching): "And who are you to give orders in my family's chapel?!"
+E03-065 [01:17.20-01:18.90] DIALOGUE ROYAL GUARD (Aggressive, Threatening): "Stand aside, stranger!"
+E03-067 [01:19.30-01:20.90] DIALOGUE THE BEARDED STRANGER (Quiet, Deadly): "I said..."
+E03-069 [01:21.80-01:23.90] DIALOGUE THE BEARDED STRANGER (Dangerous, Uncompromising): "...let her go."
+E03-071 [01:24.00-01:25.50] ACTION: The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor.
+E03-072 [01:24.50-01:25.40] SFX: A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone floor.
+E03-074 [01:25.60-01:28.00] DIALOGUE THE FORMER GROOM (Frantic, Shouting): "What are you waiting for?! He's only one man!"
+E03-077 [01:30.40-01:31.60] DIALOGUE THE BEARDED STRANGER (Gentle, Protective): "Are you hurt?"
+E03-079 [01:31.80-01:33.60] ACTION: Juliana softly shakes her head 'no', her wide blue eyes locked onto him.
+E03-081 [01:34.10-01:36.30] DIALOGUE THE BEARDED STRANGER (Firm, Menacing): "Good. Then don't touch her again."
+E03-083 [01:36.50-01:38.50] DIALOGUE NOBLE MATRIARCH (Furious, Hysterical): "You cannot interfere in a family matter!"
+E03-085 [01:38.80-01:40.80] DIALOGUE THE BEARDED STRANGER (O.S., Deep, Resonant): "I can..."
+E03-087 [01:40.80-01:43.80] DIALOGUE THE BEARDED STRANGER (O.S., Stern, Accusing): "...when your family is dragging a defenseless woman from a church."
+E03-089 [01:44.20-01:47.40] DIALOGUE THE BEARDED STRANGER (Solemn, Gentle): "You shouldn't have to beg anybody..."
+E03-091 [01:47.40-01:49.00] DIALOGUE THE BEARDED STRANGER (O.S., Affirming, Sincere): "...to remember your worth."
+E03-094 [01:50.90-01:52.50] DIALOGUE LADY JULIANA (Whispering, Bewildered): "Why are you doing this?"
+E03-096 [01:52.80-01:54.10] DIALOGUE THE BEARDED STRANGER (Simple, Certain): "Because I want to."
+E03-101 [01:59.80-02:02.10] DIALOGUE THE BEARDED STRANGER (O.S., Honorable, Earnest): "You came here to become a wife."
+E03-103 [02:02.50-02:04.20] DIALOGUE THE BEARDED STRANGER (Quiet, Resolute): "They took that from you."
+E03-106 [02:05.30-02:07.30] DIALOGUE THE BEARDED STRANGER (Earnest, Sincere): "I am offering it back."
+E03-108 [02:07.70-02:09.90] DIALOGUE LADY JULIANA (Soft, Hesitant): "You don't even know me."
+E03-110 [02:10.40-02:12.00] DIALOGUE THE BEARDED STRANGER (Quiet, Steady): "I know enough."
+E03-112 [02:13.20-02:15.50] ACTION: The Bearded Stranger sinks to one knee on the cathedral aisle, offering the silver ring up to Juliana.
+E03-113 [02:14.80-02:16.20] SFX: A collective, stunned gasp rippling across the entire congregation.
+E03-116 [02:17.50-02:20.30] DIALOGUE THE BEARDED STRANGER (Solemn, Devoted): "Lady Juliana... accept my hand."
+E03-118 [02:20.50-02:25.75] ACTION: Juliana gazes down at her rugged savior, overcome with emotion as the swelling score holds on the cliffhanger.
+
+NEXT_EPISODE_OPENING (E04, first 30 s; continuation only):
+E04-003 [00:01.50-00:03.20] ACTION: Juliana's eyes widen, stunned breath catching in her throat.
+E04-005 [00:03.40-00:04.90] DIALOGUE GERALD (Mocking, Arrogant): "Look at him."
+E04-007 [00:05.00-00:07.50] DIALOGUE GERALD (Scornful): "A penniless nobody for a discarded bride."
+E04-009 [00:07.80-00:09.50] ACTION: Clarissa giggles spitefully, lowering her gloved hand to gloat.
+E04-010 [00:09.00-00:10.50] DIALOGUE CLARISSA (Gleeful, Condescending): "How fitting."
+E04-012 [00:10.60-00:14.20] DIALOGUE CLARISSA (Taunting): "You have finally found a man as worthless as everyone thinks you are."
+E04-015 [00:15.50-00:17.50] ACTION: Juliana closes her eyes briefly and releases a steadying breath.
+E04-017 [00:20.00-00:21.80] DIALOGUE JULIANA (Vulnerable, Trembling): "You don't even know me."
+E04-020 [00:23.50-00:25.80] DIALOGUE JULIANA (Conflicted, Pained): "You heard what they think I am."
+E04-022 [00:25.90-00:27.70] DIALOGUE JULIANA (Searching): "Why would you offer me your name?"
+E04-024 [00:28.00-00:30.20] DIALOGUE MYSTERIOUS BEARDED MAN (Grave, Certain): "Because I know what I see."
+
+Return up to 1 promos for E03 as JSON.

@@ -1,0 +1,82 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E31
+EPISODE_DURATION: 02:40.00
+LOGLINE: Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthless psychological torment until Juliana's unyielding pride pushes Catherine to a violent brink.
+CONTINUITY: Follows directly from Episode 30 where Rupert and Catherine plotted to frame Juliana as a witch while Juliana huddled chained in the subterranean dungeon.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E31-071: delivery:rage, delivery:shouting, exclamation
+- E31-009: delivery:menace, delivery:contempt
+- E31-082: delivery:shouting, exclamation
+- E31-023: humiliation, delivery:anguish
+- E31-066: humiliation
+- E31-006: delivery:menace
+Possible cliffhangers:
+- E31-002: ominous, interruption
+- E31-086: shock beat, episode ending
+- E31-067: shock beat
+- E31-078: shock beat
+
+SCRIPT_LINES (camera directions omitted):
+E31-002 [00:00.00-00:02.80] SFX: Heavy iron latch sliding back with an ominous, echoing metallic clang, followed by the deep groaning creak of the cell door swinging inward.
+E31-004 [00:02.80-00:04.20] ACTION: Juliana recoils against the damp stonework, her eyes wide with terror as light floods into the dark cell.
+E31-006 [00:06.90-00:08.80] DIALOGUE CATHERINE (Cruel, Condescending): "Look at you."
+E31-009 [00:10.50-00:13.80] DIALOGUE CATHERINE (Mocking, Venomous): "The great Lady Juliana Ashcroft."
+E31-011 [00:14.00-00:17.60] DIALOGUE CATHERINE (Taunting): "Chained in a dungeon like a common criminal."
+E31-013 [00:17.80-00:20.50] DIALOGUE JULIANA (Defiant, Steady): "You seem very pleased."
+E31-015 [00:21.00-00:23.50] DIALOGUE CATHERINE (Smug, Chilling): "I am."
+E31-017 [00:25.00-00:28.90] DIALOGUE CATHERINE (Whispering, Sinister): "Because this is what you were always meant to be."
+E31-019 [00:29.30-00:34.80] DIALOGUE CATHERINE (Scornful): "Your family dressed you like a lady. They educated you. They gave you a respectable name."
+E31-021 [00:35.00-00:38.90] DIALOGUE CATHERINE (Amused, Spiteful): "[chuckles] And still you became a disgrace."
+E31-023 [00:39.20-00:43.00] DIALOGUE JULIANA (Fierce, Unbroken): "I became a disgrace when I refused to become cruel."
+E31-025 [00:43.20-00:48.50] DIALOGUE CATHERINE (Cold, Bitter): "No. You became a disgrace when Gerald left you standing at the altar."
+E31-027 [00:48.90-00:50.80] DIALOGUE CATHERINE (Gloating): "Do you remember?"
+E31-028 [00:49.00-00:52.00] ACTION: Juliana stares up, her breathing steadying as she refuses to break under Catherine's barbs.
+E31-029 [00:51.00-00:54.80] DIALOGUE CATHERINE (Viciously Delighted): "Everyone saw you. Everyone watched him chose Clarisse."
+E31-031 [00:55.20-00:57.50] SFX: Faint sizzling and hissing as ambient moisture touches the scalding iron tip.
+E31-032 [00:55.50-00:58.80] DIALOGUE CATHERINE (Quietly Venomous): "And everyone watched you walk away alone."
+E31-034 [00:59.20-01:01.30] DIALOGUE JULIANA (Proud, Measured): "Gerald chose money."
+E31-035 [01:01.50-01:03.50] DIALOGUE JULIANA (Resolute): "Clarissa chose a coward."
+E31-036 [01:03.80-01:05.30] DIALOGUE JULIANA (Unyielding): "I chose myself."
+E31-038 [01:05.60-01:07.40] DIALOGUE CATHERINE (Disgusted): "You chose a beggar."
+E31-040 [01:07.60-01:09.80] DIALOGUE JULIANA (Fierce, Proud): "I chose a man."
+E31-042 [01:10.80-01:13.20] DIALOGUE CATHERINE (Contemptuous): "A scarred nobody."
+E31-044 [01:13.50-01:17.60] DIALOGUE JULIANA (Resolute, Dignified): "A man with more honor than the people sitting above this dungeon."
+E31-046 [01:17.80-01:20.20] DIALOGUE CATHERINE (Incredulous, Mocking): "You call that marriage?"
+E31-048 [01:20.80-01:23.20] DIALOGUE JULIANA (Pure, Sincere): "I call it love."
+E31-050 [01:23.50-01:27.40] DIALOGUE CATHERINE (Mocking, Hysterical Laugh): "[laughs] Love? Look where your precious love brought you."
+E31-052 [01:27.80-01:31.20] DIALOGUE JULIANA (Firm, Piercing): "To a place where I can still look you in the eyes."
+E31-054 [01:31.40-01:34.20] DIALOGUE CATHERINE (Incredulous, Offended): "You think love makes you better than me?"
+E31-056 [01:34.50-01:38.20] DIALOGUE JULIANA (Calm, Cutting): "No. But cruelty certainly doesn't make you better than me."
+E31-058 [01:38.50-01:43.30] DIALOGUE CATHERINE (Incensed, Boastful): "I have beauty, money, family, status! What do you have?"
+E31-060 [01:43.70-01:48.50] DIALOGUE JULIANA (Quiet, Powerful): "Knowledge. Love. And people who need me."
+E31-062 [01:50.20-01:51.40] DIALOGUE CATHERINE (Sneering, Derisive): "[scoffs] Peasants? People?"
+E31-064 [01:51.60-01:58.20] DIALOGUE CATHERINE (Arrogant, Elitist): "That is why you were born in the wrong world. Women like me are meant to be admired. Women like you are meant to serve."
+E31-066 [01:58.40-02:02.00] DIALOGUE JULIANA (Piercing, Provocative): "Then why are you so desperate to make me kneel?"
+E31-067 [02:02.00-02:04.00] ACTION: Catherine's smug expression freezes, her eyes widening in momentary shock and fury as the blow lands squarely.
+E31-069 [02:04.20-02:10.50] DIALOGUE JULIANA (Accusatory, Commanding): "If you were truly powerful, Catherine, you wouldn't need me to bow."
+E31-071 [02:11.00-02:12.80] DIALOGUE CATHERINE (Enraged Scream): "Enough!"
+E31-073 [02:13.20-02:14.50] SFX: Hiss of scorched parchment and curling white smoke rising as paper blackens under extreme heat.
+E31-075 [02:14.50-02:18.00] DIALOGUE CATHERINE (Hateful, Malicious): "This pathetic book is the only thing you still have from your mother."
+E31-077 [02:18.00-02:20.50] ACTION: Tears spill rapidly down Juliana's cheeks as she reaches forward in vain, restrained by her heavy iron chains.
+E31-078 [02:18.40-02:20.40] DIALOGUE JULIANA (Desperate, Weeping): "[gasping] Give it back!"
+E31-080 [02:20.70-02:23.80] DIALOGUE CATHERINE (Gloating, Sadistic): "There. Finally. Something still hurts you."
+E31-082 [02:24.00-02:25.50] DIALOGUE JULIANA (Screaming, Agonized): "No!"
+E31-084 [02:25.60-02:31.20] DIALOGUE CATHERINE (Vicious, Final): "One flame, and your mother's life's work becomes ash."
+E31-086 [02:31.50-02:35.20] ACTION: Juliana recoils back against the hard dungeon wall, gasping for breath in raw terror as the searing iron stops inches from her eyes.
+
+NEXT_EPISODE_OPENING (E32, first 30 s; continuation only):
+E32-002 [00:00.00-00:02.80] SFX: Sizzling, crackling sound of scorched parchment paper.
+E32-004 [00:03.80-00:05.20] DIALOGUE CATHERINE (Mocking, Savoring): "There it is."
+E32-006 [00:07.50-00:09.20] DIALOGUE CATHERINE (Whispering, Venomous): "Fear."
+E32-008 [00:09.80-00:13.20] DIALOGUE CATHERINE (Taunting): "You have been so proud of that brave little face..."
+E32-010 [00:13.40-00:15.80] DIALOGUE CATHERINE (Smug, Dominant): "...but now you are afraid."
+E32-013 [00:16.20-00:18.80] DIALOGUE CATHERINE (Cruel, Final): "Say goodbye to your mother."
+E32-015 [00:18.80-00:20.50] ACTION: Juliana's despair suddenly solidifies. Her jaw tightens, tears stopping as resolve takes over.
+E32-017 [00:20.20-00:22.00] DIALOGUE JULIANA (Defiant, Unbroken): "Burn it."
+E32-020 [00:23.80-00:24.80] DIALOGUE CATHERINE (Disconcerted): "What?"
+E32-022 [00:25.80-00:28.80] DIALOGUE JULIANA (Firm, Resolute): "Burn the ledger. Burn every page."
+E32-024 [00:29.80-00:32.80] DIALOGUE JULIANA (Steely, Proud): "You may destroy the book..."
+
+Return up to 1 promos for E31 as JSON.

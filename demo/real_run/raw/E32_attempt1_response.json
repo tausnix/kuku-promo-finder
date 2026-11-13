@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: shocking_line at E32-034\", \"segments\": [{\"start_id\": \"E32-034\", \"end_id\": \"E32-060\"}], \"hook_id\": \"E32-034\", \"hook_quote\": \"You still think you are better?!\", \"cliffhanger_id\": \"E32-060\", \"cliffhanger_quote\": \"Your soldier?\", \"hook_type\": \"shocking_line\", \"why\": \"Rules only: hook signals [delivery:rage, delivery:shouting, exclamation], cliff signals [unanswered question].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "22d617bdcf955e99384a0f8d90e23749c469e0925713d4c67b94863f1447c5a0"
+}

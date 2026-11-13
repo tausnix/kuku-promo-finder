@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: shocking_line at E43-009\", \"segments\": [{\"start_id\": \"E43-009\", \"end_id\": \"E43-046\"}], \"hook_id\": \"E43-009\", \"hook_quote\": \"I said arrest him!\", \"cliffhanger_id\": \"E43-046\", \"cliffhanger_quote\": \"No...\", \"hook_type\": \"shocking_line\", \"why\": \"Rules only: hook signals [delivery:rage, delivery:shouting, exclamation], cliff signals [trailing line].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "2fad0eff49c04de3e1566432c98a3c08139cb6afaf7ebdf943ec118ae67755e2"
+}

@@ -1,0 +1,87 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E27
+EPISODE_DURATION: 02:30.50
+LOGLINE: The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert and Catherine storm the bedchamber and frame her for poisoning the Duchess.
+CONTINUITY: Picks up immediately from Episode 26's cliffhanger where the Dowager Duchess gripped Juliana's hand upon recognizing the family signet ring, frantically questioning her origin.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E27-081: threat, reveal, reveal, delivery:menace
+- E27-083: delivery:rage, delivery:anguish, exclamation
+- E27-073: threat
+- E27-075: threat
+- E27-077: threat
+- E27-020: delivery:anguish, exclamation
+Possible cliffhangers:
+- E27-043: open question, unanswered question
+- E27-028: interruption
+- E27-091: episode ending
+- E27-093: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E27-002 [00:01.30-00:03.20] DIALOGUE DOWAGER DUCHESS (Shaken, Breathless): "This ring..."
+E27-004 [00:03.40-00:05.80] DIALOGUE DOWAGER DUCHESS (Urgent, Demanding): "Look at me, girl. Who gave this to you?"
+E27-006 [00:06.40-00:09.30] DIALOGUE JULIANA (Hesitant, Sincere): "My husband. He gave it to me when we wed."
+E27-008 [00:09.70-00:12.80] DIALOGUE DOWAGER DUCHESS (Incredulous, Intense): "He is no commoner. What does he do?"
+E27-010 [00:13.40-00:16.40] DIALOGUE JULIANA (Earnest, Defending): "He is a soldier. A veteran from the Peninsula."
+E27-012 [00:17.20-00:21.20] DIALOGUE DOWAGER DUCHESS (Trembling, Revelatory): "That is no ordinary band. It bears the Ashbourne crest."
+E27-014 [00:21.80-00:25.80] DIALOGUE JULIANA (Confused, Gentle): "No. He lives in a barn. He has nothing but his word."
+E27-016 [00:26.60-00:31.40] DIALOGUE DOWAGER DUCHESS (Emotionally Strained, Weeping): "My lost son wore that exact ring. He went to war..."
+E27-018 [00:32.10-00:34.80] DIALOGUE JULIANA (Shocked, Breathless): "Your son? He told me he was only a sergeant."
+E27-020 [00:35.20-00:37.60] DIALOGUE DOWAGER DUCHESS (Desperate, Clinging): "My lost son wore that ring!"
+E27-022 [00:37.80-00:40.20] DIALOGUE DOWAGER DUCHESS (O.S., Pleading): "Did your husband serve beside him?"
+E27-023 [00:41.00-00:44.20] DIALOGUE JULIANA (Soft, Reverent): "He never spoke of his officers. He only spoke of survival."
+E27-025 [00:44.50-00:46.40] DIALOGUE DOWAGER DUCHESS (Hushed, Desperate): "What is your husband's name?"
+E27-026 [00:46.40-00:48.30] SFX: Loud, violent pounding echoes on the wooden double doors.
+E27-028 [00:48.80-00:51.50] ACTION: The heavy mahogany double doors burst open, revealing the Blond Nobleman flanked by Lady Catherine and a royal guard in uniform.
+E27-031 [00:52.20-00:55.60] DIALOGUE LADY CATHERINE (Sharp, Accusatory): "What is that maid doing in Her Grace's private chamber?"
+E27-033 [00:56.80-00:58.40] DIALOGUE JULIANA (Calm, Defiant): "She needed help."
+E27-035 [01:00.00-01:01.80] DIALOGUE LADY CATHERINE (Piercing, Suspicious): "What are you hiding?"
+E27-037 [01:02.20-01:03.50] DIALOGUE JULIANA (Firm): "Nothing."
+E27-039 [01:04.80-01:06.40] DIALOGUE LADY CATHERINE (Demanding, Harsh): "Show me your hand."
+E27-041 [01:06.60-01:10.10] DIALOGUE BLOND NOBLEMAN (Cold, Authoritative): "Girl. Show me what you are holding."
+E27-043 [01:12.60-01:13.70] DIALOGUE BLOND NOBLEMAN (Skeptical): "What is this?"
+E27-044 [01:13.80-01:14.80] DIALOGUE JULIANA (Steady): "Medicine."
+E27-046 [01:15.20-01:17.80] DIALOGUE LADY CATHERINE (Mocking, Condescending): "Medicine? You are a new maid."
+E27-048 [01:18.10-01:20.50] DIALOGUE LADY CATHERINE (Incredulous, Accusing): "Who permitted you to give medicine to the Duchess?"
+E27-050 [01:21.00-01:22.00] DIALOGUE JULIANA (Quiet, Resolute): "No one."
+E27-052 [01:23.60-01:26.40] DIALOGUE LADY CATHERINE (Spiteful, Indignant): "Then you administered it without permission."
+E27-054 [01:26.50-01:27.80] DIALOGUE JULIANA (Passionate, Urgent): "Because she was dying!"
+E27-056 [01:28.20-01:32.40] DIALOGUE BLOND NOBLEMAN (Cold, Interrogating): "And you decided you knew better than every physician in this house?"
+E27-058 [01:33.30-01:34.90] DIALOGUE JULIANA (Fierce): "The physicians were not saving her!"
+E27-060 [01:35.30-01:37.70] DIALOGUE BLOND NOBLEMAN (O.S., Measured, Menacing): "My aunt has been wasting away for months."
+E27-062 [01:38.80-01:43.40] DIALOGUE BLOND NOBLEMAN (Smooth, Threatening): "And now we find an unknown maid alone beside her bed..."
+E27-064 [01:44.20-01:47.50] DIALOGUE BLOND NOBLEMAN (O.S., Contemptuous): "...holding a substance no one authorized her to give."
+E27-066 [01:48.30-01:49.80] DIALOGUE JULIANA (Unyielding): "It is an antidote."
+E27-068 [01:50.30-01:51.80] DIALOGUE LADY CATHERINE (Sharp, Provocative): "An antidote to what?"
+E27-070 [01:53.20-01:54.30] DIALOGUE BLOND NOBLEMAN (O.S., Stern, Barked): "Answer her."
+E27-073 [01:55.10-01:56.50] DIALOGUE JULIANA (Unyielding, Resolute): "Poison."
+E27-075 [01:58.70-01:59.80] DIALOGUE BLOND NOBLEMAN (Whispering, Dangerous): "Poison."
+E27-077 [02:00.40-02:02.60] DIALOGUE JULIANA (Urgent): "Someone has been poisoning Her Grace."
+E27-079 [02:03.10-02:04.50] DIALOGUE LADY CATHERINE (Shrieking, Feigning Horror): "You hear that?!"
+E27-081 [02:04.80-02:08.40] DIALOGUE LADY CATHERINE (Venomous, Accusing): "She admits she has been giving the Duchess poison in secret!"
+E27-083 [02:08.70-02:10.80] DIALOGUE JULIANA (Desperate, Outraged): "That is not what I said!"
+E27-085 [02:11.20-02:12.60] DIALOGUE BLOND NOBLEMAN (Authoritative, Icy): "Enough."
+E27-087 [02:14.80-02:18.50] ACTION: The Blond Nobleman takes the medicine vial from Juliana's grasp, inspecting it under the candlelight.
+E27-088 [02:16.20-02:19.30] DIALOGUE BLOND NOBLEMAN (Cold, Calculating): "An unknown servant enters a restricted chamber."
+E27-090 [02:19.60-02:23.80] DIALOGUE BLOND NOBLEMAN (Condemning, Vindictive): "She secretly administers an unidentified substance to a helpless woman."
+E27-091 [02:24.00-02:24.90] DIALOGUE BLOND NOBLEMAN (To Guard, Stern): "Take her."
+E27-093 [02:25.00-02:28.00] ACTION: The guard twists Juliana around and drags her forcibly toward the doorway as she struggles against his grip.
+
+NEXT_EPISODE_OPENING (E28, first 30 s; continuation only):
+E28-002 [00:00.00-00:02.10] ACTION: Juliana struggles against the guard's grip; the leather-bound herbarium slips from her apron pocket and falls to the stone floor.
+E28-003 [00:01.80-00:03.20] SFX: Heavy thud of the leather journal hitting the polished floor.
+E28-005 [00:03.20-00:04.60] ACTION: Catherine plants her embroidered shoe deliberately atop the fallen book.
+E28-007 [00:04.90-00:06.30] DIALOGUE CATHERINE (Mocking, Cruel): "Look at her, Rupert."
+E28-008 [00:06.60-00:08.10] DIALOGUE CATHERINE (Scoffing): "Soot on her face..."
+E28-010 [00:08.40-00:10.00] DIALOGUE CATHERINE (Accusing, Smug): "...herbs in her pockets..."
+E28-011 [00:10.20-00:12.30] DIALOGUE CATHERINE (Cold): "...a secret medicine in her hand."
+E28-013 [00:12.70-00:15.00] DIALOGUE CATHERINE (Venomous): "She looks exactly like a poisoner."
+E28-015 [00:15.30-00:18.40] DIALOGUE JULIANA (Furious, Defiant): "I did not poison her! Look at her eyes, the fever has broken!"
+E28-017 [00:18.90-00:20.30] DIALOGUE BLOND NOBLEMAN (Sardonic, Chilling): "A clever story, girl."
+E28-018 [00:20.40-00:22.70] DIALOGUE BLOND NOBLEMAN (Threatening): "But the guards know how to extract the truth."
+E28-020 [00:24.80-00:26.50] DIALOGUE DOWAGER DUCHESS (Weak, Straining): "Rupert..."
+E28-022 [00:26.70-00:28.20] DIALOGUE DOWAGER DUCHESS (O.S., Commanding): "Stop this!"
+E28-024 [00:28.80-00:30.30] DIALOGUE DOWAGER DUCHESS (Desperate, Firm): "She is innocent."
+
+Return up to 1 promos for E27 as JSON.

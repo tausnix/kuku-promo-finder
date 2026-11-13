@@ -1,0 +1,71 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E15
+EPISODE_DURATION: 01:26.00
+LOGLINE: When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her.
+CONTINUITY: Follows Episode 14 where Alexander solemnly vowed Juliana would never be hurt again; Juliana's hands remain heavily bandaged from retrieving the emerald ring.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E15-031: confrontation, delivery:menace, exclamation
+- E15-014: delivery:rage, exclamation
+- E15-041: delivery:menace, exclamation
+- E15-043: delivery:shouting, exclamation
+- E15-004: physical
+- E15-034: violence
+Possible cliffhangers:
+- E15-055: scripted cliffhanger, sound sting, episode ending
+- E15-053: unanswered question, episode ending
+- E15-048: shock beat, trailing line
+- E15-009: shock beat
+- E15-035: shock beat
+
+SCRIPT_LINES (camera directions omitted):
+E15-002 [00:00.00-00:03.50] ACTION: Three menacing thugs, armed with clubs and tools, stalk through the quiet herbal garden surrounded by stone walls.
+E15-004 [00:03.60-00:04.90] ACTION: The thug brutally smashes his club down into a wooden planter box, shattering the frame.
+E15-005 [00:03.80-00:04.90] SFX: A splintering wooden crash echoing through the night air.
+E15-007 [00:05.10-00:07.40] ACTION: The bald thug roughly rips a massive handful of flowering herbs up by their roots, scattering soil across the path.
+E15-009 [00:07.60-00:11.80] ACTION: Juliana bursts through the cottage doorway, her hands wrapped in clean white bandages, freezing in horror at the destruction.
+E15-010 [00:08.50-00:11.70] DIALOGUE JULIANA (Desperate, Alarmed): "Stop! What are you doing?!"
+E15-012 [00:13.00-00:15.70] DIALOGUE THUG WITH CAP (Mocking, Smug): "We're clearing this rubbish."
+E15-014 [00:16.40-00:18.70] DIALOGUE JULIANA (Furious, Pleading): "Those are medicinal plants!"
+E15-016 [00:20.00-00:22.30] DIALOGUE BALD THUG (Callous): "They look like weeds to me."
+E15-017 [00:20.50-00:22.50] ACTION: The bald thug flings the bouquet into the mud and grinds his heavy boot directly onto the delicate flowers.
+E15-019 [00:22.80-00:26.50] ACTION: Juliana frantically tries to scoop the crushed soil and torn stems back into the bed with her bandaged hands.
+E15-020 [00:23.20-00:26.30] DIALOGUE JULIANA (Choked with Tears, Desperate): "Please! Those plants took months to grow!"
+E15-022 [00:27.50-00:31.20] DIALOGUE TALL THUG (Contemptuous, Derisive): "Months? You actually spend your days growing this filth?"
+E15-025 [00:34.80-00:36.80] DIALOGUE JULIANA (Defiant, Firm): "Leave my garden alone."
+E15-027 [00:37.20-00:40.40] DIALOGUE THUG WITH CAP (Sneering, Disdainful): "A noble lady playing in the dirt. What a joke."
+E15-029 [00:41.00-00:44.00] DIALOGUE JULIANA (Resolute, Dignified): "It is my home. You have no right to destroy anything here."
+E15-031 [00:44.80-00:46.40] DIALOGUE THUG WITH CAP (Menacing Snarl): "Get out of the way!"
+E15-033 [00:46.50-00:47.30] DIALOGUE JULIANA (Steely, Fearless): "No."
+E15-034 [00:47.40-00:49.50] ACTION: The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and crashes hard onto the wet stone path.
+E15-035 [00:47.80-00:49.00] DIALOGUE JULIANA (Gasping Cry): "Ah!"
+E15-037 [00:50.00-00:53.50] ACTION: Juliana crawls forward on her elbows; fresh crimson blood seeps profusely through her white gauze bandages as she reaches for the ruined blossoms.
+E15-039 [00:53.50-00:55.70] DIALOGUE JULIANA (Broken, Sobbing): "My mother's plants..."
+E15-041 [00:57.30-00:59.80] DIALOGUE BALD THUG (Cruel, Laughing): "Look at her! Crying over weeds!"
+E15-042 [01:00.00-01:02.00] ACTION: The Tall Thug hoists his heavy wooden club above his head to crush the remaining herbs right before Juliana.
+E15-043 [01:00.00-01:01.00] DIALOGUE JULIANA (Screaming): "Stop!"
+E15-046 [01:03.50-01:07.50] ACTION: Alexander storms forward with lethal intensity, dark hair flying, breath misting in the cold, radiating untamed rage.
+E15-048 [01:10.50-01:12.60] DIALOGUE JULIANA (Whispered Breath, Stunned): "Alexander..."
+E15-051 [01:16.00-01:18.50] ACTION: Alexander places himself directly between Juliana and the three thugs, staring them down with cold, deadly intent.
+E15-053 [01:19.00-01:22.40] DIALOGUE THUG WITH CAP (Challenging, Arrogant): "What? You want to fight us, veteran?"
+E15-055 [01:24.00-01:26.00] SFX: Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.
+
+NEXT_EPISODE_OPENING (E16, first 30 s; continuation only):
+E16-002 [00:00.00-00:02.10] ACTION: Alexander stands tall and unyielding, blocking the path to Juliana, while the Thug with Cap steps forward clutching an iron pipe.
+E16-004 [00:02.10-00:04.20] DIALOGUE THUG WITH CAP (Menacing, Goading): "Move aside, soldier."
+E16-007 [00:06.40-00:08.80] DIALOGUE THUG WITH CAP (Furious, Shouting): "I said, move!"
+E16-010 [00:11.20-00:12.70] DIALOGUE JULIANA (Frightened, Whispering): "Alexander..."
+E16-011 [00:13.10-00:14.30] DIALOGUE ALEXANDER (Calm, Protective): "Stay behind me."
+E16-013 [00:14.40-00:15.50] DIALOGUE THUG WITH CAP (Roaring): "Aaargh!"
+E16-014 [00:14.40-00:16.80] ACTION: The thug swings the club down with full force, but Alexander catches the weapon mid-air in his bare hand with chilling ease.
+E16-015 [00:15.80-00:16.50] SFX: Heavy blunt impact of a solid hand gripping wood.
+E16-017 [00:19.20-00:21.80] ACTION: Alexander strikes the thug across the chest and slams him violently into the muddy ground beside the stone wall.
+E16-018 [00:19.80-00:21.20] SFX: Heavy thud of a body crashing into soil and wood.
+E16-021 [00:23.00-00:23.80] DIALOGUE BALD THUG (Yelling): "Aaargh!"
+E16-022 [00:24.20-00:25.50] SFX: Loud wooden scrape and crunch as the Bald Thug slides across the planks into the fence.
+E16-024 [00:25.80-00:27.10] DIALOGUE THIRD THUG (Desperate, Shouting): "Stay back!"
+E16-025 [00:26.50-00:28.50] ACTION: Alexander deflects the strike with his forearm, drives a swift counter-blow into the thug's torso, and spins him violently to the ground.
+E16-026 [00:27.00-00:28.20] SFX: Solid bone-and-fist impact followed by a groaning thud.
+
+Return up to 1 promos for E15 as JSON.

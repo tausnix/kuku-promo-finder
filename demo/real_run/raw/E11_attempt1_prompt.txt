@@ -1,0 +1,76 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E11
+EPISODE_DURATION: 01:52.75
+LOGLINE: Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threatens to tear the newlyweds apart.
+CONTINUITY: Picks up immediately after the intimate moment between Juliana and Alexander in Episode 10, interrupted by the ominous arrival of an aristocratic carriage carrying Gerald.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E11-022: delivery:rage, delivery:contempt, exclamation
+- E11-040: delivery:shouting, delivery:anguish, exclamation
+- E11-014: delivery:rage, exclamation
+- E11-032: delivery:shouting, exclamation
+- E11-077: delivery:shouting, exclamation
+- E11-024: delivery:menace, delivery:contempt
+Possible cliffhangers:
+- E11-018: shock beat, unanswered question
+- E11-004: ominous
+
+SCRIPT_LINES (camera directions omitted):
+E11-002 [00:00.00-00:02.00] SFX: Squelch of mud and the grinding rattle of carriage wheels under heavy rain.
+E11-004 [00:02.00-00:04.00] ACTION: Juliana wrings a damp rag in her hands, her face etched with rising dread, while Alexander stands guard beside her.
+E11-006 [00:05.50-00:07.00] ACTION: Gerald buttons his coat, smug self-satisfaction radiating from his expression.
+E11-009 [00:08.30-00:10.70] DIALOGUE JULIANA (Startled, Indignant): "Gerald? What are you doing here?"
+E11-011 [00:11.10-00:13.20] DIALOGUE GERALD (Arrogant, Smooth): "I came for something that belongs to me."
+E11-014 [00:14.40-00:16.70] DIALOGUE JULIANA (Furious, Defiant): "You have already taken enough from me. Leave!"
+E11-016 [00:16.80-00:18.70] DIALOGUE GERALD (Aggressive, Snarl): "Your husband stole my gold pocket watch!"
+E11-018 [00:19.00-00:20.00] DIALOGUE JULIANA (Incredulous, Gasping): "What? When?"
+E11-020 [00:20.90-00:22.30] DIALOGUE GERALD (Cold, Certain): "The last time I came here."
+E11-022 [00:23.00-00:24.80] DIALOGUE JULIANA (Contemptuous, Outraged): "You never even entered the cottage!"
+E11-024 [00:25.20-00:27.00] DIALOGUE GERALD (Smug, Threatening): "Then you should have nothing to fear from a search."
+E11-026 [00:27.30-00:29.00] DIALOGUE JULIANA (Adamant, Protective): "Alexander would never steal from you."
+E11-028 [00:29.30-00:32.80] DIALOGUE GERALD (Mocking, Spiteful): "Of course you would defend him. You married a beggar!"
+E11-030 [00:33.00-00:34.90] DIALOGUE ALEXANDER (Low, Menacing): "Choose your next words carefully."
+E11-032 [00:35.10-00:37.10] DIALOGUE GERALD (Shouting, Dramatic): "You hear that? He threatens me again!"
+E11-034 [00:37.40-00:39.20] DIALOGUE CONSTABLE (Authoritative, Stern): "I have received a complaint of theft."
+E11-036 [00:39.70-00:41.10] DIALOGUE JULIANA (Fierce): "A complaint is not proof."
+E11-038 [00:41.40-00:43.30] DIALOGUE CONSTABLE (Cold, Procedural): "Then a search will settle the matter."
+E11-040 [00:43.50-00:46.30] DIALOGUE JULIANA (Desperate, Shouting): "You cannot simply invade our home because this man makes an accusation!"
+E11-042 [00:46.80-00:48.30] DIALOGUE GERALD (Taunting): "If he has nothing to hide..."
+E11-044 [00:48.40-00:50.00] DIALOGUE GERALD (O.S., Smug): "...let the constable search."
+E11-045 [00:50.10-00:51.00] DIALOGUE ALEXANDER (Dark, Grated): "Search it."
+E11-047 [00:52.80-00:53.60] DIALOGUE ALEXANDER (Resigned, Calm): "Let them."
+E11-049 [00:54.50-00:56.50] SFX: Heavy thud of boots entering wooden floorboards, followed by forceful banging of furniture.
+E11-050 [00:56.00-00:58.00] ACTION: The Constable begins violently overturning crates and dumping contents across the floor.
+E11-052 [00:58.00-01:00.10] DIALOGUE JULIANA (Distressed, Pleading): "Stop! Those are my mother's medicines!"
+E11-053 [01:00.00-01:01.80] ACTION: The Constable aggressively pulls folded bed linens from a shelf and hurls them onto the damp floor.
+E11-055 [01:01.80-01:03.80] DIALOGUE JULIANA (Crying, Desperate): "Please! There is nothing here!"
+E11-057 [01:03.90-01:05.70] DIALOGUE CONSTABLE (Cold, Indifferent): "Then you have nothing to fear."
+E11-059 [01:06.00-01:07.50] DIALOGUE JULIANA (Heartbroken, Sobbing): "Those are all I have left!"
+E11-061 [01:07.50-01:11.60] DIALOGUE GERALD (Cruel, Condescending): "Stand aside. Look at this place. A perfect hiding hole for a thief."
+E11-063 [01:12.10-01:15.00] DIALOGUE JULIANA (Furious, Accusatory): "You planted this accusation because you cannot bear that I am happy without you!"
+E11-065 [01:15.50-01:16.80] DIALOGUE GERALD (Scoffing, Sinister): "Happy?"
+E11-069 [01:21.30-01:24.00] DIALOGUE GERALD (Provoking, Smirking): "What is it, soldier? Going to strike a gentleman in front of his wife?"
+E11-070 [01:24.20-01:25.00] DIALOGUE JULIANA (Whispering, Terrified): "Don't!"
+E11-072 [01:26.00-01:27.50] DIALOGUE ALEXANDER (V.O., Haunted, Resolute): "One blow would end this."
+E11-074 [01:28.00-01:30.00] DIALOGUE ALEXANDER (V.O., Pained, Selfless): "But one blow would destroy her life."
+E11-076 [01:31.00-01:32.20] ACTION: The Constable grabs the coat by the collar and begins rummaging through its deep pockets.
+E11-077 [01:32.10-01:33.20] DIALOGUE JULIANA (Startled, Shouting): "That is his coat!"
+E11-079 [01:35.80-01:37.00] SFX: Metallic clinking of the gold chain sliding against fabric.
+E11-081 [01:37.20-01:39.00] ACTION: Juliana draws a sharp, terrified breath as her face pales completely.
+E11-084 [01:44.20-01:46.60] DIALOGUE GERALD (Gloating, Victorious): "There it is. Ha!"
+
+NEXT_EPISODE_OPENING (E12, first 30 s; continuation only):
+E12-002 [00:00.50-00:04.50] DIALOGUE CONSTABLE (Authoritative, Stern): "Put out your hands, veteran. You are under arrest for theft."
+E12-004 [00:04.80-00:06.00] ACTION: Juliana steps firmly forward, shielding Alexander with her body.
+E12-005 [00:05.70-00:08.80] DIALOGUE JULIANA (Furious, Defiant): "No! That watch was not in his coat!"
+E12-007 [00:10.00-00:11.70] DIALOGUE CONSTABLE (Blunt, Unyielding): "I found it there myself."
+E12-009 [00:12.30-00:13.90] DIALOGUE JULIANA (Passionate, Accusatory): "Then someone put it there!"
+E12-011 [00:14.30-00:20.60] DIALOGUE GERALD (Smug, Condescending): "The proof is in his coat, Juliana. A valuable pocket watch doesn't just walk into a beggar's pocket."
+E12-013 [00:21.60-00:23.60] DIALOGUE ALEXANDER (Low, Steady, Dangerous): "I have never touched your property."
+E12-015 [00:23.70-00:26.80] DIALOGUE GERALD (Mocking, Malicious): "Then perhaps your wife should explain why it was found in your coat."
+E12-016 [00:26.80-00:28.00] ACTION: Juliana lunges a step forward, jabbing an accusing finger toward Gerald.
+E12-017 [00:26.80-00:27.90] DIALOGUE JULIANA (Enraged, Shouting): "You planted it!"
+E12-019 [00:28.10-00:30.00] DIALOGUE CLARISSA (Purring, Taunting): "Oh, dear sister..."
+
+Return up to 1 promos for E11 as JSON.

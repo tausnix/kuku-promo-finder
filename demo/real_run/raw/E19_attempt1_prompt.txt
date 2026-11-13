@@ -1,0 +1,69 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E19
+EPISODE_DURATION: 01:59.63
+LOGLINE: Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a loyal spy, learning that his usurping enemies have imprisoned his mother and claimed his ducal seat.
+CONTINUITY: Picks up directly from Episode 18's devastating fire; Juliana and Alexander stand amidst the morning ruins of Blackwood cottage with her mother's surviving herbal book before retreating to an abandoned barn.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E19-045: threat
+- E19-035: reveal
+Possible cliffhangers:
+- (none)
+
+SCRIPT_LINES (camera directions omitted):
+E19-002 [00:00.00-00:04.50] ACTION: Juliana clutches her mother's scorched leather-bound herbal book against her chest, her face streaked with soot as she stares at the ruin in disbelief.
+E19-003 [00:01.80-00:03.50] DIALOGUE JULIANA (Sorrowful, Hollow): "This was our home."
+E19-005 [00:05.10-00:08.20] DIALOGUE JULIANA (Emotional, Fragile): "My mother's book almost burned with it."
+E19-006 [00:06.50-00:09.20] ACTION: Juliana tenderly lifts a scorched corner of parchment, revealing the surviving botanical drawing of medicinal herbs inside.
+E19-009 [00:12.10-00:15.20] DIALOGUE ELDER VILLAGER (Respectful, Sincere): "My lady. You cannot stay here."
+E19-011 [00:16.10-00:19.00] DIALOGUE ELDER VILLAGER (O.S.): "There is an old barn near the village. It is empty."
+E19-012 [00:18.50-00:20.50] ACTION: The elder villager steps closer, resting a gentle, reassuring hand on Juliana's shoulder.
+E19-013 [00:19.40-00:20.40] DIALOGUE ELDER VILLAGER (Gentle, Earnest): "Take it."
+E19-014 [00:20.60-00:22.60] DIALOGUE JULIANA (Hesitant, Humble): "We cannot ask the village to feed us."
+E19-015 [00:23.20-00:25.20] DIALOGUE ELDER VILLAGER (Warm, Grateful): "You saved my son's life."
+E19-017 [00:26.40-00:27.80] DIALOGUE ELDER VILLAGER (O.S.): "You saved mine, too."
+E19-019 [00:28.50-00:29.80] DIALOGUE JULIANA (Whispering, Tearful): "Thank you."
+E19-020 [00:30.80-00:34.50] ACTION: Alexander steps forward and accepts the thick folded blankets and a wooden bucket from the villager.
+E19-021 [00:31.20-00:33.20] DIALOGUE ALEXANDER (Deep, Solemn): "We will not forget this kindness."
+E19-022 [00:33.30-00:34.80] DIALOGUE ELDER VILLAGER (Nodding, Earnest): "Neither will the village."
+E19-024 [00:35.50-00:37.40] DIALOGUE JULIANA (Choked Up, Mournful): "Goodbye, Blackwood."
+E19-025 [00:38.00-00:41.50] ACTION: Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black.
+E19-027 [00:43.00-00:46.00] ACTION: A bald, scarred man dressed in a dark coat emerges from between the trees, immediately coming to a halt and bowing with clasped hands in formal deference.
+E19-028 [00:44.30-00:45.80] DIALOGUE INFORMANT (Subservient, Urgent): "Your Grace."
+E19-030 [00:47.10-00:49.20] DIALOGUE ALEXANDER (Authoritative, Direct): "Tell me what is happening in Ashburg."
+E19-031 [00:49.50-00:54.80] DIALOGUE INFORMANT (Grave, Cautious): "Lord Sterling's influence has grown since your disappearance. He has men in the county offices, the courts, even among the household staff."
+E19-033 [00:55.30-01:01.30] DIALOGUE INFORMANT (O.S.): "Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him."
+E19-035 [01:01.60-01:04.80] DIALOGUE INFORMANT (Earnest): "And Lady Catherine, she behaves as though she is already the future duchess."
+E19-037 [01:05.10-01:10.50] DIALOGUE INFORMANT (Whispering, Alarmed): "But they have separated her from the household. She is watched constantly. Every letter she sends is checked. Every visitor is questioned."
+E19-039 [01:10.90-01:13.20] DIALOGUE INFORMANT (O.S.): "There are almost no loyal servants left around her."
+E19-041 [01:13.50-01:16.40] DIALOGUE INFORMANT (Grave): "The people who served your family for years have been dismissed, frightened away, or replaced."
+E19-042 [01:16.20-01:18.80] ACTION: Alexander lifts his gaze toward the cold forest canopy, his breathing heavy with profound anguish.
+E19-043 [01:16.50-01:18.80] DIALOGUE ALEXANDER (Cold, Pained Fury): "My mother is a prisoner in her own house."
+E19-045 [01:19.00-01:21.00] DIALOGUE INFORMANT (Quiet, Solemn): "And everyone believes you are dead."
+E19-047 [01:21.50-01:23.70] DIALOGUE ALEXANDER (Lethal, Calculating): "Then let them believe it a little longer."
+E19-048 [01:24.00-01:25.50] DIALOGUE INFORMANT (Inquiring, Tense): "And when we have the proof?"
+E19-050 [01:25.90-01:28.90] DIALOGUE ALEXANDER (Vow of Vengeance, Resolute): "Then Ashburg will remember who it belongs to."
+E19-054 [01:37.20-01:40.00] ACTION: The heavy wooden barn doors creak open. Alexander steps into the lantern light, carrying a bundle of firewood and a thick blanket under his arm.
+E19-055 [01:37.40-01:39.40] DIALOGUE JULIANA (O.S.): "We have lost everything."
+E19-057 [01:40.40-01:42.60] DIALOGUE JULIANA (Despairing, Broken): "I don't know what we will do tomorrow."
+E19-058 [01:43.00-01:46.00] ACTION: Alexander steps up behind her and gently drapes the thick woolen blanket over her trembling shoulders, resting his hands reassuringly on her.
+E19-059 [01:44.20-01:46.20] DIALOGUE ALEXANDER (Soft, Steadfast): "Tomorrow, we begin again."
+E19-061 [01:47.30-01:49.20] DIALOGUE JULIANA (Faint Smile, Emotional): "You make it sound so simple."
+E19-062 [01:49.80-01:52.50] ACTION: Alexander sits down beside her in the straw. Juliana leans gently against his shoulder, letting her weary head rest against his broad chest.
+
+NEXT_EPISODE_OPENING (E20, first 30 s; continuation only):
+E20-003 [00:02.90-00:04.40] DIALOGUE CATHERINE (Smug, Prim): "Two lumps of sugar, Rupert?"
+E20-004 [00:04.60-00:07.80] DIALOGUE CATHERINE (Taunting, Silkily): "Or has your sudden climb to power sweetened your taste already?"
+E20-006 [00:08.20-00:10.80] DIALOGUE RUPERT (Flirtatious, Sly): "Only if it sweetens your disposition, Catherine."
+E20-008 [00:10.90-00:12.70] DIALOGUE RUPERT (Boastful, Confident): "The estate is practically ours."
+E20-009 [00:12.80-00:15.10] DIALOGUE RUPERT (Smug): "The succession papers are being finalized as we speak."
+E20-011 [00:15.40-00:18.70] DIALOGUE CATHERINE (Cold, Haughty): "'Practically' is a word for beggars. I do not marry a practical Duke."
+E20-012 [00:18.80-00:20.10] DIALOGUE CATHERINE (Stern, Ambitious): "I marry the Lord of Ashbury."
+E20-014 [00:20.10-00:21.20] DIALOGUE RUPERT (Reassuring, Firm): "And so you shall."
+E20-015 [00:21.30-00:24.20] DIALOGUE RUPERT (Dark, Conspiratorial): "Once my cousin Alexander's death is formally sealed by the Crown..."
+E20-016 [00:24.30-00:25.40] DIALOGUE RUPERT (Decisive): "...the title is mine."
+E20-018 [00:25.50-00:28.20] DIALOGUE CATHERINE (Wary, Inquiring): "And what of the Dowager? The old woman still breathes."
+E20-019 [00:28.30-00:30.20] DIALOGUE CATHERINE (Disdainful): "Her shadow still hangs over this house."
+
+Return up to 1 promos for E19 as JSON.

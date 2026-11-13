@@ -1,0 +1,56 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E26
+EPISODE_DURATION: 02:00.88
+LOGLINE: While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity.
+CONTINUITY: Following her encounter with Alexander in the forest where she vowed to protect the Duchess, Juliana sneaks into the bedchamber at Ashburg Manor to deliver the remaining antidote before Rupert and Catherine's poison takes full hold.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E26-026: threat, threat, delivery:anguish
+- E26-002: reveal
+- E26-006: reveal
+- E26-012: reveal
+- E26-024: reveal
+- E26-028: threat
+Possible cliffhangers:
+- E26-008: open question
+- E26-036: shock beat
+- E26-049: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E26-002 [00:00.00-00:05.50] ACTION: Juliana glances nervously back toward the door, ensuring no guards are near, before turning her full attention back to the ailing Duchess.
+E26-004 [00:06.50-00:09.00] SFX: Tense, atmospheric orchestral score builds softly in the background.
+E26-006 [00:11.00-00:14.00] ACTION: The Dowager Duchess blinks against the dim lamplight, turning her head toward Juliana.
+E26-008 [00:14.20-00:20.20] DIALOGUE DOWAGER DUCHESS (Weak, Raspy): "Who are you? Speak to me. I have not seen your face before."
+E26-010 [00:20.60-00:25.40] DIALOGUE JULIANA (Urgent, Reassuring): "Please, Your Grace. Drink the last of this antidote. Drink it slowly."
+E26-012 [00:25.80-00:28.40] ACTION: The Duchess swallows the remedy with difficulty as Juliana carefully tilts the amber bottle.
+E26-015 [00:30.80-00:35.50] DIALOGUE DOWAGER DUCHESS (Faint, Discerning): "You... you are no common servant. You took Catherine's whip for me the other day."
+E26-017 [00:36.00-00:39.80] DIALOGUE JULIANA (Humble, Sincere): "I did what I had to. It does not change my duty."
+E26-019 [00:40.30-00:43.00] DIALOGUE JULIANA (Gentle, Calming): "Rest now, Your Grace. You are safe tonight."
+E26-021 [00:43.50-00:47.00] DIALOGUE JULIANA (Hushed, Tense Whisper): "If the guards hear us, we are both dead."
+E26-024 [00:52.50-00:55.50] ACTION: The Duchess clutches the blanket against her chest, her breathing quickening with dismay.
+E26-026 [00:56.00-01:02.00] DIALOGUE DOWAGER DUCHESS (Trembling, Heartbroken): "Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?"
+E26-028 [01:02.60-01:06.70] DIALOGUE JULIANA (Reassuring, Steadfast): "Yes. But the charcoal is fighting the poison. You are safe now."
+E26-031 [01:13.80-01:19.40] DIALOGUE DOWAGER DUCHESS (Curious, Searching): "Then tell me... why is a girl of such noble spirit working as a common maid?"
+E26-033 [01:20.00-01:25.80] DIALOGUE JULIANA (Painful, Proud): "Because my family cast me out to rot. I have nothing left in this world but my honor."
+E26-035 [01:27.00-01:30.50] ACTION: Juliana rests her right hand against the edge of the bedcover, unwittingly placing the unique ring directly within the Duchess's line of sight.
+E26-036 [01:30.20-01:32.00] SFX: A sharp, stunned gasp.
+E26-038 [01:30.80-01:35.00] ACTION: The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand.
+E26-040 [01:36.00-01:39.80] DIALOGUE DOWAGER DUCHESS (Breathless, Shaken): "Your hand... Let me see your hand."
+E26-042 [01:40.50-01:45.00] DIALOGUE JULIANA (Confused, Alarmed): "Your Grace? What is wrong? You look as though you've seen a ghost."
+E26-044 [01:46.00-01:49.00] ACTION: The Duchess reaches outward with trembling fingers, grasping frantically for Juliana.
+E26-045 [01:48.80-01:50.00] SFX: A sudden sharp rustle of fabric as her fingers snap tight.
+E26-047 [01:49.20-01:50.60] DIALOGUE DOWAGER DUCHESS (Stern, Desperate): "Do not move!"
+E26-049 [01:51.00-01:55.50] DIALOGUE DOWAGER DUCHESS (Intense, Demanding): "Where... where... Where did you get this ring? Speak to me!"
+
+NEXT_EPISODE_OPENING (E27, first 30 s; continuation only):
+E27-002 [00:01.30-00:03.20] DIALOGUE DOWAGER DUCHESS (Shaken, Breathless): "This ring..."
+E27-004 [00:03.40-00:05.80] DIALOGUE DOWAGER DUCHESS (Urgent, Demanding): "Look at me, girl. Who gave this to you?"
+E27-006 [00:06.40-00:09.30] DIALOGUE JULIANA (Hesitant, Sincere): "My husband. He gave it to me when we wed."
+E27-008 [00:09.70-00:12.80] DIALOGUE DOWAGER DUCHESS (Incredulous, Intense): "He is no commoner. What does he do?"
+E27-010 [00:13.40-00:16.40] DIALOGUE JULIANA (Earnest, Defending): "He is a soldier. A veteran from the Peninsula."
+E27-012 [00:17.20-00:21.20] DIALOGUE DOWAGER DUCHESS (Trembling, Revelatory): "That is no ordinary band. It bears the Ashbourne crest."
+E27-014 [00:21.80-00:25.80] DIALOGUE JULIANA (Confused, Gentle): "No. He lives in a barn. He has nothing but his word."
+E27-016 [00:26.60-00:31.40] DIALOGUE DOWAGER DUCHESS (Emotionally Strained, Weeping): "My lost son wore that exact ring. He went to war..."
+
+Return up to 1 promos for E26 as JSON.

@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: threat at E36-032\", \"segments\": [{\"start_id\": \"E36-032\", \"end_id\": \"E36-064\"}], \"hook_id\": \"E36-032\", \"hook_quote\": \"While the world mourned a dead heir.\", \"cliffhanger_id\": \"E36-064\", \"cliffhanger_quote\": \"Arrested?\", \"hook_type\": \"threat\", \"why\": \"Rules only: hook signals [threat, reveal], cliff signals [shock beat, unanswered question].\", \"scores\": {\"hook\": 3, \"cliffhanger\": 3, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "b9fc6d10686642d31eefd7c84d413b3ec91fda323f56e43ded919d7a0c3fbfe8"
+}

@@ -1,0 +1,56 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E10
+EPISODE_DURATION: 01:34.00
+LOGLINE: When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontation where their unspoken feelings and scarred pasts finally collide.
+CONTINUITY: Follows the ominous revelation from Episode 9 of rumors circulating about a scarred war veteran, cutting directly to the secluded cottage where Alexander arrives bearing fresh wounds.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E10-011: violence
+- E10-044: accusation
+Possible cliffhangers:
+- (none)
+
+SCRIPT_LINES (camera directions omitted):
+E10-002 [00:00.00-00:02.20] ACTION: Juliana quietly studies the botanical illustrations by firelight, a bundle of fresh dried herbs resting on the table.
+E10-003 [00:02.10-00:03.30] SFX: A heavy wooden door suddenly creaks and bangs open in the quiet cottage.
+E10-004 [00:02.20-00:03.50] ACTION: Juliana jerks her head up from the book, startled by the sudden intrusion.
+E10-007 [00:05.10-00:06.60] DIALOGUE JULIANA (Alarmed, Breathless): "Alexander!"
+E10-009 [00:07.50-00:09.00] DIALOGUE ALEXANDER (Gruff, Strained): "It is nothing."
+E10-011 [00:09.15-00:11.45] DIALOGUE JULIANA (Urgent, Worried): "There is blood running down your arm."
+E10-013 [00:11.90-00:14.30] DIALOGUE ALEXANDER (Stiff, Dismissive): "A cut from the tenant fields."
+E10-015 [00:14.50-00:16.00] DIALOGUE JULIANA (Commanding, Resolute): "Sit down."
+E10-017 [00:16.20-00:17.30] DIALOGUE JULIANA (Stern): "Now."
+E10-020 [00:20.90-00:22.90] DIALOGUE JULIANA (Gentle, Insistent): "I need to see the wound."
+E10-022 [00:23.20-00:24.90] DIALOGUE ALEXANDER (Low, Defiant): "It is only a scratch."
+E10-024 [00:25.50-00:28.00] DIALOGUE JULIANA (Sarcastic, Challenging): "Then removing your shirt should not trouble you."
+E10-030 [00:38.10-00:38.90] DIALOGUE JULIANA (Whispering, Distressed): "Dear God."
+E10-034 [00:45.30-00:47.10] DIALOGUE JULIANA (Soft, Sorrowful): "You have suffered terribly."
+E10-036 [00:47.80-00:49.00] DIALOGUE ALEXANDER (Quiet, Somber): "It is over."
+E10-038 [00:49.70-00:51.30] DIALOGUE JULIANA (Gentle): "Your scars disagree."
+E10-040 [00:52.00-00:53.30] DIALOGUE JULIANA (Tender): "Does it hurt?"
+E10-042 [00:54.00-00:55.20] DIALOGUE ALEXANDER (Gruff): "Not much."
+E10-044 [00:55.60-00:57.60] DIALOGUE JULIANA (Playful, Whispering): "You are a terrible liar."
+E10-048 [01:03.90-01:06.10] DIALOGUE JULIANA (Soft, Breathless): "Why do you look at me like that?"
+E10-050 [01:06.50-01:08.40] DIALOGUE ALEXANDER (Intense, Sincere): "Because you are looking at me."
+E10-052 [01:09.60-01:10.90] DIALOGUE JULIANA (Flustered, Whispering): "Hold still."
+E10-054 [01:12.10-01:14.20] DIALOGUE ALEXANDER (Low, Husky): "I am holding still."
+E10-056 [01:16.80-01:19.00] DIALOGUE ALEXANDER (Whispering, Vulnerable): "Perhaps it is your hand."
+E10-059 [01:22.60-01:25.90] DIALOGUE ALEXANDER (Deep, Emotional): "Your touch is the only medicine that has ever eased my pain."
+
+NEXT_EPISODE_OPENING (E11, first 30 s; continuation only):
+E11-002 [00:00.00-00:02.00] SFX: Squelch of mud and the grinding rattle of carriage wheels under heavy rain.
+E11-004 [00:02.00-00:04.00] ACTION: Juliana wrings a damp rag in her hands, her face etched with rising dread, while Alexander stands guard beside her.
+E11-006 [00:05.50-00:07.00] ACTION: Gerald buttons his coat, smug self-satisfaction radiating from his expression.
+E11-009 [00:08.30-00:10.70] DIALOGUE JULIANA (Startled, Indignant): "Gerald? What are you doing here?"
+E11-011 [00:11.10-00:13.20] DIALOGUE GERALD (Arrogant, Smooth): "I came for something that belongs to me."
+E11-014 [00:14.40-00:16.70] DIALOGUE JULIANA (Furious, Defiant): "You have already taken enough from me. Leave!"
+E11-016 [00:16.80-00:18.70] DIALOGUE GERALD (Aggressive, Snarl): "Your husband stole my gold pocket watch!"
+E11-018 [00:19.00-00:20.00] DIALOGUE JULIANA (Incredulous, Gasping): "What? When?"
+E11-020 [00:20.90-00:22.30] DIALOGUE GERALD (Cold, Certain): "The last time I came here."
+E11-022 [00:23.00-00:24.80] DIALOGUE JULIANA (Contemptuous, Outraged): "You never even entered the cottage!"
+E11-024 [00:25.20-00:27.00] DIALOGUE GERALD (Smug, Threatening): "Then you should have nothing to fear from a search."
+E11-026 [00:27.30-00:29.00] DIALOGUE JULIANA (Adamant, Protective): "Alexander would never steal from you."
+E11-028 [00:29.30-00:32.80] DIALOGUE GERALD (Mocking, Spiteful): "Of course you would defend him. You married a beggar!"
+
+Return up to 1 promos for E10 as JSON.

@@ -147,8 +147,20 @@ def load_reviews(d: Path) -> dict:
 
 
 def runs() -> list[Path]:
+    """Newest run first, by the run's own timestamp rather than file mtime.
+
+    Streamlit Cloud checks out files in an arbitrary order, so mtime would pick a
+    random run on startup. run_at_utc is written by the pipeline and is stable.
+    """
     found = list(OUT.glob("*/promos_ranked.json")) + list(DEMO.glob("*/promos_ranked.json"))
-    return sorted({p.parent for p in found}, key=lambda p: p.stat().st_mtime, reverse=True)
+
+    def newest_first(p: Path) -> float:
+        try:
+            return datetime.fromisoformat(load_run_meta(str(p))["run_at_utc"]).timestamp()
+        except Exception:
+            return p.stat().st_mtime
+
+    return sorted({p.parent for p in found}, key=newest_first, reverse=True)
 
 
 def run_label(p: Path) -> str:
@@ -252,8 +264,8 @@ def render_promo(p: dict, index, reviews: dict, run_dir: Path,
     st.markdown('<div class="label">Scores</div>', unsafe_allow_html=True)
     s = p["llm_scores"]
     c1, c2, c3 = st.columns(3)
-    c1.metric("AI hook", f"{s['hook']}/5")
-    c2.metric("AI cliffhanger", f"{s['cliffhanger']}/5")
+    c1.metric("Hook", f"{s['hook']}/5")
+    c2.metric("Cliffhanger", f"{s['cliffhanger']}/5")
     c3.metric("Standalone", f"{s['standalone']}/5")
     st.progress(min(max(p["score"] / 100, 0.0), 1.0), text=f"Blended score {p['score']:.1f}/100")
     rs = p.get("rule_signals", {})
@@ -388,7 +400,7 @@ with st.expander("How to use this app", expanded=True):
              "The exact cut, a bar showing where it sits in the episode (bright red is the first 3 seconds, "
              "where the hook must land), the hook and cliffhanger lines, why it works and why it ranks there, "
              "anything to check before posting, the full transcript with the hook and cliffhanger marked, "
-             "and the scores from the AI judge and the rules.")
+             "and the scores behind the ranking.")
         step(4, "Run it on new scripts",
              "Use the panel on the left. Upload one script file per episode, a .zip of them, or a whole series "
              "in one file, or tick the bundled demo. <b>Fast</b> uses the AI. <b>Rules only</b> takes seconds "

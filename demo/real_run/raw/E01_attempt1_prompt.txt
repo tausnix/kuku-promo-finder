@@ -1,0 +1,80 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E01
+EPISODE_DURATION: 02:18.00
+LOGLINE: Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fiancé Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing.
+CONTINUITY: First episode of the series. Establishes Juliana's humiliation and abandonment by her betrothed, Gerald, and her noble family in favor of her sister, Clarissa.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E01-032: delivery:rage, exclamation
+- E01-038: delivery:shouting, exclamation
+- E01-052: romance, delivery:menace
+- E01-087: romance, humiliation
+- E01-027: romance, delivery:contempt
+- E01-047: delivery:shock
+Possible cliffhangers:
+- E01-094: scripted cliffhanger, ominous, sound sting, episode ending
+- E01-029: shock beat, trailing line
+- E01-090: episode ending
+- E01-093: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E01-002 [00:01.00-00:04.80] ACTION: Juliana pauses at the threshold, her expression bright with joyful anticipation, wearing her mother's vintage gown and an oval pendant necklace.
+E01-005 [00:07.20-00:09.80] ACTION: Juliana's eyes widen slightly in bewilderment as she notices something amiss at the altar.
+E01-008 [00:11.30-00:13.10] DIALOGUE MATRIARCH (Cold, Commanding): "You should turn around, Juliana."
+E01-009 [00:13.50-00:14.30] DIALOGUE LADY JULIANA (Confused, Breathless): "Why?"
+E01-011 [00:15.50-00:17.50] DIALOGUE LADY JULIANA (Desperate, Unbelieving): "Gerald is waiting for me."
+E01-013 [00:18.00-00:19.40] DIALOGUE MATRIARCH (Blunt, Unforgiving): "Not anymore."
+E01-015 [00:21.80-00:23.50] DIALOGUE LADY JULIANA (Trembling, Pleading): "What do you mean?"
+E01-017 [00:23.80-00:25.50] DIALOGUE MATRIARCH (Dismissive): "Look for yourself."
+E01-018 [00:25.60-00:29.80] ACTION: Juliana walks forward past the Matriarch, her breath hitching as she approaches the altar steps, looking up in shock.
+E01-023 [00:33.80-00:35.00] DIALOGUE LADY JULIANA (Shaken, Whispering): "Gerald?"
+E01-024 [00:35.40-00:37.70] DIALOGUE LADY JULIANA (Heartbroken): "Why are you holding her hand?"
+E01-027 [00:39.10-00:41.20] DIALOGUE LADY IN GOLD GOWN (Gloating, Smug): "Because he is marrying me."
+E01-029 [00:41.70-00:43.10] DIALOGUE LADY JULIANA (Gasping, Devastated): "No..."
+E01-032 [00:46.80-00:50.00] DIALOGUE LADY JULIANA (Outraged, Accusing): "You knew this before I walked through those doors!"
+E01-035 [00:52.80-00:54.60] DIALOGUE LADY JULIANA (Choking on Tears): "You let me come here..."
+E01-037 [00:54.70-00:56.90] DIALOGUE LADY JULIANA (Crushed, Shaking): "You let me dress in my mother's gown..."
+E01-038 [00:57.00-01:00.00] DIALOGUE LADY JULIANA (Crying Out): "You let me believe I was walking toward my husband!"
+E01-041 [01:00.10-01:01.80] DIALOGUE THE FORMER GROOM (Cold, Callous): "I changed my mind."
+E01-043 [01:03.40-01:05.60] DIALOGUE LADY JULIANA (Betrayed, Piercing): "You swore you loved me!"
+E01-045 [01:06.50-01:08.80] DIALOGUE LADY IN GOLD GOWN (Mocking): "People change their minds, sister."
+E01-047 [01:09.10-01:10.40] DIALOGUE LADY JULIANA (Horrified): "And you knew?"
+E01-048 [01:10.60-01:12.10] DIALOGUE LADY IN GOLD GOWN (Unapologetic, Cheerful): "Of course I knew."
+E01-050 [01:13.10-01:14.30] DIALOGUE LADY JULIANA (Trembling): "How long?"
+E01-052 [01:15.00-01:18.50] DIALOGUE LADY IN GOLD GOWN (Cruel, Poised): "Long enough to know he was never going to marry you."
+E01-053 [01:19.00-01:21.00] ACTION: Juliana turns abruptly toward the first row of pews, where her elderly father sits gripping an ornate brass cane.
+E01-055 [01:20.10-01:21.20] DIALOGUE LADY JULIANA (Desperate): "Father..."
+E01-057 [01:21.40-01:23.60] DIALOGUE LADY JULIANA (Begging): "Tell them this is a mistake."
+E01-060 [01:26.00-01:28.90] DIALOGUE LADY JULIANA (Choking, Broken): "Father... please look at me."
+E01-061 [01:29.50-01:30.80] ACTION: The father tightens his jaw and stony expression, refusing to offer a single word or look.
+E01-064 [01:30.90-01:31.90] DIALOGUE MATRIARCH (Stern, Resolute): "Enough!"
+E01-065 [01:32.10-01:35.50] DIALOGUE MATRIARCH (Disgusted): "You have embarrassed this family long enough."
+E01-067 [01:36.20-01:38.20] DIALOGUE LADY JULIANA (Incredulous): "Embarrassed you?"
+E01-069 [01:38.80-01:41.50] DIALOGUE MATRIARCH (Haughty): "Clarissa knows how to carry herself."
+E01-070 [01:41.60-01:45.00] DIALOGUE MATRIARCH (Proud): "She has beauty, connections, and a future worth protecting."
+E01-073 [01:45.40-01:47.30] DIALOGUE LADY JULIANA (Raw, Painful): "And I am what?"
+E01-075 [01:47.50-01:50.80] DIALOGUE LADY IN GOLD GOWN (Viciously Calm): "You are the daughter people tolerate because they have to."
+E01-077 [01:51.10-01:53.00] DIALOGUE LADY IN GOLD GOWN (Gloating): "I am the daughter they choose."
+E01-079 [01:53.30-01:55.70] DIALOGUE MATRIARCH (O.S., Firm): "Clarissa is the jewel of this family."
+E01-082 [01:57.00-01:59.00] DIALOGUE LADY JULIANA (Trembling, Dignified): "So that is what I was worth to you?"
+E01-084 [01:59.80-02:02.30] DIALOGUE THE FORMER GROOM (Scornful, Hard): "You have nothing to offer me anymore."
+E01-087 [02:04.20-02:07.50] DIALOGUE THE FORMER GROOM (Arrogant, Dismissive): "I cannot marry a woman of such plainness and low value..."
+E01-089 [02:08.50-02:11.20] DIALOGUE THE FORMER GROOM (Reverent toward Clarissa): "...when Clarissa is the true jewel of the county."
+E01-090 [02:11.30-02:13.80] ACTION: Juliana's hand clenches fiercely into the folds of her mother's silk bridal gown, knuckles whitening with suppressed fury.
+E01-093 [02:13.80-02:17.00] ACTION: Juliana breathes through the agony, refusing to break down further in front of the congregation.
+E01-094 [02:15.00-02:17.50] SFX: Solemn low-pitched string drone swells to an ominous cliffhanger peak.
+
+NEXT_EPISODE_OPENING (E02, first 30 s; continuation only):
+E02-002 [00:00.00-00:02.50] DIALOGUE THE FORMER GROOM (Cold, Callous): "I cannot marry you, Juliana."
+E02-004 [00:02.80-00:04.60] ACTION: Juliana gasps softly in heartbreak, her eyes wide and brimming with tears.
+E02-006 [00:04.70-00:06.50] DIALOGUE THE FORMER GROOM (Cruel, Derisive): "You are far too plain..."
+E02-008 [00:06.80-00:09.50] DIALOGUE THE FORMER GROOM (Off-screen, Dismissive): "...far too silent..."
+E02-010 [00:09.60-00:12.00] DIALOGUE THE FORMER GROOM (Arrogant, Conceited): "...and completely beneath the future I deserve."
+E02-012 [00:12.40-00:15.50] DIALOGUE LADY JULIANA (Desperate, Pleading): "Gerald... Look at me."
+E02-015 [00:18.20-00:20.60] DIALOGUE LADY JULIANA (Trembling, Betrayed): "You gave me your word before both our families."
+E02-017 [00:20.90-00:23.70] DIALOGUE THE FORMER GROOM (Indifferent, Unapologetic): "Promises change when a better choice appears."
+E02-019 [00:24.00-00:27.40] DIALOGUE LADY JULIANA (Shattered, Disbelieving): "A better choice? Is that what she is?"
+E02-021 [00:27.80-00:30.50] DIALOGUE THE FORMER GROOM (Resolute, Harsh): "She is what I should have chosen from the beginning."
+
+Return up to 1 promos for E01 as JSON.

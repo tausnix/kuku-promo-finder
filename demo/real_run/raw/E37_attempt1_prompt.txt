@@ -1,0 +1,73 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E37
+EPISODE_DURATION: 02:36.47
+LOGLINE: As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit.
+CONTINUITY: Following Alexander's vow to return in two days to disrupt the wedding, Rupert and Catherine prepare to cement their coup by inviting high society to celebrate their nuptials and witness Juliana's execution.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E37-074: romance, delivery:menace
+- E37-014: delivery:menace
+Possible cliffhangers:
+- E37-079: scripted cliffhanger, ominous, sound sting, episode ending
+- E37-059: shock beat
+
+SCRIPT_LINES (camera directions omitted):
+E37-002 [00:01.50-00:03.20] SFX: The crisp tap of heavy cardstock envelopes being set down onto silver.
+E37-004 [00:06.00-00:09.30] DIALOGUE BLOND NOBLEMAN (Rupert, Cold, Calculating): "Every important family in the county should witness it."
+E37-006 [00:10.80-00:12.40] DIALOGUE CATHERINE (Inquiring, Smug): "The wedding?"
+E37-008 [00:12.80-00:14.80] DIALOGUE BLOND NOBLEMAN (Rupert, Authoritative): "The transfer of Ashbridge."
+E37-010 [00:15.60-00:18.80] DIALOGUE CATHERINE (Gloating): "After the ceremony, no one will question who owns this house."
+E37-012 [00:19.00-00:23.00] DIALOGUE BLOND NOBLEMAN (Rupert, Sinister, Ruthless): "And no one will question what happened to the woman who tried to stop us."
+E37-014 [00:23.80-00:26.40] DIALOGUE CATHERINE (Venomous Satisfaction): "Juliana's execution comes after the wedding."
+E37-016 [00:26.60-00:29.80] DIALOGUE CATHERINE (Gleeful): "Perfect timing. It will be a feast for our guests."
+E37-018 [00:30.20-00:32.20] DIALOGUE BLOND NOBLEMAN (Rupert, Decisive): "Send the invitations."
+E37-020 [00:32.80-00:34.50] DIALOGUE CATHERINE (Spiteful): "Especially to the Ashcrofts."
+E37-023 [00:37.00-00:39.80] DIALOGUE BUTLER (Formal): "Lady Clarissa, an invitation from Ashbridge Manor."
+E37-024 [00:39.50-00:44.00] ACTION: Clarissa takes the cream envelope, breaks the red wax seal with her gloved thumbs, and slides out the heavy card.
+E37-026 [00:44.50-00:46.50] DIALOGUE LADY CLARISSA (Amused, Thrilled): "Catherine's wedding."
+E37-028 [00:47.00-00:49.20] DIALOGUE NOBLEMAN (Observant): "So it is finally official."
+E37-030 [00:50.00-00:52.80] DIALOGUE LADY CLARISSA (Mockingly Reverent): "Lady Catherine Ashbridge."
+E37-032 [00:54.00-00:56.20] DIALOGUE LADY CLARISSA (Intrigued): "And after the ceremony..."
+E37-033 [00:56.20-00:57.20] DIALOGUE NOBLEMAN (Curious): "What?"
+E37-034 [00:56.80-00:58.50] ACTION: Clarissa hands the letter upward to him. He takes it and looks down at the bold heading.
+E37-036 [00:58.80-01:01.80] DIALOGUE NOBLEMAN (Reading in Awe): "The sentencing of the condemned."
+E37-038 [01:02.80-01:05.50] DIALOGUE LADY CLARISSA (Gloating, Mocking): "They want the families to witness it."
+E37-040 [01:06.50-01:08.80] DIALOGUE NOBLEMAN (Fascinated): "A public execution after a wedding."
+E37-042 [01:09.50-01:12.20] DIALOGUE LADY CLARISSA (Chilling, Sharp): "Not just an execution. A warning."
+E37-044 [01:13.00-01:14.20] DIALOGUE NOBLEMAN (Curious): "To whom?"
+E37-046 [01:17.00-01:21.80] DIALOGUE LADY CLARISSA (Contemptuous, Scornful): "To every woman who thinks she can rise above the place she was given."
+E37-048 [01:23.00-01:27.50] DIALOGUE LADY CLARISSA (Smug Triumph): "Juliana's ruin will be a lesson. And we will be there to watch."
+E37-050 [01:28.50-01:32.00] SFX: Rhythmic water drips splashing onto stagnant dungeon puddles and a low, mournful ambient drone.
+E37-052 [01:33.50-01:35.50] ACTION: Juliana curls her fingers back, pulling away from the foul sustenance in defiance.
+E37-054 [01:36.00-01:39.50] DIALOGUE JULIANA (Weak, Whispering through Tears): "They think hunger will make me surrender."
+E37-056 [01:40.80-01:43.20] DIALOGUE JULIANA (Fierce Resolve): "They think fear will make me beg."
+E37-058 [01:44.00-01:47.00] SFX: The harsh scrape and clatter of heavy iron chains dragging across wet stone.
+E37-059 [01:45.50-01:47.80] DIALOGUE JULIANA (Straining, Defiant Gasps): "I will not!"
+E37-061 [01:49.00-01:52.50] DIALOGUE JULIANA (Passionate Defiance): "They can take my name. They can take my home."
+E37-063 [01:53.60-01:56.20] DIALOGUE JULIANA (Indomitable Spirit): "They cannot take who I am!"
+E37-065 [01:57.20-01:59.80] DIALOGUE NOBLEMAN (Quietly Skeptical): "Do you think she'll actually be executed?"
+E37-067 [02:00.50-02:04.20] DIALOGUE LADY CLARISSA (Dismissive, Certain): "After what she has been accused of? Of course."
+E37-069 [02:04.80-02:06.50] DIALOGUE NOBLEMAN (Musing): "She was always stubborn."
+E37-071 [02:07.50-02:12.00] DIALOGUE LADY CLARISSA (Bitter, Cold): "That was her greatest mistake. She could have accepted what happened. She could have disappeared quietly."
+E37-072 [02:12.50-02:16.00] ACTION: Clarissa rises from her armchair holding a cut crystal glass filled with dark red wine, pacing toward the fireplace.
+E37-074 [02:14.00-02:21.00] DIALOGUE LADY CLARISSA (Venomous Monologue): "Instead she married a nobody, played healer to peasants, challenged people above her. And now the whole county will watch her pay for it."
+E37-076 [02:22.50-02:26.50] DIALOGUE LADY CLARISSA (Chilling Proclamation): "Let them see what happens when a woman forgets her place."
+E37-077 [02:25.50-02:28.00] ACTION: Clarissa takes a slow sip of the red wine, her eyes gleaming with dark relish.
+E37-079 [02:28.00-02:36.47] SFX: A deep, ominous cello rumble builds alongside the crackle of the fireplace into an unresolved, tension-filled cliffhanger sting before fading out.
+
+NEXT_EPISODE_OPENING (E38, first 30 s; continuation only):
+E38-002 [00:00.00-00:03.50] ACTION: Juliana sits motionless against the cold masonry, weak and visibly drained from starvation, her eyes cast downward.
+E38-003 [00:03.20-00:06.00] SFX: Echoing, heavy bootsteps approach down the corridor outside the cell.
+E38-005 [00:05.00-00:07.50] ACTION: Juliana blinks, lifting her gaze toward the heavy iron bars.
+E38-007 [00:08.50-00:11.00] ACTION: The Guard pauses, glancing over his shoulder into the gloomy corridor to ensure he is unobserved.
+E38-009 [00:11.00-00:15.50] ACTION: The Guard kneels down and slips a small loaf of rustic bread through the bottom gap between the iron bars, nudging it inside before withdrawing his gloved hand.
+E38-011 [00:16.00-00:17.30] DIALOGUE JULIANA (Breathless, Bewildered): "Why?"
+E38-013 [00:17.50-00:20.30] DIALOGUE GUARD (Subdued, Sincere): "Because no one should die hungry."
+E38-014 [00:20.50-00:22.00] DIALOGUE GUARD (Urgent, Whispered): "Eat it before they see."
+E38-016 [00:21.80-00:23.20] ACTION: The Guard's silhouette retreats into the shadows.
+E38-018 [00:23.50-00:27.50] ACTION: Juliana clutches the bread tightly with both hands, tears welling in her eyes.
+E38-019 [00:26.00-00:27.50] DIALOGUE JULIANA (Choked Up, Tearful): "Thank you."
+E38-020 [00:27.80-00:31.00] ACTION: Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite.
+
+Return up to 1 promos for E37 as JSON.

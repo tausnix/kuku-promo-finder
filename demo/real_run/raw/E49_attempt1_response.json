@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: reveal at E49-016\", \"segments\": [{\"start_id\": \"E49-016\", \"end_id\": \"E49-029\"}], \"hook_id\": \"E49-016\", \"hook_quote\": \"You didn't need them the first time, either. I just prefer my\", \"cliffhanger_id\": \"E49-029\", \"cliffhanger_quote\": \"And you always did have a taste for using me. It's why\", \"hook_type\": \"reveal\", \"why\": \"Rules only: hook signals [reveal], cliff signals [none].\", \"scores\": {\"hook\": 2, \"cliffhanger\": 1, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "717606ad403f59fa751939d041d8c2875730803354b592afecb3ecc6141a6a1f"
+}

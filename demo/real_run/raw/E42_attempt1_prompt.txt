@@ -1,0 +1,63 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E42
+EPISODE_DURATION: 01:17.80
+LOGLINE: Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal guards, and is proclaimed the rightful Duke of Ashburn by his weeping mother.
+CONTINUITY: Directly follows Episode 41 where Alexander's forces breached the cathedral entrance; Alexander now steps through the ruins, halting the wedding and unmasking Rupert's illegitimate reign.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E42-014: delivery:rage, delivery:shouting, exclamation
+- E42-010: delivery:rage, exclamation
+- E42-034: reveal, exclamation
+- E42-003: delivery:shock
+- E42-015: delivery:anguish, exclamation
+Possible cliffhangers:
+- E42-003: open question, unanswered question
+- E42-028: shock beat
+- E42-033: episode ending
+- E42-034: episode ending
+- E42-037: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E42-002 [00:01.00-00:10.50] ACTION: Alexander strides deliberately through the pulverized cathedral doorway. Dressed in the regal ducal coat with gold braided cuffs and a lion crest, his scarred face is set with cold, unyielding authority.
+E42-003 [00:11.20-00:12.60] DIALOGUE BLOND NOBLEMAN (Shocked, Trembling): "Who are you?"
+E42-004 [00:12.80-00:14.60] DIALOGUE ALEXANDER (Low, Resonant): "You already know."
+E42-006 [00:15.00-00:16.40] DIALOGUE JULIANA (Breathless, Tearful Whisper): "Alexander..."
+E42-008 [00:16.80-00:17.90] DIALOGUE ALEXANDER (Gentle, Reassuring): "Juliana."
+E42-010 [00:18.00-00:21.20] DIALOGUE BLOND NOBLEMAN (Furious, Hysterical): "Guards! Arrest this imposter!"
+E42-012 [00:22.00-00:23.40] DIALOGUE ROYAL GUARD (Stoic, Defiant): "We will not."
+E42-014 [00:23.50-00:25.20] DIALOGUE BLOND NOBLEMAN (Screaming, Outraged): "I said arrest him!"
+E42-015 [00:25.50-00:26.50] DIALOGUE BLOND NOBLEMAN (Desperate, Unhinged): "Why?!"
+E42-017 [00:26.70-00:28.80] DIALOGUE ROYAL GUARD (Firm, Reverent): "Because we know who he is."
+E42-019 [00:29.00-00:30.30] DIALOGUE CATHERINE (Trembling, Apprehensive): "Rupert..."
+E42-021 [00:30.50-00:33.80] DIALOGUE BLOND NOBLEMAN (Denial, Shaken): "You cannot be him. Alexander died!"
+E42-023 [00:34.00-00:39.80] DIALOGUE ALEXANDER (Cold, Commanding): "And yet, here I stand. That is the lie you built your life upon."
+E42-025 [00:40.20-00:42.50] DIALOGUE ALEXANDER'S MOTHER (Choked with Tears): "Alexander..."
+E42-026 [00:44.80-00:48.00] ACTION: Alexander halts his march as his mother reaches him, placing her frail hands gently upon his chest.
+E42-027 [00:48.00-00:49.00] DIALOGUE ALEXANDER (Soft, Reverent): "Mother."
+E42-028 [00:49.00-00:54.00] ACTION: His mother gently cradles Alexander's scarred cheek, tears streaming down her face as guests in the background watch in stunned silence.
+E42-029 [00:49.20-00:53.80] DIALOGUE ALEXANDER'S MOTHER (Overcome, Loving): "Look at you... my beautiful boy."
+E42-031 [00:54.00-01:01.80] DIALOGUE ALEXANDER'S MOTHER (Tearful, Proud): "I saw you again... but seeing you like this... I see my son as he was always meant to be."
+E42-032 [01:02.00-01:04.00] DIALOGUE ALEXANDER (Tender, Resolute): "I have come home, Mother."
+E42-033 [01:04.00-01:12.50] ACTION: Alexander's mother turns toward the gathered nobility and guards, raising her chin and pointing proudly toward Alexander.
+E42-034 [01:04.20-01:12.40] DIALOGUE ALEXANDER'S MOTHER (Ringing, Authoritative): "Let everyone hear me! This is my son... Alexander Ashburn. The rightful Duke of Ashburn!"
+E42-037 [01:13.80-01:17.50] DIALOGUE ALEXANDER (Grim, Vengeful): "And now, Rupert... we settle what you stole."
+
+NEXT_EPISODE_OPENING (E43, first 30 s; continuation only):
+E43-002 [00:00.60-00:02.40] DIALOGUE BLOND NOBLEMAN (Hysterical, Panicked): "You're lying!"
+E43-003 [00:02.40-00:03.90] ACTION: Rupert lunges forward, his facial features contorting in venomous desperation.
+E43-005 [00:03.90-00:07.40] DIALOGUE BLOND NOBLEMAN (Shrieking, Frantic): "This man is an imposter! Arrest him!"
+E43-007 [00:08.20-00:10.50] ACTION: Alexander stands completely composed in his dark embroidered aristocratic coat, staring Rupert down with unyielding authority.
+E43-009 [00:10.50-00:13.20] DIALOGUE BLOND NOBLEMAN (Enraged, Screaming): "I said arrest him!"
+E43-011 [00:13.80-00:16.00] ACTION: The Guard Captain brings his ceremonial sword upright to attention, his expression stern and resolute.
+E43-012 [00:14.20-00:15.80] DIALOGUE ROYAL GUARD (Firm, Defiant): "We will not."
+E43-014 [00:16.20-00:18.00] DIALOGUE BLOND NOBLEMAN (Outraged, Stunned): "I am Lord Rupert Ashburn!"
+E43-016 [00:18.10-00:19.00] DIALOGUE BLOND NOBLEMAN (Desperate): "Your Duke!"
+E43-018 [00:19.20-00:21.60] ACTION: The Guard Captain snaps a crisp salute toward Alexander.
+E43-019 [00:19.20-00:21.50] DIALOGUE ROYAL GUARD (Calm, Resolute): "No. He is your Duke."
+E43-021 [00:22.00-00:24.00] ACTION: Lord Sterling clutches his gold-headed walking cane tightly, his jaw clenching as tension spreads through the church.
+E43-023 [00:24.10-00:25.80] DIALOGUE BLOND NOBLEMAN (Desperate, Flustered): "You have all been deceived!"
+E43-025 [00:26.10-00:28.00] DIALOGUE ALEXANDER (Cold, Authoritative): "Then let the Crown decide."
+E43-027 [00:28.20-00:30.00] ACTION: Alexander brings forth the dossier stamped "WAR OFFICE - TOP SECRET" with the royal crest.
+
+Return up to 1 promos for E42 as JSON.

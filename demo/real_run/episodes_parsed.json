@@ -1,0 +1,452 @@
+[
+  {
+    "episode": 1,
+    "file": "episode-001-Episode 1671703.txt",
+    "duration": 138.0,
+    "scenes": 1,
+    "blocks": 95,
+    "content_blocks": 45,
+    "parse_warnings": []
+  },
+  {
+    "episode": 2,
+    "file": "episode-002-Episode 1671704.txt",
+    "duration": 110.0,
+    "scenes": 1,
+    "blocks": 74,
+    "content_blocks": 35,
+    "parse_warnings": []
+  },
+  {
+    "episode": 3,
+    "file": "episode-003-Episode 1671705.txt",
+    "duration": 145.75,
+    "scenes": 3,
+    "blocks": 118,
+    "content_blocks": 57,
+    "parse_warnings": []
+  },
+  {
+    "episode": 4,
+    "file": "episode-004-Episode 1671706.txt",
+    "duration": 151.4,
+    "scenes": 1,
+    "blocks": 110,
+    "content_blocks": 51,
+    "parse_warnings": []
+  },
+  {
+    "episode": 5,
+    "file": "episode-005-Episode 1671707.txt",
+    "duration": 110.5,
+    "scenes": 1,
+    "blocks": 62,
+    "content_blocks": 37,
+    "parse_warnings": []
+  },
+  {
+    "episode": 6,
+    "file": "episode-006-Episode 1671708.txt",
+    "duration": 115.0,
+    "scenes": 2,
+    "blocks": 97,
+    "content_blocks": 45,
+    "parse_warnings": []
+  },
+  {
+    "episode": 7,
+    "file": "episode-007-Episode 1671709.txt",
+    "duration": 116.0,
+    "scenes": 3,
+    "blocks": 58,
+    "content_blocks": 30,
+    "parse_warnings": []
+  },
+  {
+    "episode": 8,
+    "file": "episode-008-Episode 1671710.txt",
+    "duration": 78.0,
+    "scenes": 1,
+    "blocks": 63,
+    "content_blocks": 30,
+    "parse_warnings": []
+  },
+  {
+    "episode": 9,
+    "file": "episode-009-Episode 1671711.txt",
+    "duration": 115.5,
+    "scenes": 2,
+    "blocks": 89,
+    "content_blocks": 47,
+    "parse_warnings": []
+  },
+  {
+    "episode": 10,
+    "file": "episode-010-Episode 1671712.txt",
+    "duration": 94.0,
+    "scenes": 1,
+    "blocks": 60,
+    "content_blocks": 25,
+    "parse_warnings": []
+  },
+  {
+    "episode": 11,
+    "file": "episode-011-Episode 1671713.txt",
+    "duration": 112.75,
+    "scenes": 2,
+    "blocks": 85,
+    "content_blocks": 42,
+    "parse_warnings": []
+  },
+  {
+    "episode": 12,
+    "file": "episode-012-Episode 1671714.txt",
+    "duration": 87.21,
+    "scenes": 1,
+    "blocks": 55,
+    "content_blocks": 31,
+    "parse_warnings": []
+  },
+  {
+    "episode": 13,
+    "file": "episode-013-Episode 1671715.txt",
+    "duration": 118.88,
+    "scenes": 2,
+    "blocks": 75,
+    "content_blocks": 37,
+    "parse_warnings": []
+  },
+  {
+    "episode": 14,
+    "file": "episode-014-Episode 1671716.txt",
+    "duration": 87.63,
+    "scenes": 3,
+    "blocks": 51,
+    "content_blocks": 28,
+    "parse_warnings": []
+  },
+  {
+    "episode": 15,
+    "file": "episode-015-Episode 1671717.txt",
+    "duration": 86.0,
+    "scenes": 1,
+    "blocks": 55,
+    "content_blocks": 30,
+    "parse_warnings": []
+  },
+  {
+    "episode": 16,
+    "file": "episode-016-Episode 1671718.txt",
+    "duration": 83.19,
+    "scenes": 1,
+    "blocks": 64,
+    "content_blocks": 37,
+    "parse_warnings": []
+  },
+  {
+    "episode": 17,
+    "file": "episode-017-Episode 1671719.txt",
+    "duration": 118.88,
+    "scenes": 2,
+    "blocks": 75,
+    "content_blocks": 41,
+    "parse_warnings": []
+  },
+  {
+    "episode": 18,
+    "file": "episode-018-Episode 1671720.txt",
+    "duration": 192.0,
+    "scenes": 5,
+    "blocks": 81,
+    "content_blocks": 53,
+    "parse_warnings": []
+  },
+  {
+    "episode": 19,
+    "file": "episode-019-Episode 1671721.txt",
+    "duration": 119.63,
+    "scenes": 3,
+    "blocks": 63,
+    "content_blocks": 39,
+    "parse_warnings": []
+  },
+  {
+    "episode": 20,
+    "file": "episode-020-Episode 1671722.txt",
+    "duration": 114.75,
+    "scenes": 4,
+    "blocks": 68,
+    "content_blocks": 46,
+    "parse_warnings": []
+  },
+  {
+    "episode": 21,
+    "file": "episode-021-Episode 1678574.txt",
+    "duration": 114.0,
+    "scenes": 3,
+    "blocks": 76,
+    "content_blocks": 45,
+    "parse_warnings": []
+  },
+  {
+    "episode": 22,
+    "file": "episode-022-Episode 1678575.txt",
+    "duration": 131.0,
+    "scenes": 4,
+    "blocks": 81,
+    "content_blocks": 44,
+    "parse_warnings": []
+  },
+  {
+    "episode": 23,
+    "file": "episode-023-Episode 1678576.txt",
+    "duration": 131.5,
+    "scenes": 1,
+    "blocks": 67,
+    "content_blocks": 28,
+    "parse_warnings": []
+  },
+  {
+    "episode": 24,
+    "file": "episode-024-Episode 1678577.txt",
+    "duration": 92.0,
+    "scenes": 2,
+    "blocks": 69,
+    "content_blocks": 38,
+    "parse_warnings": []
+  },
+  {
+    "episode": 25,
+    "file": "episode-025-Episode 1678578.txt",
+    "duration": 168.0,
+    "scenes": 1,
+    "blocks": 95,
+    "content_blocks": 51,
+    "parse_warnings": []
+  },
+  {
+    "episode": 26,
+    "file": "episode-026-Episode 1678579.txt",
+    "duration": 120.88,
+    "scenes": 1,
+    "blocks": 51,
+    "content_blocks": 24,
+    "parse_warnings": []
+  },
+  {
+    "episode": 27,
+    "file": "episode-027-Episode 1678580.txt",
+    "duration": 150.5,
+    "scenes": 1,
+    "blocks": 95,
+    "content_blocks": 48,
+    "parse_warnings": []
+  },
+  {
+    "episode": 28,
+    "file": "episode-028-Episode 1678581.txt",
+    "duration": 138.5,
+    "scenes": 1,
+    "blocks": 96,
+    "content_blocks": 58,
+    "parse_warnings": []
+  },
+  {
+    "episode": 29,
+    "file": "episode-029-Episode 1678582.txt",
+    "duration": 116.69,
+    "scenes": 3,
+    "blocks": 74,
+    "content_blocks": 36,
+    "parse_warnings": []
+  },
+  {
+    "episode": 30,
+    "file": "episode-030-Episode 1678583.txt",
+    "duration": 151.21,
+    "scenes": 3,
+    "blocks": 71,
+    "content_blocks": 36,
+    "parse_warnings": []
+  },
+  {
+    "episode": 31,
+    "file": "episode-031-Episode 1681364.txt",
+    "duration": 160.0,
+    "scenes": 1,
+    "blocks": 87,
+    "content_blocks": 46,
+    "parse_warnings": []
+  },
+  {
+    "episode": 32,
+    "file": "episode-032-Episode 1681365.txt",
+    "duration": 154.38,
+    "scenes": 1,
+    "blocks": 117,
+    "content_blocks": 54,
+    "parse_warnings": []
+  },
+  {
+    "episode": 33,
+    "file": "episode-033-Episode 1681366.txt",
+    "duration": 174.04,
+    "scenes": 1,
+    "blocks": 99,
+    "content_blocks": 54,
+    "parse_warnings": []
+  },
+  {
+    "episode": 34,
+    "file": "episode-034-Episode 1681367.txt",
+    "duration": 190.0,
+    "scenes": 1,
+    "blocks": 116,
+    "content_blocks": 61,
+    "parse_warnings": []
+  },
+  {
+    "episode": 35,
+    "file": "episode-035-Episode 1681368.txt",
+    "duration": 157.5,
+    "scenes": 3,
+    "blocks": 72,
+    "content_blocks": 49,
+    "parse_warnings": []
+  },
+  {
+    "episode": 36,
+    "file": "episode-036-Episode 1681369.txt",
+    "duration": 200.75,
+    "scenes": 1,
+    "blocks": 121,
+    "content_blocks": 65,
+    "parse_warnings": []
+  },
+  {
+    "episode": 37,
+    "file": "episode-037-Episode 1681370.txt",
+    "duration": 156.47,
+    "scenes": 4,
+    "blocks": 79,
+    "content_blocks": 42,
+    "parse_warnings": []
+  },
+  {
+    "episode": 38,
+    "file": "episode-038-Episode 1681371.txt",
+    "duration": 87.91,
+    "scenes": 1,
+    "blocks": 57,
+    "content_blocks": 36,
+    "parse_warnings": []
+  },
+  {
+    "episode": 39,
+    "file": "episode-039-Episode 1686799.txt",
+    "duration": 98.41,
+    "scenes": 5,
+    "blocks": 59,
+    "content_blocks": 32,
+    "parse_warnings": []
+  },
+  {
+    "episode": 40,
+    "file": "episode-040-Episode 1686800.txt",
+    "duration": 110.08,
+    "scenes": 4,
+    "blocks": 51,
+    "content_blocks": 27,
+    "parse_warnings": []
+  },
+  {
+    "episode": 41,
+    "file": "episode-041-Episode 1686801.txt",
+    "duration": 96.09,
+    "scenes": 1,
+    "blocks": 53,
+    "content_blocks": 25,
+    "parse_warnings": []
+  },
+  {
+    "episode": 42,
+    "file": "episode-042-Episode 1686802.txt",
+    "duration": 77.8,
+    "scenes": 1,
+    "blocks": 37,
+    "content_blocks": 23,
+    "parse_warnings": []
+  },
+  {
+    "episode": 43,
+    "file": "episode-043-Episode 1686803.txt",
+    "duration": 114.96,
+    "scenes": 1,
+    "blocks": 87,
+    "content_blocks": 43,
+    "parse_warnings": []
+  },
+  {
+    "episode": 44,
+    "file": "episode-044-Episode 1686804.txt",
+    "duration": 70.5,
+    "scenes": 2,
+    "blocks": 54,
+    "content_blocks": 25,
+    "parse_warnings": []
+  },
+  {
+    "episode": 45,
+    "file": "episode-045-Episode 1686805.txt",
+    "duration": 121.75,
+    "scenes": 3,
+    "blocks": 74,
+    "content_blocks": 43,
+    "parse_warnings": []
+  },
+  {
+    "episode": 46,
+    "file": "episode-046-Episode 1688395.txt",
+    "duration": 143.88,
+    "scenes": 1,
+    "blocks": 75,
+    "content_blocks": 37,
+    "parse_warnings": []
+  },
+  {
+    "episode": 47,
+    "file": "episode-047-Episode 1688396.txt",
+    "duration": 134.0,
+    "scenes": 4,
+    "blocks": 70,
+    "content_blocks": 36,
+    "parse_warnings": []
+  },
+  {
+    "episode": 48,
+    "file": "episode-048-Episode 1688397.txt",
+    "duration": 80.0,
+    "scenes": 2,
+    "blocks": 43,
+    "content_blocks": 28,
+    "parse_warnings": []
+  },
+  {
+    "episode": 49,
+    "file": "episode-049-Episode 1688398.txt",
+    "duration": 144.75,
+    "scenes": 1,
+    "blocks": 63,
+    "content_blocks": 32,
+    "parse_warnings": []
+  },
+  {
+    "episode": 50,
+    "file": "episode-050-Episode 1697563.txt",
+    "duration": 80.0,
+    "scenes": 2,
+    "blocks": 40,
+    "content_blocks": 21,
+    "parse_warnings": []
+  }
+]

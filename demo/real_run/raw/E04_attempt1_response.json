@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: physical at E04-087\", \"segments\": [{\"start_id\": \"E04-087\", \"end_id\": \"E04-110\"}], \"hook_id\": \"E04-087\", \"hook_quote\": \"You have thrown yourself away!\", \"cliffhanger_id\": \"E04-110\", \"cliffhanger_quote\": \"Heavy oak doors creaking open, followed by a triumphant musical swell fading\", \"hook_type\": \"physical\", \"why\": \"Rules only: hook signals [physical, delivery:rage, delivery:shouting, exclamation], cliff signals [sound sting, episode ending].\", \"scores\": {\"hook\": 5, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "9754edbbd9d1d92a49cddc03b83a682e92ee442152448c458eb70b74ef22a1fd"
+}

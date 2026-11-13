@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: humiliation at E02-006\", \"segments\": [{\"start_id\": \"E02-006\", \"end_id\": \"E02-026\"}], \"hook_id\": \"E02-006\", \"hook_quote\": \"You are far too plain...\", \"cliffhanger_id\": \"E02-026\", \"cliffhanger_quote\": \"Surely you will not let him humiliate me like this?\", \"hook_type\": \"humiliation\", \"why\": \"Rules only: hook signals [humiliation, delivery:menace], cliff signals [threat/turn, unanswered question].\", \"scores\": {\"hook\": 3, \"cliffhanger\": 3, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "294784a9794d564076d071c2e528b8fca34df5bdf1d2129c3a56c0141d33463f"
+}

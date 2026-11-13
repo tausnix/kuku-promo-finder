@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: physical at E47-037\", \"segments\": [{\"start_id\": \"E47-037\", \"end_id\": \"E47-051\"}], \"hook_id\": \"E47-037\", \"hook_quote\": \"Do it, Vaughn! Throw her past the estate perimeter!\", \"cliffhanger_id\": \"E47-051\", \"cliffhanger_quote\": \"You want me? As a guest?\", \"hook_type\": \"physical\", \"why\": \"Rules only: hook signals [physical, delivery:rage, exclamation], cliff signals [shock beat, unanswered question].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 3, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "22be64c0d0d8f94bd6a1d52bda0832498bcb8af80eb85406be4bc4cf8cb16863"
+}

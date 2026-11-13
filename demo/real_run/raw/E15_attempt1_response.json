@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: confrontation at E15-031\", \"segments\": [{\"start_id\": \"E15-031\", \"end_id\": \"E15-055\"}], \"hook_id\": \"E15-031\", \"hook_quote\": \"Get out of the way!\", \"cliffhanger_id\": \"E15-055\", \"cliffhanger_quote\": \"Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.\", \"hook_type\": \"confrontation\", \"why\": \"Rules only: hook signals [confrontation, delivery:menace, exclamation], cliff signals [scripted cliffhanger, sound sting, episode ending].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 4, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "970566a88879f6e54ea08a8fb222698af8d07890e617c0220a9ca8f136286ab6"
+}

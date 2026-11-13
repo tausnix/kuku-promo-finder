@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: humiliation at E22-002\", \"segments\": [{\"start_id\": \"E22-002\", \"end_id\": \"E22-026\"}], \"hook_id\": \"E22-002\", \"hook_quote\": \"Lady Juliana walks nervously along the stone pavement dressed in a modest\", \"cliffhanger_id\": \"E22-026\", \"cliffhanger_quote\": \"Who is this?\", \"hook_type\": \"humiliation\", \"why\": \"Rules only: hook signals [humiliation], cliff signals [unanswered question].\", \"scores\": {\"hook\": 2, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "3497baa65a00e2b1812461101a0a559eb0f3afe41aeba76541c472c38dbcafc7"
+}

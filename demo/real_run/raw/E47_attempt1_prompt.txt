@@ -1,0 +1,75 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E47
+EPISODE_DURATION: 02:14.00
+LOGLINE: While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbourne—only for Juliana to offer her survival under the strict humiliation of a scullery maid.
+CONTINUITY: Follows Episode 46's ecclesiastical challenge by the High Priest. While Catherine plots in secret to remain on the estate, the morning brings her disgrace to light as Juliana decides her fate.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E47-037: physical, delivery:rage, exclamation
+- E47-031: confrontation, delivery:anguish, exclamation
+- E47-055: delivery:rage, delivery:menace
+- E47-039: delivery:shouting, exclamation
+- E47-033: threat
+- E47-047: physical
+Possible cliffhangers:
+- E47-051: shock beat, unanswered question
+- E47-007: threat/turn
+- E47-057: threat/turn
+- E47-059: threat/turn
+- E47-061: threat/turn
+- E47-069: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E47-003 [00:01.80-00:08.20] DIALOGUE CATHERINE (Calculated, Defiant): "Rupert is rotting in the undercroft cells. Not me. I intend to stay on this estate."
+E47-005 [00:08.80-00:14.50] DIALOGUE CONSPIRATOR (Low, Warning): "Alexander will scour the grounds at first light. The High Council has already blocked the marriage registry."
+E47-007 [00:15.00-00:18.20] DIALOGUE CATHERINE (Commanding, Scheming): "Then you will make sure I remain inside these walls."
+E47-009 [00:18.50-00:21.20] DIALOGUE CATHERINE (Ruthless, Focused): "Keep the council paralyzed. I will do the rest."
+E47-012 [00:23.40-00:26.80] DIALOGUE JULIANA (Anxious, Trembling): "What if Father Thomas sways the High Council?"
+E47-014 [00:27.00-00:30.30] DIALOGUE JULIANA (Vulnerable, Fearful): "What if they strip your title? Because of me?"
+E47-015 [00:30.50-00:35.00] ACTION: Juliana looks down at her hands, turning over her scarred palms shaped by years of herbal work.
+E47-016 [00:31.00-00:35.20] DIALOGUE JULIANA (Despairing): "I am only a healer. The lords will never accept me."
+E47-018 [00:35.80-00:37.80] DIALOGUE ALEXANDER (Gentle, Resolute): "Look at me, Juliana."
+E47-020 [00:38.20-00:42.50] DIALOGUE ALEXANDER (Fierce, Loving): "You saved my mother's life. You stood by me when I had nothing."
+E47-022 [00:43.00-00:45.50] DIALOGUE ALEXANDER (Deep, Unwavering): "You are my wife."
+E47-023 [00:45.50-00:48.00] ACTION: Alexander gently pulls Juliana closer, his hands resting securely on her shoulders.
+E47-024 [00:45.80-00:54.80] DIALOGUE ALEXANDER (Authoritative, Steadfast): "You were my wife before that priest ever opened his mouth. And we will stand before the King and God again within ten days. Nothing breaks that."
+E47-027 [00:56.80-00:59.80] DIALOGUE LADY ASHBOURNE (Sharp, Contemptuous): "You dare show your face in Ashbourne courtyard?"
+E47-029 [01:00.50-01:03.40] DIALOGUE CATHERINE (Desperate, Weeping): "I have nowhere to go, Your Grace."
+E47-031 [01:03.50-01:06.80] DIALOGUE CATHERINE (Sobbing, Pleading): "London closed its doors! My family disowned me!"
+E47-033 [01:07.20-01:11.20] DIALOGUE LADY ASHBOURNE (Cold, Unforgiving): "She aided the poison in my veins. Cast her into the road."
+E47-035 [01:11.80-01:14.80] DIALOGUE VAUGHN (Gruff, Ready): "One command, Your Grace, and I drag her past the gates."
+E47-037 [01:15.20-01:18.50] DIALOGUE ALEXANDER (Furious, Decisive): "Do it, Vaughn! Throw her past the estate perimeter!"
+E47-039 [01:18.80-01:21.80] DIALOGUE CATHERINE (Hysterical, Screaming): "Please, Alexander! Have mercy!"
+E47-041 [01:22.20-01:23.40] DIALOGUE JULIANA (Clear, Authoritative): "Stop."
+E47-043 [01:24.00-01:26.50] DIALOGUE ALEXANDER (Indignant, Protective): "Juliana, she tried to destroy you!"
+E47-045 [01:26.70-01:27.80] DIALOGUE JULIANA (Calm, Composed): "She did."
+E47-047 [01:28.20-01:31.00] DIALOGUE JULIANA (Dignified, Principled): "But Ashbourne does not throw beggars into the mud."
+E47-048 [01:31.00-01:35.00] ACTION: Juliana walks to a side bench, picks up a rough servant's apron and a heavy iron ring of keys, and turns back to face Catherine.
+E47-049 [01:31.50-01:35.00] DIALOGUE JULIANA (Steely, Direct): "If you seek shelter in this house, Catherine, you earn it."
+E47-051 [01:36.00-01:38.80] DIALOGUE CATHERINE (Incredulous, Stunned): "You want me? As a guest?"
+E47-053 [01:39.20-01:41.00] DIALOGUE JULIANA (Unflinching, Firm): "As a scullery maid."
+E47-055 [01:41.50-01:44.50] DIALOGUE CATHERINE (Outraged, Venomous): "You expect me to scrub floors before these commoners?"
+E47-057 [01:45.20-01:48.50] DIALOGUE JULIANA (Measured, Commanding): "You will scrub the floors you walked on as an impostor."
+E47-059 [01:48.80-01:51.50] DIALOGUE JULIANA (Stern, Demanding): "You will scrub the manor hearths at dawn."
+E47-061 [01:51.80-01:54.50] DIALOGUE JULIANA (Unforgiving): "You will scour the kitchen grease until midnight."
+E47-063 [01:54.80-01:58.50] DIALOGUE JULIANA (Stern, Final): "One complaint from the housekeeper, and you are cast out with nothing."
+E47-065 [01:59.20-02:01.60] DIALOGUE CATHERINE (Choked, Humiliated): "You humiliate me."
+E47-067 [02:02.20-02:07.20] DIALOGUE JULIANA (Calm, Sovereign): "I offer you bread and honest labor. Take the apron, or leave the county."
+E47-069 [02:08.50-02:11.20] DIALOGUE CATHERINE (Broken, Defeated): "I accept, Your Grace."
+
+NEXT_EPISODE_OPENING (E48, first 30 s; continuation only):
+E48-002 [00:00.00-00:03.00] ACTION: Catherine, adorned in an ornate dark burgundy gown with braided golden hair, gazes out the dark window before turning slowly with a cold, venomous smirk.
+E48-003 [00:02.40-00:07.50] DIALOGUE CATHERINE (Vindictive, Cold): "Two words, and that healer's crown rolls right back into the gutter where it belongs."
+E48-005 [00:07.80-00:12.30] ACTION: Catherine glides across the chamber past a roaring stone hearth, picking up an orange from a silver platter on the table.
+E48-006 [00:08.00-00:12.30] DIALOGUE CATHERINE (Scheming): "Ten days. He gave himself ten days to fix it."
+E48-008 [00:12.60-00:14.90] DIALOGUE CATHERINE (Intense, Measured): "Ten days for the council to sit."
+E48-009 [00:15.00-00:18.50] ACTION: Catherine raises a gloved index finger, emphasizing each point with sinister precision.
+E48-010 [00:15.10-00:17.20] DIALOGUE CATHERINE (Calculating): "Ten days for witnesses to be gathered."
+E48-011 [00:17.40-00:19.70] DIALOGUE CATHERINE (Dark, Threatening): "Ten days for a decree to be undone."
+E48-013 [00:20.10-00:23.70] DIALOGUE CATHERINE (Menacing, Resolute): "Ten days is not a wall, Alexander. It's a door."
+E48-014 [00:23.90-00:26.50] DIALOGUE CATHERINE (Chillingly Calm): "And doors can be closed from the other side."
+E48-016 [00:26.80-00:29.50] ACTION: Agnes, dressed in a grey maid's dress and white apron, steps inside with cautious hesitation and clasps her hands.
+E48-017 [00:29.20-00:30.80] DIALOGUE AGNES (Hushed, Submissive): "You sent for me, my lady?"
+
+Return up to 1 promos for E47 as JSON.

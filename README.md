@@ -35,8 +35,10 @@ The review UI is a standard Streamlit app (`app.py`), so the repo deploys as-is:
    ```
 3. Deploy. With no key the app still runs: the sidebar defaults to the offline `mock` rules baseline.
 
-`demo/` holds a small synthetic run so the review screen is populated on first load.
-Streamlit Cloud storage is ephemeral: runs started in the app, and editor decisions, reset on redeploy.
+`demo/` holds two runs so the review screen is populated on first load: `demo/real_run` (the full
+50-episode pack, offline rules baseline) and `demo/demo_run` (a tiny synthetic show). Open the run
+dropdown to switch. Streamlit Cloud storage is ephemeral: runs started in the app, and editor
+decisions, reset on redeploy.
 
 ## Who does what
 
@@ -116,7 +118,8 @@ Default model names are in each class. Check them against the provider's current
 
 ## Confidentiality
 
-The input pack is Kuku's and confidential, so this repo holds code only. `.gitignore` excludes the scripts
-(`.zip`, `data/`), every run's outputs (`outputs/`: promos quote the script) and the LLM cache. Raw outputs
-are shared through the private submission link. Tests use made-up dialogue; `demo/` is synthetic too and
-safe to publish.
+The input pack is Kuku's and confidential. `.gitignore` excludes uploaded scripts (`.zip`, `data/`)
+and every run the app writes at runtime (`outputs/`: promos quote the script). The one exception is
+`demo/real_scripts.zip` plus its run in `demo/real_run`, which are bundled so the deployed app opens
+on the full show; that publication was explicitly approved. Everything else is shared privately.
+Tests use made-up dialogue; `demo/demo_run` is synthetic too.

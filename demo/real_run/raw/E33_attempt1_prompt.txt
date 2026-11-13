@@ -1,0 +1,86 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E33
+EPISODE_DURATION: 02:54.04
+LOGLINE: Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft.
+CONTINUITY: Following Catherine's dungeon interrogation of Juliana, the conspiracy against Juliana deepens as an aristocratic lord forces a testimony of witchcraft out of the young maid whose brother Juliana saved.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E33-077: delivery:shouting, delivery:anguish, exclamation
+- E33-081: delivery:shock, exclamation
+- E33-093: physical
+- E33-035: delivery:anguish, exclamation
+- E33-037: delivery:menace
+- E33-043: delivery:anguish, exclamation
+Possible cliffhangers:
+- E33-041: shock beat
+- E33-081: shock beat
+- E33-092: threat/turn
+- E33-099: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E33-002 [00:02.50-00:04.80] DIALOGUE LORD (Cold, Authoritative): "Your brother is breathing again."
+E33-003 [00:04.00-00:06.50] ACTION: The young maid steps inside, bowing with a submissive curtsy, keeping her head low and hands clasped.
+E33-005 [00:06.50-00:08.50] DIALOGUE MAID (Meek, Hesitant): "Yes, my Lord."
+E33-007 [00:09.50-00:11.80] DIALOGUE LORD (Probing): "And who saved him?"
+E33-009 [00:13.00-00:14.50] DIALOGUE MAID (Quiet, Truthful): "Lady Juliana."
+E33-011 [00:15.50-00:17.50] DIALOGUE LORD (Measured, Demanding): "Tell me how."
+E33-013 [00:19.50-00:21.00] DIALOGUE MAID (Faltering): "She... she used herbs."
+E33-015 [00:21.20-00:22.80] DIALOGUE LORD (Sharp, Intimidating): "What herbs?"
+E33-017 [00:24.50-00:26.20] DIALOGUE MAID (Whispering, Nervous): "I don't know."
+E33-019 [00:27.50-00:29.00] DIALOGUE LORD (Stern): "You watched her."
+E33-021 [00:29.80-00:32.00] DIALOGUE MAID (Tearful, Sincere): "I watched her save him."
+E33-023 [00:34.00-00:36.20] DIALOGUE LORD (Coldly Dismissive): "That is not what I asked."
+E33-025 [00:37.50-00:40.00] DIALOGUE LORD (Accusatory): "Did she use her mother's book?"
+E33-027 [00:42.20-00:43.60] DIALOGUE MAID (Quietly Weeping): "Yes."
+E33-029 [00:44.80-00:48.80] DIALOGUE LORD (Insistent, Cornering): "Did she prepare things no physician had prescribed?"
+E33-031 [00:50.00-00:51.60] DIALOGUE MAID (Choked Sob): "Yes."
+E33-033 [00:53.00-00:56.50] DIALOGUE LORD (Sly, Sinister): "And did she perform anything unusual?"
+E33-035 [00:57.40-00:58.80] DIALOGUE MAID (Desperate, Denying): "No!"
+E33-037 [00:59.00-01:01.00] DIALOGUE LORD (Low, Menacing): "Think carefully."
+E33-038 [01:01.20-01:03.50] DIALOGUE LORD (Ruthless): "Your brother is still a pauper."
+E33-040 [01:04.40-01:08.50] DIALOGUE LORD (Threatening): "One word from me, and the county gaol will take him before sunrise."
+E33-041 [01:08.50-01:10.00] ACTION: The maid gasps in sheer terror, her chest heaving as tears stream.
+E33-043 [01:09.50-01:13.00] DIALOGUE MAID (Begging, Heartbroken): "Please, my Lord... he is only seven!"
+E33-045 [01:13.20-01:15.00] DIALOGUE LORD (Cold, Unwavering): "Then help him."
+E33-047 [01:16.80-01:19.00] DIALOGUE MAID (Crying, Shattered): "What do you want me to say?!"
+E33-049 [01:19.60-01:20.50] DIALOGUE LORD (Deceptive): "The truth."
+E33-050 [01:21.00-01:24.50] DIALOGUE LORD (Leading, Deliberate): "She drew something around the bed, did she not?"
+E33-052 [01:25.50-01:28.80] DIALOGUE MAID (Trembling, Reluctant): "She... placed dried herbs around him."
+E33-054 [01:29.00-01:30.50] DIALOGUE LORD (Hypnotic, Coercive): "Around him."
+E33-055 [01:31.00-01:32.50] DIALOGUE LORD (Coercive): "Like a circle?"
+E33-056 [01:33.00-01:34.50] DIALOGUE MAID (Faint, Defeated): "Yes."
+E33-058 [01:35.00-01:38.00] DIALOGUE LORD (Whispering, Trap Snapping): "And she opened her mother's book..."
+E33-060 [01:38.50-01:40.00] DIALOGUE MAID (Sobbing): "Yes."
+E33-062 [01:41.00-01:44.00] DIALOGUE LORD (Sinister): "...and spoke words you could not understand."
+E33-064 [01:44.50-01:46.50] DIALOGUE MAID (Desperately Defending): "She was praying!"
+E33-066 [01:48.00-01:51.50] DIALOGUE LORD (Taunting): "Praying... or chanting?"
+E33-068 [01:52.00-01:53.50] DIALOGUE MAID (Hysterically Sobbing): "I don't know!"
+E33-070 [01:54.00-01:56.50] DIALOGUE LORD (Calculating, Relentless): "You saw a woman draw a circle of herbs."
+E33-071 [01:56.80-01:59.50] DIALOGUE LORD (Relentless): "You saw her use a forbidden book."
+E33-073 [01:59.80-02:02.80] DIALOGUE LORD (Condemning): "You heard words you could not understand."
+E33-075 [02:04.50-02:06.50] DIALOGUE LORD (Deadly, Resolute): "That is witchcraft."
+E33-077 [02:06.80-02:11.50] DIALOGUE MAID (Crying Out, Desperate): "No! She saved Toby! She made him breathe again!"
+E33-079 [02:12.00-02:14.00] DIALOGUE LORD (Cold, Final): "That will be your testimony."
+E33-081 [02:14.50-02:17.00] DIALOGUE MAID (Gasping, Shocked): "My testimony?!"
+E33-083 [02:18.00-02:20.00] DIALOGUE LORD (Unyielding): "Before the magistrate."
+E33-085 [02:20.50-02:24.00] DIALOGUE MAID (Wailing, Tormented): "I never said she was a witch!"
+E33-087 [02:25.00-02:26.50] DIALOGUE LORD (Chillingly Detached): "You do not need to."
+E33-088 [02:26.80-02:29.00] DIALOGUE LORD (Chillingly Detached): "I have already written the story for you."
+E33-090 [02:29.50-02:32.00] DIALOGUE MAID (Sobbing): "She saved my brother..."
+E33-092 [02:32.50-02:36.00] DIALOGUE LORD (Inexorable): "And now... you will save your brother."
+E33-093 [02:36.20-02:39.50] ACTION: The maid's knees buckle completely. She collapses forward onto the polished dark wood floor, groveling in total despair.
+E33-095 [02:39.00-02:41.50] DIALOGUE MAID (Weeping, Broken): "I am sorry, Lady Juliana..."
+E33-097 [02:41.80-02:44.50] DIALOGUE LORD (Cold, Merciless): "Save your tears for the trial."
+E33-099 [02:44.50-02:54.04] ACTION: The heartbroken maid weeps silently in the shadow of the desk, consumed by guilt and powerlessness.
+
+NEXT_EPISODE_OPENING (E34, first 30 s; continuation only):
+E34-002 [00:01.20-00:07.80] DIALOGUE JUDGE (Booming, Authoritative): "Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning."
+E34-005 [00:09.00-00:11.20] SFX: [A firm, hollow tap of a finger striking the parchment]
+E34-006 [00:09.10-00:12.60] DIALOGUE JUDGE (O.S., Inquisitive, Severe): "Do you deny possessing this book?"
+E34-008 [00:13.80-00:14.80] DIALOGUE LADY JULIANA (Calm, Unflinching): "No."
+E34-010 [00:15.60-00:19.20] DIALOGUE JUDGE (Stern, Accusatory): "Do you deny using its remedies?"
+E34-012 [00:20.80-00:21.80] DIALOGUE LADY JULIANA (Firm): "No."
+E34-015 [00:27.50-00:31.20] DIALOGUE JUDGE (Hard, Pressing): "Then you admit to practicing forbidden arts."
+
+Return up to 1 promos for E33 as JSON.

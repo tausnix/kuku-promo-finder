@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: threat at E23-040\", \"segments\": [{\"start_id\": \"E23-040\", \"end_id\": \"E23-066\"}], \"hook_id\": \"E23-040\", \"hook_quote\": \"Someone is poisoning her.\", \"cliffhanger_id\": \"E23-066\", \"cliffhanger_quote\": \"Loud, metallic clack of the door latch turning, followed by the slow\", \"hook_type\": \"threat\", \"why\": \"Rules only: hook signals [threat], cliff signals [episode ending].\", \"scores\": {\"hook\": 3, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.0,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "601cc120eda0fdb625d1975c9af87a7962cdd0ed0c62429c9587ccb703b2a6fe"
+}

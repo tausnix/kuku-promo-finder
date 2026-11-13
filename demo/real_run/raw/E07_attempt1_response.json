@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: shocking_line at E07-032\", \"segments\": [{\"start_id\": \"E07-032\", \"end_id\": \"E07-051\"}], \"hook_id\": \"E07-032\", \"hook_quote\": \"I have enough influence to make a beggar disappear.\", \"cliffhanger_id\": \"E07-051\", \"cliffhanger_quote\": \"Carriage door slamming shut.\", \"hook_type\": \"shocking_line\", \"why\": \"Rules only: hook signals [delivery:rage, delivery:menace], cliff signals [interruption].\", \"scores\": {\"hook\": 3, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "b0040f85dea5988669a54e968a5e548dffea4bfa2e3f6f0048adac374bd2f045"
+}

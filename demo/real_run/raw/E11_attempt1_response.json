@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: shocking_line at E11-022\", \"segments\": [{\"start_id\": \"E11-022\", \"end_id\": \"E11-065\"}], \"hook_id\": \"E11-022\", \"hook_quote\": \"You never even entered the cottage!\", \"cliffhanger_id\": \"E11-065\", \"cliffhanger_quote\": \"Happy?\", \"hook_type\": \"shocking_line\", \"why\": \"Rules only: hook signals [delivery:rage, delivery:contempt, exclamation], cliff signals [unanswered question].\", \"scores\": {\"hook\": 3, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "c948eecb42081e2b23285c6b8d68e2eb1d3268d016b861e761a0a38124a890be"
+}

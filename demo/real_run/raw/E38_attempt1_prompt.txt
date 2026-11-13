@@ -1,0 +1,70 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E38
+EPISODE_DURATION: 01:27.91
+LOGLINE: A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant wedding bells signal the start of Rupert's nuptials and her impending execution.
+CONTINUITY: Following Rupert and Catherine's cruel announcement pairing their wedding with Juliana's public execution, Juliana remains starved in the subterranean dungeon awaiting her fate.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E38-009: humiliation
+- E38-031: confrontation, delivery:anguish
+- E38-057: violence
+- E38-013: threat
+- E38-030: threat
+- E38-041: betrayal
+Possible cliffhangers:
+- E38-055: trailing line, episode ending
+- E38-057: sound sting, episode ending
+- E38-044: episode ending
+- E38-054: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E38-002 [00:00.00-00:03.50] ACTION: Juliana sits motionless against the cold masonry, weak and visibly drained from starvation, her eyes cast downward.
+E38-003 [00:03.20-00:06.00] SFX: Echoing, heavy bootsteps approach down the corridor outside the cell.
+E38-005 [00:05.00-00:07.50] ACTION: Juliana blinks, lifting her gaze toward the heavy iron bars.
+E38-007 [00:08.50-00:11.00] ACTION: The Guard pauses, glancing over his shoulder into the gloomy corridor to ensure he is unobserved.
+E38-009 [00:11.00-00:15.50] ACTION: The Guard kneels down and slips a small loaf of rustic bread through the bottom gap between the iron bars, nudging it inside before withdrawing his gloved hand.
+E38-011 [00:16.00-00:17.30] DIALOGUE JULIANA (Breathless, Bewildered): "Why?"
+E38-013 [00:17.50-00:20.30] DIALOGUE GUARD (Subdued, Sincere): "Because no one should die hungry."
+E38-014 [00:20.50-00:22.00] DIALOGUE GUARD (Urgent, Whispered): "Eat it before they see."
+E38-016 [00:21.80-00:23.20] ACTION: The Guard's silhouette retreats into the shadows.
+E38-018 [00:23.50-00:27.50] ACTION: Juliana clutches the bread tightly with both hands, tears welling in her eyes.
+E38-019 [00:26.00-00:27.50] DIALOGUE JULIANA (Choked Up, Tearful): "Thank you."
+E38-020 [00:27.80-00:31.00] ACTION: Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite.
+E38-022 [00:31.00-00:34.50] ACTION: Juliana chews hungrily, closing her eyes as the agonizing reality of her plight hits her anew.
+E38-023 [00:34.50-00:36.50] DIALOGUE JULIANA (Sorrowful, Whispering): "Alexander..."
+E38-025 [00:36.80-00:39.00] DIALOGUE JULIANA (Yearning): "...are you safe?"
+E38-027 [00:40.00-00:43.00] DIALOGUE JULIANA (Desperate, Trembling): "Do you even know what happened to me?"
+E38-028 [00:43.20-00:45.20] DIALOGUE JULIANA (Grief-Stricken): "Do you know they condemned me?"
+E38-030 [00:45.50-00:47.50] DIALOGUE JULIANA (Fearful, Pleading): "What if I die here?"
+E38-031 [00:47.80-00:50.50] DIALOGUE JULIANA (Heartbroken): "What if I never see you again?"
+E38-032 [00:48.50-00:51.00] ACTION: A heavy tear drips down from her jaw, falling into the dark dampness below.
+E38-034 [00:51.50-00:53.50] DIALOGUE JULIANA (Fervent Prayer): "Keep him safe."
+E38-035 [00:53.80-00:55.30] DIALOGUE JULIANA (Resigned): "Wherever he is."
+E38-037 [00:55.50-00:57.00] DIALOGUE JULIANA (Determined): "Let him live."
+E38-038 [00:57.50-01:00.50] DIALOGUE JULIANA (Steely): "And if I have only one thing left to give..."
+E38-040 [01:00.80-01:02.50] DIALOGUE JULIANA (Defiant, Unshakable): "I will not give them my husband."
+E38-041 [01:02.80-01:04.20] DIALOGUE JULIANA (Resolute): "I will not betray him."
+E38-043 [01:04.50-01:06.50] ACTION: Juliana's eyes snap wide open in sudden realization as a deep resonant toll reverberates from above.
+E38-044 [01:04.80-01:27.00] SFX: Solemn, resonant church bells begin tolling rhythmically from the cathedral above, echoing deep into the stone dungeon.
+E38-046 [01:09.00-01:10.30] DIALOGUE JULIANA (Startled Whisper): "Bells."
+E38-048 [01:11.00-01:13.50] ACTION: Juliana rushes toward the front of the cell, clutching the iron bars with both hands.
+E38-050 [01:12.80-01:14.20] DIALOGUE JULIANA (Realizing): "The wedding."
+E38-051 [01:14.50-01:15.80] DIALOGUE JULIANA (Grim): "It's beginning."
+E38-052 [01:16.00-01:18.50] DIALOGUE JULIANA (Somber, Steely): "Then I suppose I'm next."
+E38-054 [01:21.00-01:24.00] ACTION: Juliana grips the bars tightly, her lips curving into a warm, defiant smile as she whispers her husband's name.
+E38-055 [01:22.50-01:24.00] DIALOGUE JULIANA (Hopeful, Tender): "Alexander..."
+E38-057 [01:24.50-01:27.91] SFX: A sharp, high-tension dramatic swell strikes and echoes out into silence alongside the fading toll of the distant church bells.
+
+NEXT_EPISODE_OPENING (E39, first 30 s; continuation only):
+E39-002 [00:00.00-00:04.60] ACTION: Men in work clothes stack wooden crates onto the back of a large carriage as horses snort restlessly in the morning mist.
+E39-004 [00:04.60-00:07.10] ACTION: The scout stands quietly by a wooden rail, keeping a sharp eye on passing civilians.
+E39-008 [00:13.80-00:15.80] ACTION: Four royal guards in red ceremonial tunics and tall black bearskin hats stand rigidly at attention with rifles on the grand cathedral staircase.
+E39-011 [00:18.30-00:19.90] DIALOGUE LOYALIST SCOUT (Low, Urgent): "Six at the front."
+E39-012 [00:20.20-00:21.80] DIALOGUE LOYALIST FIGHTER (Grave): "Four more inside."
+E39-014 [00:22.50-00:23.20] DIALOGUE LOYALIST SCOUT (Focused): "And the east gate?"
+E39-015 [00:23.30-00:24.20] DIALOGUE LOYALIST FIGHTER (Determined): "Ours."
+E39-017 [00:24.20-00:29.60] ACTION: A lone driver in rugged attire guides the horse cart slowly toward the sentries guarding the arched entryway.
+E39-019 [00:29.80-00:30.60] DIALOGUE ROYAL SENTRY (Commanding): "Stop!"
+
+Return up to 1 promos for E38 as JSON.

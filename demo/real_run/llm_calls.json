@@ -1,0 +1,502 @@
+[
+  {
+    "episode": 1,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 2,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 3,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 4,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 5,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 6,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 7,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 8,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.0,
+    "usage": {},
+    "n_proposed": 0
+  },
+  {
+    "episode": 9,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 10,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.0,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 11,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 12,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.0,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 13,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 14,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.0,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 15,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 16,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 17,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 0
+  },
+  {
+    "episode": 18,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 19,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 0
+  },
+  {
+    "episode": 20,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 21,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 22,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 23,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.0,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 24,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 25,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 26,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 27,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.0,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 28,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 29,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 30,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 31,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 32,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 33,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 34,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 35,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 36,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 37,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 38,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 39,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 40,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 41,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 42,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 43,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 44,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 45,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 46,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 47,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 48,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 49,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.01,
+    "usage": {},
+    "n_proposed": 1
+  },
+  {
+    "episode": 50,
+    "attempt": 1,
+    "ok": true,
+    "error": null,
+    "cached": false,
+    "latency_s": 0.0,
+    "usage": {},
+    "n_proposed": 0
+  }
+]

@@ -1,0 +1,78 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E21
+EPISODE_DURATION: 01:54.00
+LOGLINE: After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly withering away from a mysterious illness inside Ashbury Manor.
+CONTINUITY: Directly follows Episode 20's cliffhanger where Catherine and Rupert plotted to seize Ashbury upon the Dowager Duchess's demise; in the village, Juliana puts aside her grief over her burned cottage to save young Toby, stumbling upon critical intelligence regarding the manor.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E21-022: threat, delivery:anguish, exclamation
+- E21-003: physical
+- E21-005: delivery:anguish, exclamation
+- E21-010: delivery:anguish, exclamation
+- E21-025: physical
+- E21-068: reveal
+Possible cliffhangers:
+- E21-065: ominous
+- E21-073: episode ending
+- E21-075: episode ending
+
+SCRIPT_LINES (camera directions omitted):
+E21-002 [00:00.00-00:03.50] ACTION: Lady Juliana gently straightens the grey wool blanket over the hay bed, exhaling a soft, exhausted sigh.
+E21-003 [00:03.50-00:04.80] SFX: A loud wooden slam as the heavy double barn doors violently fly open.
+E21-005 [00:04.20-00:08.00] DIALOGUE PRUDENCE (Desperate, Panicked): "Lady Juliana! Please! You have to help me, Toby is dying!"
+E21-006 [00:08.20-00:10.50] ACTION: Lady Juliana hurries over, placing her bandaged hands reassuringly on Prudence's trembling shoulders.
+E21-008 [00:08.50-00:11.00] DIALOGUE LADY JULIANA (Gentle, Urgent): "Oh dear. Breathe. Tell me what has happened."
+E21-010 [00:11.20-00:15.00] DIALOGUE PRUDENCE (Sobbing, Breathless): "My little brother Toby... his chest is burning! He cannot breathe!"
+E21-012 [00:15.00-00:18.20] DIALOGUE LADY JULIANA (Inquiring, Strained): "Tell me what the apothecary said. Did he not give you medicine?"
+E21-014 [00:18.20-00:21.70] DIALOGUE PRUDENCE (Anguished, Resentful): "He shut the door in my face because we have no silver!"
+E21-016 [00:21.80-00:25.30] DIALOGUE PRUDENCE (Bitter, Tearful): "The manor doctor laughed! He said village boys are not worth his time!"
+E21-018 [00:25.10-00:27.40] DIALOGUE LADY JULIANA (Sorrowful, Dejected): "We have no clinic now."
+E21-019 [00:27.50-00:30.80] DIALOGUE LADY JULIANA (Despondent): "Our cottage is ashes. I have nothing left but this coltsfoot."
+E21-020 [00:31.00-00:33.00] ACTION: Prudence drops desperately to her knees onto the hay-strewn barn floor, clasping her hands in tearful supplication.
+E21-022 [00:31.00-00:35.80] DIALOGUE PRUDENCE (Pleading, Desperate): "He is only seven! If you do not come, he will die! You are his only hope, Lady Juliana!"
+E21-023 [00:35.80-00:39.50] ACTION: Lady Juliana immediately reaches down and pulls Prudence firmly back to her feet, then turns to snatch her heavy leather-bound herbal ledger from the wooden workbench.
+E21-025 [00:35.90-00:40.40] DIALOGUE LADY JULIANA (Resolute, Authoritative): "Stand up. Sinking to your knees will not save him. Let me grab my ledger. We go now."
+E21-027 [00:40.50-00:42.80] ACTION: Lady Juliana clutches the thick book to her chest as she and Prudence sprint swiftly through the village.
+E21-029 [00:42.80-00:45.50] SFX: Heavy, raspy chest coughs echoing in the small room, accompanied by crackling hearth fire.
+E21-030 [00:45.50-00:48.00] ACTION: Lady Juliana rushes in, sets the ledger on the rustic wooden table, and quickly flips open the pages.
+E21-032 [00:47.30-00:48.80] DIALOGUE LADY JULIANA (Alarmed, Focused): "His skin is burning hot."
+E21-033 [00:48.80-00:50.50] ACTION: Lady Juliana places her bandaged hand against Toby's flushed, sweating forehead as he wheezes painfully.
+E21-035 [00:48.90-00:50.80] DIALOGUE LADY JULIANA (Commanding): "Prudence, fetch hot water immediately!"
+E21-037 [00:51.20-00:53.00] DIALOGUE PRUDENCE (Hurried, Obedient): "Yes! Right away, I will get it!"
+E21-038 [00:53.00-00:55.00] ACTION: Prudence wraps a cloth around the iron handle of the steaming kettle resting over the hearth fire and lifts it.
+E21-040 [00:54.10-00:58.20] DIALOGUE LADY JULIANA (V.O., Introspective, Determined): "I cannot let my own weariness stop me. This boy needs my mother's knowledge."
+E21-041 [00:58.20-01:00.50] ACTION: Lady Juliana crushes dried herbal leaves into a dark wooden bowl between her bandaged hands, then pours steaming water over them from the kettle.
+E21-043 [01:00.80-01:04.00] ACTION: Lady Juliana sits beside the pallet and brings the steaming herbal bowl close to Toby's face while Prudence cradles his shoulders.
+E21-045 [01:01.00-01:04.00] DIALOGUE LADY JULIANA (Instructive, Calm): "Lift his shoulders, Prudence. Hold the steam close. Let him inhale."
+E21-047 [01:04.50-01:06.60] DIALOGUE PRUDENCE (Tearful, Coaxing): "Like this? Toby, breathe it in, sweet boy."
+E21-049 [01:06.80-01:10.40] DIALOGUE LADY JULIANA (Encouraging, Reassuring): "Yes, just like that. Keep breathing, Toby. Let the vapor clear your chest."
+E21-050 [01:10.50-01:13.50] ACTION: Toby's strained wheezing eases into quiet, rhythmic breathing as he slips into peaceful sleep on his pillow.
+E21-053 [01:12.00-01:15.50] DIALOGUE PRUDENCE (Overwhelmed, Relieved): "Oh, thank God! His chest is quiet! The rattling has stopped!"
+E21-054 [01:15.50-01:19.50] ACTION: Lady Juliana pulls the plaid wool blanket snug over Toby's chest, smiling softly with profound relief.
+E21-056 [01:16.00-01:19.60] DIALOGUE LADY JULIANA (Gentle, Caring): "Keep him warm. Give him three drops of this coltsfoot tea every morning."
+E21-058 [01:19.80-01:23.00] DIALOGUE PRUDENCE (Grateful, Choked with Emotion): "You saved him. The grand doctors left him to choke, but you..."
+E21-059 [01:23.00-01:27.50] DIALOGUE PRUDENCE (Fervent, Devoted): "I have no money, Lady Juliana, but I swear on my life, I will do anything to repay you."
+E21-060 [01:27.50-01:30.80] ACTION: Lady Juliana takes Prudence's trembling hands into hers, smiling with heartfelt warmth.
+E21-062 [01:27.70-01:30.50] DIALOGUE LADY JULIANA (Warm, Sincere): "Your brother's breath is payment enough for me, Prudence."
+E21-064 [01:31.00-01:34.50] DIALOGUE PRUDENCE (Indignant, Resentful): "At the grand manor, they ignore us. They only care about their own luxury."
+E21-065 [01:34.60-01:36.40] DIALOGUE PRUDENCE (Ominous): "But their gold cannot buy them health."
+E21-066 [01:36.50-01:38.20] ACTION: Lady Juliana turns sharply, her eyes widening with sudden recognition.
+E21-068 [01:36.50-01:39.20] DIALOGUE LADY JULIANA (Startled, Curious): "What do you mean? Is someone ill? The Dowager Duchess?"
+E21-070 [01:39.20-01:41.20] DIALOGUE PRUDENCE (Solemn, O.S.): "She is dying, Lady Juliana."
+E21-072 [01:41.20-01:43.40] DIALOGUE PRUDENCE (Conspiratorial, Grim): "A strange, mysterious illness is eating her away."
+E21-073 [01:43.50-01:48.40] DIALOGUE PRUDENCE (Dark, Chilling): "Inside that massive house with all their wealth, she is fading to nothing, and no one can stop it."
+E21-075 [01:48.50-01:54.00] ACTION: Lady Juliana sits motionless at the rustic wooden table, her bandaged hands holding open her late mother's leather-bound herbal ledger. Her eyes reflect deep apprehension as the dire truth settles over her.
+
+NEXT_EPISODE_OPENING (E22, first 30 s; continuation only):
+E22-002 [00:00.00-00:04.00] ACTION: Lady Juliana walks nervously along the stone pavement dressed in a modest dark maid's dress and a plain white apron, looking around cautiously.
+E22-004 [00:06.50-00:08.50] ACTION: Prudence rushes up behind Lady Juliana, pulling her into the shelter of the stone archway.
+E22-005 [00:07.00-00:11.10] DIALOGUE PRUDENCE (Urgent, Whispering): "Keep your head down. If anyone recognizes you, everything is over."
+E22-007 [00:11.20-00:14.20] DIALOGUE LADY JULIANA (Resolute, Quiet): "No one will recognize me dressed like this."
+E22-009 [00:14.20-00:19.00] DIALOGUE PRUDENCE (Nervous, Warning): "This is Ashburton Manor. The housekeeper watches everyone. Lady Catherine watches everyone, and Lord Rupert..."
+E22-011 [00:19.10-00:21.00] DIALOGUE LADY JULIANA (Determined): "The Duchess is dying."
+E22-013 [00:22.00-00:25.50] DIALOGUE LADY JULIANA (Defiant, Firm): "I saved Toby. I can save her."
+E22-015 [00:26.00-00:28.10] DIALOGUE PRUDENCE (Fretful): "And if they discover who you are?"
+E22-017 [00:28.20-00:31.00] DIALOGUE LADY JULIANA (Steely, Selfless): "Then I will face that when she is breathing again."
+
+Return up to 1 promos for E21 as JSON.

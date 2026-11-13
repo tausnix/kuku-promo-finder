@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: threat at E21-022\", \"segments\": [{\"start_id\": \"E21-022\", \"end_id\": \"E21-058\"}], \"hook_id\": \"E21-022\", \"hook_quote\": \"He is only seven! If you do not come, he will die!\", \"cliffhanger_id\": \"E21-058\", \"cliffhanger_quote\": \"You saved him. The grand doctors left him to choke, but you...\", \"hook_type\": \"threat\", \"why\": \"Rules only: hook signals [threat, delivery:anguish, exclamation], cliff signals [trailing line].\", \"scores\": {\"hook\": 3, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "7cedebab9b13c4f9a6ac8716d5235f1a775a3ff20d120378a9413a7564e2a126"
+}

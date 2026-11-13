@@ -1,0 +1,65 @@
+SHOW: I Married a Broken Soldier. He was a Duke
+CURRENT_EPISODE: E07
+EPISODE_DURATION: 01:56.00
+LOGLINE: When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from the forest to silently send them fleeing.
+CONTINUITY: Follows Episode 6, where Juliana found refuge and warmth beside the hearth with her mysterious husband; morning brings unwelcome visitors from her former life to their humble doorstep.
+
+RULE_FLAGGED_MOMENTS (keyword scan; hints only, often wrong):
+Possible hooks:
+- E07-032: delivery:rage, delivery:menace
+- E07-049: delivery:rage, exclamation
+- E07-011: physical, delivery:contempt
+- E07-039: violence
+- E07-050: physical
+- E07-017: delivery:menace
+Possible cliffhangers:
+- E07-042: ominous, shock beat
+- E07-051: interruption
+
+SCRIPT_LINES (camera directions omitted):
+E07-002 [00:00.00-00:04.80] ACTION: Juliana, dressed in her simple grey long-sleeved gown, works tirelessly with soil caked beneath her fingernails.
+E07-004 [00:05.00-00:11.50] SFX: Heavy carriage wheels grinding in mud, horse snorts, and rhythmic hoofbeats halting.
+E07-007 [00:19.50-00:21.00] ACTION: Aristocratic Woman smirks cruelly as she surveys the humble stone cottage.
+E07-008 [00:21.00-00:24.00] ACTION: Juliana rinses the heavy mud from her hands in a cold rainwater puddle and rises to her feet, holding her head high.
+E07-009 [00:22.00-00:24.50] DIALOGUE ARISTOCRATIC WOMAN (Mocking, Condescending): "This is where you live now?"
+E07-011 [00:25.00-00:29.80] DIALOGUE GERALD (Arrogant, Scornful): "A fitting home for a woman who threw away everything for a penniless soldier."
+E07-013 [00:30.00-00:32.60] DIALOGUE JULIANA (Sharp, Unintimidated): "You came all this way just to insult my home?"
+E07-015 [00:33.20-00:37.80] DIALOGUE ARISTOCRATIC WOMAN (Gloating, Mocking): "Home? Look at your hands, Juliana."
+E07-017 [00:38.20-00:39.80] DIALOGUE ARISTOCRATIC WOMAN (O.S., Cruel): "You look like a servant."
+E07-020 [00:41.20-00:44.80] DIALOGUE JULIANA (Proud, Resolute): "I work with my hands. There is no shame in that."
+E07-022 [00:45.20-00:46.80] DIALOGUE GERALD (Biting, Condescending): "You were born a lady."
+E07-024 [00:48.80-00:50.40] DIALOGUE JULIANA (Firm, Unapologetic): "And I remain one."
+E07-026 [00:51.50-00:54.60] DIALOGUE GERALD (Bitter, Sneering): "You chose that scarred beggar over a life of comfort."
+E07-028 [00:57.80-01:01.00] DIALOGUE JULIANA (Passionate, Defiant): "I chose a man who stood beside me when you walked away."
+E07-030 [01:01.80-01:04.80] DIALOGUE JULIANA (Cold, Commanding): "You have no authority here. Leave."
+E07-032 [01:05.60-01:08.50] DIALOGUE GERALD (Furious, Threatening): "I have enough influence to make a beggar disappear."
+E07-033 [01:08.60-01:09.50] DIALOGUE GERALD (Spiteful, Boastful): "And your husband?"
+E07-035 [01:09.50-01:11.20] DIALOGUE GERALD (V.O., Snarl): "Where is that beggar husband?"
+E07-036 [01:10.00-01:15.50] ACTION: The Scarred Bearded Man marches purposefully toward the cottage, carrying a heavy bundle of chopped firewood bound tightly with hemp cord.
+E07-039 [01:16.20-01:17.50] SFX: A dull, heavy thud of timber striking the mud.
+E07-042 [01:21.50-01:24.00] ACTION: Gerald freezes, his arrogant bravado instantly vanishing as cold dread overtakes his face.
+E07-044 [01:26.50-01:28.50] DIALOGUE ARISTOCRATIC WOMAN (O.S., Urgent, Annoyed): "Gerald, don't let him frighten you."
+E07-045 [01:28.60-01:30.00] DIALOGUE GERALD (Trembling, Trying to Save Face): "What are you staring at?"
+E07-046 [01:30.00-01:31.50] ACTION: Gerald rapidly turns on his heel toward the carriage, unwilling to face another second of the silent glare.
+E07-047 [01:30.10-01:31.40] DIALOGUE GERALD (Nervous, Hurried): "We are leaving."
+E07-049 [01:32.00-01:33.80] DIALOGUE ARISTOCRATIC WOMAN (Outraged, Flustered): "Leaving? Gerald!"
+E07-050 [01:33.80-01:36.50] ACTION: Aristocratic Woman scrambles back into the carriage, hiking up her gown in a fluster before slamming the door shut.
+E07-051 [01:35.00-01:36.00] SFX: Carriage door slamming shut.
+E07-054 [01:40.80-01:43.20] DIALOGUE JULIANA (Impressed, Softly Amused): "You didn't say a word."
+E07-056 [01:46.00-01:47.80] DIALOGUE SCARRED BEARDED MAN (Low, Gentle, Confident): "I didn't need to."
+
+NEXT_EPISODE_OPENING (E08, first 30 s; continuation only):
+E08-002 [00:00.00-00:03.20] ACTION: Juliana delicately runs her fingertips across the embossed leather cover of the worn botanical volume, noticing its weathered state.
+E08-003 [00:00.20-00:03.20] DIALOGUE JULIANA (Gentle, Somber): "Some of the pages are ruined. Careful."
+E08-005 [00:03.40-00:04.50] SFX: Soft metallic click of the book clasp loosening.
+E08-007 [00:05.10-00:07.80] DIALOGUE JULIANA (Reflective, Reverent): "Mother spent years writing this."
+E08-009 [00:08.50-00:10.50] ACTION: Alexander gently sets down a fresh bundle of small white herbal flowers tied with twine beside the open book.
+E08-011 [00:10.50-00:11.80] DIALOGUE JULIANA (Curious, Recognizing): "Yarrow."
+E08-013 [00:12.00-00:14.60] DIALOGUE ALEXANDER (Calm, Knowledgeable): "Good for wounds. Fever, too."
+E08-015 [00:15.10-00:16.10] DIALOGUE JULIANA (Inquiring, Soft): "How do you know that?"
+E08-017 [00:16.30-00:18.90] DIALOGUE ALEXANDER (Somber, Matter-of-Fact): "Soldiers learn quickly which plants keep a man alive."
+E08-019 [00:19.40-00:21.80] DIALOGUE JULIANA (Observant, Lightly Teasing): "You know more about healing than you let on."
+E08-021 [00:22.80-00:24.20] DIALOGUE ALEXANDER (Quiet, Gritty): "Enough to survive."
+E08-023 [00:25.00-00:26.80] DIALOGUE JULIANA (Hesitant, Soft): "Your hair and beard..."
+
+Return up to 1 promos for E07 as JSON.

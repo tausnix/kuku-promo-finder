@@ -1,0 +1,9 @@
+{
+  "text": "{\"promos\": [{\"title\": \"Rule pick: violence at E03-072\", \"segments\": [{\"start_id\": \"E03-072\", \"end_id\": \"E03-113\"}], \"hook_id\": \"E03-072\", \"hook_quote\": \"A heavy, bone-rattling punch followed by the clatter and thud of the\", \"cliffhanger_id\": \"E03-113\", \"cliffhanger_quote\": \"A collective, stunned gasp rippling across the entire congregation.\", \"hook_type\": \"violence\", \"why\": \"Rules only: hook signals [violence, physical], cliff signals [shock beat].\", \"scores\": {\"hook\": 4, \"cliffhanger\": 2, \"standalone\": 3}, \"context_needed\": \"\"}]}",
+  "provider": "mock",
+  "model": "rules-baseline",
+  "latency_s": 0.01,
+  "cached": false,
+  "usage": {},
+  "prompt_sha": "2b9850aa108419ee7e0c4a2988375acb7482462912198e4a1b2cb72b20b35b23"
+}
